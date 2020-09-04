@@ -1,0 +1,22 @@
+GO:0044464	C	1.00	cell part
+GO:0016020	C	1.00	membrane
+GO:0044424	C	0.70	intracellular part
+GO:0005886	C	0.70	plasma membrane
+GO:0005618	C	0.67	cell wall
+GO:0044444	C	0.52	cytoplasmic part
+GO:0043229	C	0.52	intracellular organelle
+GO:0043231	C	0.50	intracellular membrane-bounded organelle
+GO:0044446	C	0.42	intracellular organelle part
+GO:0044425	C	0.40	membrane part
+GO:0005829	C	0.39	cytosol
+GO:0032991	C	0.36	macromolecular complex
+GO:0005739	C	0.36	mitochondrion
+GO:0044429	C	0.35	mitochondrial part
+GO:0043234	C	0.35	protein complex
+GO:0031090	C	0.35	organelle membrane
+GO:0098800	C	0.34	inner mitochondrial membrane protein complex
+GO:0031974	C	0.34	membrane-enclosed lumen
+GO:0045261	C	0.33	proton-transporting ATP synthase complex, catalytic core F(1)
+GO:0005758	C	0.33	mitochondrial intermembrane space
+GO:0005754	C	0.33	mitochondrial proton-transporting ATP synthase, catalytic core
+GO:0005743	C	0.33	mitochondrial inner membrane

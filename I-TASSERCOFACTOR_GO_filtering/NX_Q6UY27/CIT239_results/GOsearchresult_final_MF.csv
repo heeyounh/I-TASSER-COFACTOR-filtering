@@ -1,0 +1,21 @@
+GO:0003824	F	0.66	catalytic activity
+GO:0004872	F	0.62	receptor activity
+GO:0038023	F	0.60	signaling receptor activity
+GO:0016740	F	0.60	transferase activity
+GO:0099600	F	0.59	transmembrane receptor activity
+GO:0050431	F	0.58	transforming growth factor beta binding
+GO:0005025	F	0.58	transforming growth factor beta receptor activity, type I
+GO:1901363	F	0.35	heterocyclic compound binding
+GO:0097159	F	0.35	organic cyclic compound binding
+GO:0036094	F	0.21	small molecule binding
+GO:0046872	F	0.18	metal ion binding
+GO:0019899	F	0.18	enzyme binding
+GO:0003676	F	0.18	nucleic acid binding
+GO:0005524	F	0.17	ATP binding
+GO:0044877	F	0.16	macromolecular complex binding
+GO:0022891	F	0.16	substrate-specific transmembrane transporter activity
+GO:0035478	F	0.13	chylomicron binding
+GO:0035473	F	0.13	lipase binding
+GO:0008320	F	0.13	protein transmembrane transporter activity
+GO:0008035	F	0.13	high-density lipoprotein particle binding
+GO:0003723	F	0.11	RNA binding

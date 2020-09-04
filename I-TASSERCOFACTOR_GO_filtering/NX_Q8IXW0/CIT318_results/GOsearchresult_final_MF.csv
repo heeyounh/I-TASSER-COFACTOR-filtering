@@ -1,0 +1,25 @@
+GO:0003824	F	0.69	catalytic activity
+GO:1901363	F	0.68	heterocyclic compound binding
+GO:0097159	F	0.68	organic cyclic compound binding
+GO:0046872	F	0.55	metal ion binding
+GO:0046914	F	0.54	transition metal ion binding
+GO:0051540	F	0.42	metal cluster binding
+GO:0016787	F	0.36	hydrolase activity
+GO:0000166	F	0.36	nucleotide binding
+GO:0035639	F	0.35	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.35	purine ribonucleotide binding
+GO:0032550	F	0.35	purine ribonucleoside binding
+GO:0017111	F	0.33	nucleoside-triphosphatase activity
+GO:0050662	F	0.32	coenzyme binding
+GO:0003774	F	0.32	motor activity
+GO:0016887	F	0.31	ATPase activity
+GO:0003777	F	0.25	microtubule motor activity
+GO:0003676	F	0.21	nucleic acid binding
+GO:0008092	F	0.20	cytoskeletal protein binding
+GO:0005524	F	0.20	ATP binding
+GO:0019899	F	0.19	enzyme binding
+GO:0016740	F	0.17	transferase activity
+GO:0005525	F	0.16	GTP binding
+GO:0003677	F	0.16	DNA binding
+GO:0016301	F	0.15	kinase activity
+GO:0004672	F	0.14	protein kinase activity

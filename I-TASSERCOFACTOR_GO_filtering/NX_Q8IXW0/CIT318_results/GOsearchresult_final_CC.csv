@@ -1,0 +1,31 @@
+GO:0044464	C	1.00	cell part
+GO:0044424	C	0.99	intracellular part
+GO:0044422	C	0.80	organelle part
+GO:0044446	C	0.78	intracellular organelle part
+GO:0043226	C	0.67	organelle
+GO:0043229	C	0.65	intracellular organelle
+GO:0044444	C	0.61	cytoplasmic part
+GO:0042597	C	0.59	periplasmic space
+GO:0032991	C	0.57	macromolecular complex
+GO:0043234	C	0.55	protein complex
+GO:0043227	C	0.53	membrane-bounded organelle
+GO:0044430	C	0.50	cytoskeletal part
+GO:0043231	C	0.50	intracellular membrane-bounded organelle
+GO:0016020	C	0.44	membrane
+GO:0005737	C	0.41	cytoplasm
+GO:0005634	C	0.39	nucleus
+GO:0044428	C	0.32	nuclear part
+GO:0005829	C	0.28	cytosol
+GO:0044425	C	0.27	membrane part
+GO:0043232	C	0.26	intracellular non-membrane-bounded organelle
+GO:0031224	C	0.24	intrinsic component of membrane
+GO:0005871	C	0.21	kinesin complex
+GO:1902494	C	0.19	catalytic complex
+GO:0099513	C	0.19	polymeric cytoskeletal fiber
+GO:0005886	C	0.18	plasma membrane
+GO:0016021	C	0.17	integral component of membrane
+GO:1990204	C	0.16	oxidoreductase complex
+GO:0005635	C	0.16	nuclear envelope
+GO:0005874	C	0.14	microtubule
+GO:0044459	C	0.13	plasma membrane part
+GO:0031982	C	0.11	vesicle

@@ -1,0 +1,28 @@
+GO:1901363	F	0.69	heterocyclic compound binding
+GO:0097159	F	0.69	organic cyclic compound binding
+GO:0003824	F	0.62	catalytic activity
+GO:0003676	F	0.59	nucleic acid binding
+GO:0016740	F	0.34	transferase activity
+GO:0016787	F	0.33	hydrolase activity
+GO:0003723	F	0.33	RNA binding
+GO:0003677	F	0.32	DNA binding
+GO:0044822	F	0.26	poly(A) RNA binding
+GO:0016887	F	0.24	ATPase activity
+GO:0042623	F	0.22	ATPase activity, coupled
+GO:0019899	F	0.21	enzyme binding
+GO:0016773	F	0.20	phosphotransferase activity, alcohol group as acceptor
+GO:0016301	F	0.20	kinase activity
+GO:0004672	F	0.19	protein kinase activity
+GO:0044877	F	0.18	macromolecular complex binding
+GO:0005215	F	0.16	transporter activity
+GO:0032403	F	0.15	protein complex binding
+GO:0022892	F	0.15	substrate-specific transporter activity
+GO:0000166	F	0.15	nucleotide binding
+GO:0008026	F	0.13	ATP-dependent helicase activity
+GO:0043167	F	0.12	ion binding
+GO:0017048	F	0.12	Rho GTPase binding
+GO:0005543	F	0.12	phospholipid binding
+GO:0004674	F	0.12	protein serine/threonine kinase activity
+GO:0004004	F	0.12	ATP-dependent RNA helicase activity
+GO:0017049	F	0.11	GTP-Rho binding
+GO:0005546	F	0.11	phosphatidylinositol-4,5-bisphosphate binding

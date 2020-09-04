@@ -1,0 +1,32 @@
+GO:0009987	P	0.80	cellular process
+GO:0065007	P	0.73	biological regulation
+GO:0050789	P	0.72	regulation of biological process
+GO:0050794	P	0.71	regulation of cellular process
+GO:0044699	P	0.52	single-organism process
+GO:0008152	P	0.52	metabolic process
+GO:0071704	P	0.51	organic substance metabolic process
+GO:0044238	P	0.49	primary metabolic process
+GO:0044763	P	0.48	single-organism cellular process
+GO:0044237	P	0.48	cellular metabolic process
+GO:0006139	P	0.43	nucleobase-containing compound metabolic process
+GO:0043523	P	0.39	regulation of neuron apoptotic process
+GO:0044281	P	0.36	small molecule metabolic process
+GO:0006796	P	0.36	phosphate-containing compound metabolic process
+GO:0034654	P	0.35	nucleobase-containing compound biosynthetic process
+GO:0009117	P	0.35	nucleotide metabolic process
+GO:0006188	P	0.33	IMP biosynthetic process
+GO:0071554	P	0.31	cell wall organization or biogenesis
+GO:0007165	P	0.31	signal transduction
+GO:0043170	P	0.22	macromolecule metabolic process
+GO:0044260	P	0.18	cellular macromolecule metabolic process
+GO:0048519	P	0.16	negative regulation of biological process
+GO:0019538	P	0.16	protein metabolic process
+GO:0048523	P	0.14	negative regulation of cellular process
+GO:0022402	P	0.13	cell cycle process
+GO:0016070	P	0.12	RNA metabolic process
+GO:0007218	P	0.12	neuropeptide signaling pathway
+GO:0006464	P	0.12	cellular protein modification process
+GO:2000112	P	0.11	regulation of cellular macromolecule biosynthetic process
+GO:0080090	P	0.11	regulation of primary metabolic process
+GO:0051171	P	0.11	regulation of nitrogen compound metabolic process
+GO:0010468	P	0.11	regulation of gene expression

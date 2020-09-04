@@ -1,0 +1,96 @@
+GO:0009987	P	0.81	cellular process
+GO:0065007	P	0.80	biological regulation
+GO:0050789	P	0.79	regulation of biological process
+GO:0050794	P	0.75	regulation of cellular process
+GO:0044260	P	0.68	cellular macromolecule metabolic process
+GO:0044238	P	0.68	primary metabolic process
+GO:0019538	P	0.66	protein metabolic process
+GO:0048518	P	0.64	positive regulation of biological process
+GO:0032446	P	0.64	protein modification by small protein conjugation
+GO:0031323	P	0.63	regulation of cellular metabolic process
+GO:0080090	P	0.62	regulation of primary metabolic process
+GO:0060255	P	0.62	regulation of macromolecule metabolic process
+GO:0002376	P	0.62	immune system process
+GO:0048522	P	0.59	positive regulation of cellular process
+GO:0010468	P	0.56	regulation of gene expression
+GO:0051252	P	0.55	regulation of RNA metabolic process
+GO:0050896	P	0.55	response to stimulus
+GO:2001141	P	0.54	regulation of RNA biosynthetic process
+GO:0048583	P	0.53	regulation of response to stimulus
+GO:0006355	P	0.53	regulation of transcription, DNA-templated
+GO:0016567	P	0.50	protein ubiquitination
+GO:0006950	P	0.50	response to stress
+GO:0043900	P	0.49	regulation of multi-organism process
+GO:0065009	P	0.47	regulation of molecular function
+GO:0009966	P	0.47	regulation of signal transduction
+GO:0006952	P	0.46	defense response
+GO:0044093	P	0.45	positive regulation of molecular function
+GO:0051090	P	0.44	regulation of sequence-specific DNA binding transcription factor activity
+GO:0051246	P	0.43	regulation of protein metabolic process
+GO:0006955	P	0.43	immune response
+GO:0051091	P	0.42	positive regulation of sequence-specific DNA binding transcription factor activity
+GO:0048584	P	0.42	positive regulation of response to stimulus
+GO:0032268	P	0.42	regulation of cellular protein metabolic process
+GO:1902531	P	0.39	regulation of intracellular signal transduction
+GO:0080134	P	0.39	regulation of response to stress
+GO:0048519	P	0.39	negative regulation of biological process
+GO:0031399	P	0.39	regulation of protein modification process
+GO:0010604	P	0.39	positive regulation of macromolecule metabolic process
+GO:0009967	P	0.39	positive regulation of signal transduction
+GO:0000209	P	0.39	protein polyubiquitination
+GO:0048523	P	0.38	negative regulation of cellular process
+GO:0031325	P	0.38	positive regulation of cellular metabolic process
+GO:0002682	P	0.37	regulation of immune system process
+GO:0051247	P	0.36	positive regulation of protein metabolic process
+GO:1902533	P	0.35	positive regulation of intracellular signal transduction
+GO:0051092	P	0.35	positive regulation of NF-kappaB transcription factor activity
+GO:0032270	P	0.35	positive regulation of cellular protein metabolic process
+GO:0050776	P	0.34	regulation of immune response
+GO:0043122	P	0.34	regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0031347	P	0.34	regulation of defense response
+GO:0043123	P	0.33	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0032101	P	0.33	regulation of response to external stimulus
+GO:0031401	P	0.32	positive regulation of protein modification process
+GO:0002831	P	0.32	regulation of response to biotic stimulus
+GO:0045088	P	0.31	regulation of innate immune response
+GO:0001932	P	0.31	regulation of protein phosphorylation
+GO:0070534	P	0.30	protein K63-linked ubiquitination
+GO:0002684	P	0.30	positive regulation of immune system process
+GO:0031349	P	0.29	positive regulation of defense response
+GO:0001934	P	0.29	positive regulation of protein phosphorylation
+GO:0045089	P	0.28	positive regulation of innate immune response
+GO:0043410	P	0.27	positive regulation of MAPK cascade
+GO:0002253	P	0.27	activation of immune response
+GO:0031664	P	0.26	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0002218	P	0.26	activation of innate immune response
+GO:0009892	P	0.25	negative regulation of metabolic process
+GO:0050792	P	0.24	regulation of viral process
+GO:0044699	P	0.24	single-organism process
+GO:1903900	P	0.23	regulation of viral life cycle
+GO:0031324	P	0.23	negative regulation of cellular metabolic process
+GO:0010605	P	0.23	negative regulation of macromolecule metabolic process
+GO:0016043	P	0.22	cellular component organization
+GO:0048525	P	0.21	negative regulation of viral process
+GO:0044763	P	0.20	single-organism cellular process
+GO:1903901	P	0.19	negative regulation of viral life cycle
+GO:0022607	P	0.19	cellular component assembly
+GO:0045087	P	0.18	innate immune response
+GO:0031327	P	0.18	negative regulation of cellular biosynthetic process
+GO:0043933	P	0.16	macromolecular complex subunit organization
+GO:0032502	P	0.16	developmental process
+GO:0010629	P	0.16	negative regulation of gene expression
+GO:1902186	P	0.15	regulation of viral release from host cell
+GO:0051253	P	0.15	negative regulation of RNA metabolic process
+GO:0051239	P	0.15	regulation of multicellular organismal process
+GO:0044767	P	0.15	single-organism developmental process
+GO:1902679	P	0.14	negative regulation of RNA biosynthetic process
+GO:0071822	P	0.14	protein complex subunit organization
+GO:0046596	P	0.14	regulation of viral entry into host cell
+GO:1902187	P	0.13	negative regulation of viral release from host cell
+GO:0051259	P	0.13	protein oligomerization
+GO:0032879	P	0.13	regulation of localization
+GO:0001817	P	0.13	regulation of cytokine production
+GO:0051248	P	0.11	negative regulation of protein metabolic process
+GO:0032897	P	0.11	negative regulation of viral transcription
+GO:0032880	P	0.11	regulation of protein localization
+GO:0010033	P	0.11	response to organic substance

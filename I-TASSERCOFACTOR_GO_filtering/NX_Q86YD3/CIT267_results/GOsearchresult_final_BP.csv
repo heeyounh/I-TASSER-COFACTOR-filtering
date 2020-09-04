@@ -1,0 +1,89 @@
+GO:0044699	P	0.92	single-organism process
+GO:0009987	P	0.84	cellular process
+GO:0044763	P	0.76	single-organism cellular process
+GO:0007155	P	0.70	cell adhesion
+GO:0098609	P	0.66	cell-cell adhesion
+GO:0032502	P	0.61	developmental process
+GO:0065007	P	0.58	biological regulation
+GO:0050789	P	0.56	regulation of biological process
+GO:0044767	P	0.56	single-organism developmental process
+GO:0016043	P	0.56	cellular component organization
+GO:0050794	P	0.51	regulation of cellular process
+GO:0048856	P	0.49	anatomical structure development
+GO:0016337	P	0.49	single organismal cell-cell adhesion
+GO:0048869	P	0.42	cellular developmental process
+GO:0009653	P	0.40	anatomical structure morphogenesis
+GO:0032501	P	0.39	multicellular organismal process
+GO:0022607	P	0.39	cellular component assembly
+GO:0034330	P	0.35	cell junction organization
+GO:0034329	P	0.34	cell junction assembly
+GO:0098742	P	0.32	cell-cell adhesion via plasma-membrane adhesion molecules
+GO:0007165	P	0.32	signal transduction
+GO:0048513	P	0.31	animal organ development
+GO:0007156	P	0.31	homophilic cell adhesion via plasma membrane adhesion molecules
+GO:0007157	P	0.29	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules
+GO:0048468	P	0.28	cell development
+GO:0006996	P	0.28	organelle organization
+GO:0048646	P	0.27	anatomical structure formation involved in morphogenesis
+GO:0048518	P	0.27	positive regulation of biological process
+GO:0007166	P	0.27	cell surface receptor signaling pathway
+GO:0003008	P	0.26	system process
+GO:1902589	P	0.25	single-organism organelle organization
+GO:0048583	P	0.24	regulation of response to stimulus
+GO:0030154	P	0.24	cell differentiation
+GO:0030036	P	0.24	actin cytoskeleton organization
+GO:0022414	P	0.24	reproductive process
+GO:0050896	P	0.23	response to stimulus
+GO:0044702	P	0.23	single organism reproductive process
+GO:0009887	P	0.23	organ morphogenesis
+GO:0003006	P	0.22	developmental process involved in reproduction
+GO:0044238	P	0.21	primary metabolic process
+GO:0043170	P	0.21	macromolecule metabolic process
+GO:0061061	P	0.20	muscle structure development
+GO:0045216	P	0.20	cell-cell junction organization
+GO:0022412	P	0.20	cellular process involved in reproduction in multicellular organism
+GO:0097205	P	0.19	renal filtration
+GO:0048569	P	0.19	post-embryonic organ development
+GO:0048522	P	0.19	positive regulation of cellular process
+GO:0044260	P	0.19	cellular macromolecule metabolic process
+GO:0034332	P	0.19	adherens junction organization
+GO:0008037	P	0.19	cell recognition
+GO:0007522	P	0.19	visceral muscle development
+GO:0007520	P	0.19	myoblast fusion
+GO:0007286	P	0.19	spermatid development
+GO:0007043	P	0.19	cell-cell junction assembly
+GO:0006928	P	0.19	movement of cell or subcellular component
+GO:0001745	P	0.19	compound eye morphogenesis
+GO:0097206	P	0.18	nephrocyte filtration
+GO:0061321	P	0.18	garland nephrocyte differentiation
+GO:0036059	P	0.18	nephrocyte diaphragm assembly
+GO:0007523	P	0.18	larval visceral muscle development
+GO:0051239	P	0.17	regulation of multicellular organismal process
+GO:0044707	P	0.17	single-multicellular organism process
+GO:0050793	P	0.16	regulation of developmental process
+GO:0048584	P	0.16	positive regulation of response to stimulus
+GO:0042221	P	0.16	response to chemical
+GO:0019222	P	0.16	regulation of metabolic process
+GO:0060255	P	0.15	regulation of macromolecule metabolic process
+GO:0051128	P	0.15	regulation of cellular component organization
+GO:0007167	P	0.15	enzyme linked receptor protein signaling pathway
+GO:0002682	P	0.15	regulation of immune system process
+GO:0002376	P	0.15	immune system process
+GO:2000026	P	0.14	regulation of multicellular organismal development
+GO:0048731	P	0.14	system development
+GO:0045595	P	0.14	regulation of cell differentiation
+GO:0010033	P	0.14	response to organic substance
+GO:0007169	P	0.14	transmembrane receptor protein tyrosine kinase signaling pathway
+GO:0080090	P	0.13	regulation of primary metabolic process
+GO:0050776	P	0.13	regulation of immune response
+GO:0048519	P	0.13	negative regulation of biological process
+GO:0031323	P	0.13	regulation of cellular metabolic process
+GO:0048523	P	0.12	negative regulation of cellular process
+GO:0016070	P	0.12	RNA metabolic process
+GO:0051960	P	0.11	regulation of nervous system development
+GO:0030030	P	0.11	cell projection organization
+GO:0022603	P	0.11	regulation of anatomical structure morphogenesis
+GO:0009966	P	0.11	regulation of signal transduction
+GO:0007411	P	0.11	axon guidance
+GO:0002684	P	0.11	positive regulation of immune system process
+GO:0001932	P	0.11	regulation of protein phosphorylation

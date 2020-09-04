@@ -1,0 +1,31 @@
+GO:0044464	C	1.00	cell part
+GO:0044424	C	0.99	intracellular part
+GO:0044446	C	0.78	intracellular organelle part
+GO:0032991	C	0.71	macromolecular complex
+GO:0043234	C	0.70	protein complex
+GO:0044428	C	0.69	nuclear part
+GO:0000785	C	0.69	chromatin
+GO:0090568	C	0.68	nuclear transcriptional repressor complex
+GO:0005677	C	0.68	chromatin silencing complex
+GO:0044444	C	0.61	cytoplasmic part
+GO:0016020	C	0.60	membrane
+GO:0043231	C	0.54	intracellular membrane-bounded organelle
+GO:0005737	C	0.47	cytoplasm
+GO:0005886	C	0.46	plasma membrane
+GO:0005634	C	0.40	nucleus
+GO:0044425	C	0.39	membrane part
+GO:0005829	C	0.30	cytosol
+GO:0031224	C	0.25	intrinsic component of membrane
+GO:0005759	C	0.14	mitochondrial matrix
+GO:0005739	C	0.14	mitochondrion
+GO:0005576	C	0.14	extracellular region
+GO:0097632	C	0.11	extrinsic component of pre-autophagosomal structure membrane
+GO:0045180	C	0.11	basal cortex
+GO:0045179	C	0.11	apical cortex
+GO:0043025	C	0.11	neuronal cell body
+GO:0031226	C	0.11	intrinsic component of plasma membrane
+GO:0030288	C	0.11	outer membrane-bounded periplasmic space
+GO:0016021	C	0.11	integral component of membrane
+GO:0005622	C	0.11	intracellular
+GO:0005618	C	0.11	cell wall
+GO:0000407	C	0.11	pre-autophagosomal structure

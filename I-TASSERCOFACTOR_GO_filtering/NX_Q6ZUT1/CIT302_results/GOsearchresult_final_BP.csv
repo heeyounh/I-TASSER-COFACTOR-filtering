@@ -1,0 +1,71 @@
+GO:0044699	P	0.88	single-organism process
+GO:0008152	P	0.78	metabolic process
+GO:0009987	P	0.70	cellular process
+GO:0044238	P	0.65	primary metabolic process
+GO:0071704	P	0.64	organic substance metabolic process
+GO:0065007	P	0.52	biological regulation
+GO:0044763	P	0.49	single-organism cellular process
+GO:0044710	P	0.48	single-organism metabolic process
+GO:0044237	P	0.48	cellular metabolic process
+GO:0050794	P	0.45	regulation of cellular process
+GO:0044281	P	0.33	small molecule metabolic process
+GO:0044260	P	0.32	cellular macromolecule metabolic process
+GO:0032502	P	0.32	developmental process
+GO:0016043	P	0.32	cellular component organization
+GO:0051179	P	0.30	localization
+GO:0044767	P	0.30	single-organism developmental process
+GO:0019222	P	0.28	regulation of metabolic process
+GO:0006810	P	0.28	transport
+GO:0006139	P	0.28	nucleobase-containing compound metabolic process
+GO:0071702	P	0.26	organic substance transport
+GO:0048856	P	0.26	anatomical structure development
+GO:0031323	P	0.26	regulation of cellular metabolic process
+GO:0060255	P	0.25	regulation of macromolecule metabolic process
+GO:0051128	P	0.25	regulation of cellular component organization
+GO:0008104	P	0.25	protein localization
+GO:0080090	P	0.23	regulation of primary metabolic process
+GO:0048522	P	0.23	positive regulation of cellular process
+GO:0044765	P	0.23	single-organism transport
+GO:0032501	P	0.23	multicellular organismal process
+GO:0015031	P	0.23	protein transport
+GO:0006796	P	0.23	phosphate-containing compound metabolic process
+GO:1901576	P	0.22	organic substance biosynthetic process
+GO:0072321	P	0.22	chaperone-mediated protein transport
+GO:0044249	P	0.22	cellular biosynthetic process
+GO:0033043	P	0.21	regulation of organelle organization
+GO:0019637	P	0.21	organophosphate metabolic process
+GO:0090304	P	0.20	nucleic acid metabolic process
+GO:0019219	P	0.20	regulation of nucleobase-containing compound metabolic process
+GO:0048523	P	0.19	negative regulation of cellular process
+GO:0010468	P	0.19	regulation of gene expression
+GO:0065008	P	0.18	regulation of biological quality
+GO:2000112	P	0.17	regulation of cellular macromolecule biosynthetic process
+GO:0051252	P	0.17	regulation of RNA metabolic process
+GO:0016070	P	0.16	RNA metabolic process
+GO:0009653	P	0.15	anatomical structure morphogenesis
+GO:0006355	P	0.15	regulation of transcription, DNA-templated
+GO:0050790	P	0.14	regulation of catalytic activity
+GO:0048513	P	0.14	animal organ development
+GO:0044711	P	0.14	single-organism biosynthetic process
+GO:0044707	P	0.14	single-multicellular organism process
+GO:0032268	P	0.14	regulation of cellular protein metabolic process
+GO:0009892	P	0.14	negative regulation of metabolic process
+GO:0046474	P	0.13	glycerophospholipid biosynthetic process
+GO:0031399	P	0.13	regulation of protein modification process
+GO:0031324	P	0.13	negative regulation of cellular metabolic process
+GO:0022607	P	0.13	cellular component assembly
+GO:0044267	P	0.12	cellular protein metabolic process
+GO:0043412	P	0.12	macromolecule modification
+GO:0033044	P	0.12	regulation of chromosome organization
+GO:0006996	P	0.12	organelle organization
+GO:0006397	P	0.12	mRNA processing
+GO:1902275	P	0.11	regulation of chromatin organization
+GO:1901564	P	0.11	organonitrogen compound metabolic process
+GO:0048869	P	0.11	cellular developmental process
+GO:0032535	P	0.11	regulation of cellular component size
+GO:0031325	P	0.11	positive regulation of cellular metabolic process
+GO:0010638	P	0.11	positive regulation of organelle organization
+GO:0010605	P	0.11	negative regulation of macromolecule metabolic process
+GO:0010604	P	0.11	positive regulation of macromolecule metabolic process
+GO:0009966	P	0.11	regulation of signal transduction
+GO:0006464	P	0.11	cellular protein modification process

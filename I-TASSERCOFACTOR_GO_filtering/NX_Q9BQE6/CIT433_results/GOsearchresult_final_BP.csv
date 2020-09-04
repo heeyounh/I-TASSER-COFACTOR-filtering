@@ -1,0 +1,39 @@
+GO:0065007	P	0.71	biological regulation
+GO:0050789	P	0.71	regulation of biological process
+GO:0009987	P	0.70	cellular process
+GO:0044699	P	0.69	single-organism process
+GO:0060255	P	0.60	regulation of macromolecule metabolic process
+GO:0048583	P	0.56	regulation of response to stimulus
+GO:0010468	P	0.56	regulation of gene expression
+GO:0008152	P	0.55	metabolic process
+GO:0080134	P	0.54	regulation of response to stress
+GO:0050794	P	0.54	regulation of cellular process
+GO:0065008	P	0.52	regulation of biological quality
+GO:0030193	P	0.51	regulation of blood coagulation
+GO:0044763	P	0.50	single-organism cellular process
+GO:0044767	P	0.43	single-organism developmental process
+GO:0044710	P	0.42	single-organism metabolic process
+GO:0048703	P	0.41	embryonic viscerocranium morphogenesis
+GO:0001755	P	0.41	neural crest cell migration
+GO:0080090	P	0.38	regulation of primary metabolic process
+GO:0031323	P	0.38	regulation of cellular metabolic process
+GO:0048518	P	0.36	positive regulation of biological process
+GO:2000112	P	0.34	regulation of cellular macromolecule biosynthetic process
+GO:0051171	P	0.34	regulation of nitrogen compound metabolic process
+GO:0071704	P	0.33	organic substance metabolic process
+GO:0044238	P	0.33	primary metabolic process
+GO:0044237	P	0.30	cellular metabolic process
+GO:0010604	P	0.29	positive regulation of macromolecule metabolic process
+GO:0006355	P	0.29	regulation of transcription, DNA-templated
+GO:0031325	P	0.28	positive regulation of cellular metabolic process
+GO:0006807	P	0.27	nitrogen compound metabolic process
+GO:0045893	P	0.26	positive regulation of transcription, DNA-templated
+GO:0044260	P	0.22	cellular macromolecule metabolic process
+GO:0034641	P	0.20	cellular nitrogen compound metabolic process
+GO:1901564	P	0.14	organonitrogen compound metabolic process
+GO:0044271	P	0.14	cellular nitrogen compound biosynthetic process
+GO:0034645	P	0.14	cellular macromolecule biosynthetic process
+GO:0016070	P	0.14	RNA metabolic process
+GO:0051246	P	0.12	regulation of protein metabolic process
+GO:0048523	P	0.12	negative regulation of cellular process
+GO:0007165	P	0.12	signal transduction

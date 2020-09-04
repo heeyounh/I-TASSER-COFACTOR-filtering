@@ -1,0 +1,16 @@
+GO:0044424	C	0.99	intracellular part
+GO:0044422	C	0.84	organelle part
+GO:0044446	C	0.83	intracellular organelle part
+GO:0005874	C	0.79	microtubule
+GO:0043226	C	0.39	organelle
+GO:0043227	C	0.36	membrane-bounded organelle
+GO:0043229	C	0.34	intracellular organelle
+GO:0044444	C	0.33	cytoplasmic part
+GO:0043231	C	0.32	intracellular membrane-bounded organelle
+GO:0005634	C	0.28	nucleus
+GO:0005829	C	0.18	cytosol
+GO:0032991	C	0.17	macromolecular complex
+GO:0016020	C	0.17	membrane
+GO:0043234	C	0.16	protein complex
+GO:0044428	C	0.14	nuclear part
+GO:0005886	C	0.13	plasma membrane

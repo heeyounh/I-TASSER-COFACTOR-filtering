@@ -1,0 +1,21 @@
+GO:0003824	F	0.69	catalytic activity
+GO:0016740	F	0.64	transferase activity
+GO:0099600	F	0.62	transmembrane receptor activity
+GO:0004674	F	0.61	protein serine/threonine kinase activity
+GO:0004675	F	0.60	transmembrane receptor protein serine/threonine kinase activity
+GO:0019955	F	0.48	cytokine binding
+GO:0005024	F	0.45	transforming growth factor beta-activated receptor activity
+GO:1901363	F	0.43	heterocyclic compound binding
+GO:0097159	F	0.43	organic cyclic compound binding
+GO:0019838	F	0.43	growth factor binding
+GO:0003676	F	0.41	nucleic acid binding
+GO:0050431	F	0.38	transforming growth factor beta binding
+GO:0005025	F	0.38	transforming growth factor beta receptor activity, type I
+GO:0030234	F	0.29	enzyme regulator activity
+GO:0003723	F	0.18	RNA binding
+GO:0098821	F	0.16	BMP receptor activity
+GO:0004867	F	0.15	serine-type endopeptidase inhibitor activity
+GO:0008047	F	0.14	enzyme activator activity
+GO:0005057	F	0.14	receptor signaling protein activity
+GO:0044877	F	0.11	macromolecular complex binding
+GO:0009982	F	0.11	pseudouridine synthase activity

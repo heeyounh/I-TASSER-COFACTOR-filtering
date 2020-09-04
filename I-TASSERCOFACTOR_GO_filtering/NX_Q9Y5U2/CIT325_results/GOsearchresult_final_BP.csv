@@ -1,0 +1,35 @@
+GO:0009987	P	0.58	cellular process
+GO:0044699	P	0.45	single-organism process
+GO:0065007	P	0.30	biological regulation
+GO:0050789	P	0.30	regulation of biological process
+GO:0044763	P	0.28	single-organism cellular process
+GO:0050794	P	0.25	regulation of cellular process
+GO:0006810	P	0.25	transport
+GO:0048518	P	0.21	positive regulation of biological process
+GO:0008152	P	0.21	metabolic process
+GO:0071704	P	0.20	organic substance metabolic process
+GO:0044767	P	0.20	single-organism developmental process
+GO:0044238	P	0.20	primary metabolic process
+GO:0016043	P	0.20	cellular component organization
+GO:0044765	P	0.19	single-organism transport
+GO:0044237	P	0.19	cellular metabolic process
+GO:0044260	P	0.16	cellular macromolecule metabolic process
+GO:0043933	P	0.16	macromolecular complex subunit organization
+GO:0048856	P	0.15	anatomical structure development
+GO:0048522	P	0.15	positive regulation of cellular process
+GO:0065004	P	0.14	protein-DNA complex assembly
+GO:0034641	P	0.14	cellular nitrogen compound metabolic process
+GO:0055085	P	0.13	transmembrane transport
+GO:0034645	P	0.13	cellular macromolecule biosynthetic process
+GO:1901360	P	0.12	organic cyclic compound metabolic process
+GO:0080090	P	0.12	regulation of primary metabolic process
+GO:0060255	P	0.12	regulation of macromolecule metabolic process
+GO:0051649	P	0.12	establishment of localization in cell
+GO:0044271	P	0.12	cellular nitrogen compound biosynthetic process
+GO:0031323	P	0.12	regulation of cellular metabolic process
+GO:0016032	P	0.12	viral process
+GO:0090304	P	0.11	nucleic acid metabolic process
+GO:0048513	P	0.11	animal organ development
+GO:0044710	P	0.11	single-organism metabolic process
+GO:0019538	P	0.11	protein metabolic process
+GO:0006996	P	0.11	organelle organization

@@ -1,0 +1,15 @@
+GO:0043167	F	0.86	ion binding
+GO:0046872	F	0.85	metal ion binding
+GO:0005509	F	0.83	calcium ion binding
+GO:0003824	F	0.33	catalytic activity
+GO:0097159	F	0.32	organic cyclic compound binding
+GO:0036094	F	0.30	small molecule binding
+GO:1901363	F	0.29	heterocyclic compound binding
+GO:0032553	F	0.26	ribonucleotide binding
+GO:0032555	F	0.22	purine ribonucleotide binding
+GO:0032550	F	0.22	purine ribonucleoside binding
+GO:0035639	F	0.21	purine ribonucleoside triphosphate binding
+GO:0016787	F	0.19	hydrolase activity
+GO:0016740	F	0.19	transferase activity
+GO:0005524	F	0.17	ATP binding
+GO:0022891	F	0.11	substrate-specific transmembrane transporter activity

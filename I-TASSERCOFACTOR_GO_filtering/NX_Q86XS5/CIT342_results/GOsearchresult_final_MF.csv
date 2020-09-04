@@ -1,0 +1,36 @@
+GO:0005102	F	0.73	receptor binding
+GO:0043167	F	0.68	ion binding
+GO:0046872	F	0.67	metal ion binding
+GO:0098772	F	0.61	molecular function regulator
+GO:0097367	F	0.56	carbohydrate derivative binding
+GO:0050839	F	0.49	cell adhesion molecule binding
+GO:0019901	F	0.48	protein kinase binding
+GO:0030971	F	0.47	receptor tyrosine kinase binding
+GO:0005085	F	0.45	guanyl-nucleotide exchange factor activity
+GO:0003824	F	0.45	catalytic activity
+GO:0005198	F	0.44	structural molecule activity
+GO:0016787	F	0.40	hydrolase activity
+GO:0008233	F	0.38	peptidase activity
+GO:0030674	F	0.37	protein binding, bridging
+GO:0030246	F	0.34	carbohydrate binding
+GO:0004175	F	0.34	endopeptidase activity
+GO:0004252	F	0.33	serine-type endopeptidase activity
+GO:0003823	F	0.33	antigen binding
+GO:0001948	F	0.33	glycoprotein binding
+GO:2001065	F	0.31	mannan binding
+GO:0048306	F	0.31	calcium-dependent protein binding
+GO:0043394	F	0.31	proteoglycan binding
+GO:0030234	F	0.27	enzyme regulator activity
+GO:0004871	F	0.22	signal transducer activity
+GO:0004872	F	0.18	receptor activity
+GO:0008047	F	0.17	enzyme activator activity
+GO:0044877	F	0.16	macromolecular complex binding
+GO:0008061	F	0.16	chitin binding
+GO:0032403	F	0.15	protein complex binding
+GO:0030546	F	0.14	receptor activator activity
+GO:0001664	F	0.14	G-protein coupled receptor binding
+GO:0030296	F	0.13	protein tyrosine kinase activator activity
+GO:0030297	F	0.12	transmembrane receptor protein tyrosine kinase activator activity
+GO:0004857	F	0.12	enzyme inhibitor activity
+GO:1901363	F	0.11	heterocyclic compound binding
+GO:0097159	F	0.11	organic cyclic compound binding

@@ -1,0 +1,232 @@
+GO:0065007	P	0.87	biological regulation
+GO:0050789	P	0.85	regulation of biological process
+GO:0044699	P	0.85	single-organism process
+GO:0050794	P	0.81	regulation of cellular process
+GO:0009987	P	0.77	cellular process
+GO:0032502	P	0.72	developmental process
+GO:0048518	P	0.71	positive regulation of biological process
+GO:0044763	P	0.69	single-organism cellular process
+GO:0048523	P	0.68	negative regulation of cellular process
+GO:0044767	P	0.67	single-organism developmental process
+GO:0008152	P	0.66	metabolic process
+GO:0050896	P	0.65	response to stimulus
+GO:0048856	P	0.65	anatomical structure development
+GO:0048522	P	0.65	positive regulation of cellular process
+GO:0019222	P	0.65	regulation of metabolic process
+GO:0071704	P	0.64	organic substance metabolic process
+GO:0080090	P	0.63	regulation of primary metabolic process
+GO:0060255	P	0.63	regulation of macromolecule metabolic process
+GO:0051239	P	0.63	regulation of multicellular organismal process
+GO:0048583	P	0.63	regulation of response to stimulus
+GO:0031323	P	0.62	regulation of cellular metabolic process
+GO:0048584	P	0.60	positive regulation of response to stimulus
+GO:0016043	P	0.60	cellular component organization
+GO:0009893	P	0.60	positive regulation of metabolic process
+GO:0051240	P	0.59	positive regulation of multicellular organismal process
+GO:0043170	P	0.59	macromolecule metabolic process
+GO:0043066	P	0.59	negative regulation of apoptotic process
+GO:0031325	P	0.58	positive regulation of cellular metabolic process
+GO:0010604	P	0.58	positive regulation of macromolecule metabolic process
+GO:0007165	P	0.58	signal transduction
+GO:0001932	P	0.58	regulation of protein phosphorylation
+GO:0044238	P	0.57	primary metabolic process
+GO:0032501	P	0.57	multicellular organismal process
+GO:0023051	P	0.57	regulation of signaling
+GO:0010646	P	0.57	regulation of cell communication
+GO:0043408	P	0.56	regulation of MAPK cascade
+GO:0001934	P	0.56	positive regulation of protein phosphorylation
+GO:0023056	P	0.55	positive regulation of signaling
+GO:0010647	P	0.55	positive regulation of cell communication
+GO:2000352	P	0.54	negative regulation of endothelial cell apoptotic process
+GO:0070374	P	0.54	positive regulation of ERK1 and ERK2 cascade
+GO:0051241	P	0.53	negative regulation of multicellular organismal process
+GO:0050790	P	0.53	regulation of catalytic activity
+GO:0044707	P	0.53	single-multicellular organism process
+GO:0032879	P	0.53	regulation of localization
+GO:0048513	P	0.52	animal organ development
+GO:0044237	P	0.52	cellular metabolic process
+GO:0065008	P	0.51	regulation of biological quality
+GO:0022603	P	0.51	regulation of anatomical structure morphogenesis
+GO:0007166	P	0.51	cell surface receptor signaling pathway
+GO:0007155	P	0.51	cell adhesion
+GO:0006950	P	0.51	response to stress
+GO:0006928	P	0.51	movement of cell or subcellular component
+GO:0051128	P	0.50	regulation of cellular component organization
+GO:0048731	P	0.50	system development
+GO:0022607	P	0.50	cellular component assembly
+GO:0002376	P	0.50	immune system process
+GO:0080134	P	0.49	regulation of response to stress
+GO:0051130	P	0.49	positive regulation of cellular component organization
+GO:0051050	P	0.49	positive regulation of transport
+GO:0050708	P	0.49	regulation of protein secretion
+GO:0042221	P	0.49	response to chemical
+GO:0016477	P	0.49	cell migration
+GO:0071822	P	0.48	protein complex subunit organization
+GO:0051338	P	0.48	regulation of transferase activity
+GO:0051336	P	0.48	regulation of hydrolase activity
+GO:0051094	P	0.48	positive regulation of developmental process
+GO:0048585	P	0.48	negative regulation of response to stimulus
+GO:0019538	P	0.48	protein metabolic process
+GO:0006807	P	0.48	nitrogen compound metabolic process
+GO:0003018	P	0.48	vascular process in circulatory system
+GO:0001817	P	0.48	regulation of cytokine production
+GO:0001568	P	0.48	blood vessel development
+GO:0060627	P	0.47	regulation of vesicle-mediated transport
+GO:0051179	P	0.47	localization
+GO:0050673	P	0.47	epithelial cell proliferation
+GO:0045859	P	0.47	regulation of protein kinase activity
+GO:0032101	P	0.47	regulation of response to external stimulus
+GO:0030334	P	0.47	regulation of cell migration
+GO:0030155	P	0.47	regulation of cell adhesion
+GO:0009059	P	0.47	macromolecule biosynthetic process
+GO:1903034	P	0.46	regulation of response to wounding
+GO:0072376	P	0.46	protein activation cascade
+GO:0051347	P	0.46	positive regulation of transferase activity
+GO:0050776	P	0.46	regulation of immune response
+GO:0044249	P	0.46	cellular biosynthetic process
+GO:0042127	P	0.46	regulation of cell proliferation
+GO:0030335	P	0.46	positive regulation of cell migration
+GO:0030198	P	0.46	extracellular matrix organization
+GO:0010632	P	0.46	regulation of epithelial cell migration
+GO:0007169	P	0.46	transmembrane receptor protein tyrosine kinase signaling pathway
+GO:0006461	P	0.46	protein complex assembly
+GO:0001944	P	0.46	vasculature development
+GO:1901564	P	0.45	organonitrogen compound metabolic process
+GO:0072012	P	0.45	glomerulus vasculature development
+GO:0051248	P	0.45	negative regulation of protein metabolic process
+GO:0050730	P	0.45	regulation of peptidyl-tyrosine phosphorylation
+GO:0050707	P	0.45	regulation of cytokine secretion
+GO:0050678	P	0.45	regulation of epithelial cell proliferation
+GO:0048534	P	0.45	hematopoietic or lymphoid organ development
+GO:0048014	P	0.45	Tie signaling pathway
+GO:0043114	P	0.45	regulation of vascular permeability
+GO:0035556	P	0.45	intracellular signal transduction
+GO:0034622	P	0.45	cellular macromolecular complex assembly
+GO:0032147	P	0.45	activation of protein kinase activity
+GO:0031324	P	0.45	negative regulation of cellular metabolic process
+GO:0016337	P	0.45	single organismal cell-cell adhesion
+GO:0010634	P	0.45	positive regulation of epithelial cell migration
+GO:0007275	P	0.45	multicellular organism development
+GO:0007160	P	0.45	cell-matrix adhesion
+GO:1903322	P	0.44	positive regulation of protein modification by small protein conjugation or removal
+GO:0072378	P	0.44	blood coagulation, fibrin clot formation
+GO:0051896	P	0.44	regulation of protein kinase B signaling
+GO:0051716	P	0.44	cellular response to stimulus
+GO:0050900	P	0.44	leukocyte migration
+GO:0048260	P	0.44	positive regulation of receptor-mediated endocytosis
+GO:0045785	P	0.44	positive regulation of cell adhesion
+GO:0044272	P	0.44	sulfur compound biosynthetic process
+GO:0043623	P	0.44	cellular protein complex assembly
+GO:0032269	P	0.44	negative regulation of cellular protein metabolic process
+GO:0031396	P	0.44	regulation of protein ubiquitination
+GO:0030202	P	0.44	heparin metabolic process
+GO:0014857	P	0.44	regulation of skeletal muscle cell proliferation
+GO:0014066	P	0.44	regulation of phosphatidylinositol 3-kinase signaling
+GO:0010769	P	0.44	regulation of cell morphogenesis involved in differentiation
+GO:0006024	P	0.44	glycosaminoglycan biosynthetic process
+GO:0002090	P	0.44	regulation of receptor internalization
+GO:1904590	P	0.43	negative regulation of protein import
+GO:1903555	P	0.43	regulation of tumor necrosis factor superfamily cytokine production
+GO:1901215	P	0.43	negative regulation of neuron death
+GO:1900181	P	0.43	negative regulation of protein localization to nucleus
+GO:0090317	P	0.43	negative regulation of intracellular protein transport
+GO:0051345	P	0.43	positive regulation of hydrolase activity
+GO:0051098	P	0.43	regulation of binding
+GO:0050710	P	0.43	negative regulation of cytokine secretion
+GO:0046823	P	0.43	negative regulation of nucleocytoplasmic transport
+GO:0043523	P	0.43	regulation of neuron apoptotic process
+GO:0043087	P	0.43	regulation of GTPase activity
+GO:0043009	P	0.43	chordate embryonic development
+GO:0042326	P	0.43	negative regulation of phosphorylation
+GO:0042306	P	0.43	regulation of protein import into nucleus
+GO:0035691	P	0.43	macrophage migration inhibitory factor signaling pathway
+GO:0033135	P	0.43	regulation of peptidyl-serine phosphorylation
+GO:0032640	P	0.43	tumor necrosis factor production
+GO:0031400	P	0.43	negative regulation of protein modification process
+GO:0014841	P	0.43	skeletal muscle satellite cell proliferation
+GO:0010720	P	0.43	positive regulation of cell development
+GO:0007249	P	0.43	I-kappaB kinase/NF-kappaB signaling
+GO:0006810	P	0.43	transport
+GO:0002739	P	0.43	regulation of cytokine secretion involved in immune response
+GO:0002719	P	0.43	negative regulation of cytokine production involved in immune response
+GO:0001959	P	0.43	regulation of cytokine-mediated signaling pathway
+GO:0001935	P	0.43	endothelial cell proliferation
+GO:1902578	P	0.42	single-organism localization
+GO:0050714	P	0.42	positive regulation of protein secretion
+GO:0032102	P	0.42	negative regulation of response to external stimulus
+GO:2000026	P	0.41	regulation of multicellular organismal development
+GO:1902042	P	0.41	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors
+GO:0090277	P	0.41	positive regulation of peptide hormone secretion
+GO:0070527	P	0.41	platelet aggregation
+GO:0051704	P	0.41	multi-organism process
+GO:0051592	P	0.41	response to calcium ion
+GO:0051258	P	0.41	protein polymerization
+GO:0045921	P	0.41	positive regulation of exocytosis
+GO:0045907	P	0.41	positive regulation of vasoconstriction
+GO:0044765	P	0.41	single-organism transport
+GO:0042730	P	0.41	fibrinolysis
+GO:0034116	P	0.41	positive regulation of heterotypic cell-cell adhesion
+GO:0031639	P	0.41	plasminogen activation
+GO:0010033	P	0.41	response to organic substance
+GO:0009605	P	0.41	response to external stimulus
+GO:0032940	P	0.40	secretion by cell
+GO:0010810	P	0.40	regulation of cell-substrate adhesion
+GO:1900026	P	0.39	positive regulation of substrate adhesion-dependent cell spreading
+GO:0009725	P	0.39	response to hormone
+GO:0006955	P	0.39	immune response
+GO:0006952	P	0.39	defense response
+GO:0002576	P	0.39	platelet degranulation
+GO:0070887	P	0.38	cellular response to chemical stimulus
+GO:0051707	P	0.38	response to other organism
+GO:0008037	P	0.38	cell recognition
+GO:0098542	P	0.37	defense response to other organism
+GO:0071310	P	0.37	cellular response to organic substance
+GO:0009617	P	0.37	response to bacterium
+GO:0006959	P	0.37	humoral immune response
+GO:0051093	P	0.36	negative regulation of developmental process
+GO:0042742	P	0.36	defense response to bacterium
+GO:0034097	P	0.35	response to cytokine
+GO:0032870	P	0.35	cellular response to hormone stimulus
+GO:0031099	P	0.35	regeneration
+GO:0019731	P	0.35	antibacterial humoral response
+GO:0070555	P	0.34	response to interleukin-1
+GO:0045765	P	0.34	regulation of angiogenesis
+GO:0044321	P	0.34	response to leptin
+GO:0043654	P	0.34	recognition of apoptotic cell
+GO:0014070	P	0.34	response to organic cyclic compound
+GO:0009628	P	0.34	response to abiotic stimulus
+GO:0002253	P	0.34	activation of immune response
+GO:0001867	P	0.33	complement activation, lectin pathway
+GO:1901700	P	0.32	response to oxygen-containing compound
+GO:0048869	P	0.32	cellular developmental process
+GO:0045766	P	0.32	positive regulation of angiogenesis
+GO:0043535	P	0.32	regulation of blood vessel endothelial cell migration
+GO:0022414	P	0.32	reproductive process
+GO:0007162	P	0.32	negative regulation of cell adhesion
+GO:0050830	P	0.31	defense response to Gram-positive bacterium
+GO:0050829	P	0.31	defense response to Gram-negative bacterium
+GO:0016525	P	0.31	negative regulation of angiogenesis
+GO:0008228	P	0.31	opsonization
+GO:0001666	P	0.31	response to hypoxia
+GO:0044702	P	0.30	single organism reproductive process
+GO:0043537	P	0.30	negative regulation of blood vessel endothelial cell migration
+GO:0070848	P	0.29	response to growth factor
+GO:0050928	P	0.29	negative regulation of positive chemotaxis
+GO:0031100	P	0.29	organ regeneration
+GO:0009612	P	0.29	response to mechanical stimulus
+GO:0009314	P	0.29	response to radiation
+GO:0003006	P	0.29	developmental process involved in reproduction
+GO:0071363	P	0.28	cellular response to growth factor stimulus
+GO:0060135	P	0.28	maternal process involved in female pregnancy
+GO:0014823	P	0.28	response to activity
+GO:0010812	P	0.28	negative regulation of cell-substrate adhesion
+GO:0009749	P	0.28	response to glucose
+GO:0007281	P	0.28	germ cell development
+GO:0044710	P	0.20	single-organism metabolic process
+GO:0009888	P	0.14	tissue development
+GO:0006629	P	0.12	lipid metabolic process
+GO:0080135	P	0.11	regulation of cellular response to stress
+GO:0044281	P	0.11	small molecule metabolic process
+GO:0030030	P	0.11	cell projection organization
+GO:0007186	P	0.11	G-protein coupled receptor signaling pathway
+GO:0001525	P	0.11	angiogenesis

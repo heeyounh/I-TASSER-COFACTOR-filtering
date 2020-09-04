@@ -1,0 +1,23 @@
+GO:0005215	F	0.57	transporter activity
+GO:0022857	F	0.55	transmembrane transporter activity
+GO:0005216	F	0.54	ion channel activity
+GO:0022836	F	0.53	gated channel activity
+GO:0005267	F	0.53	potassium channel activity
+GO:0005249	F	0.52	voltage-gated potassium channel activity
+GO:0005251	F	0.50	delayed rectifier potassium channel activity
+GO:0003824	F	0.34	catalytic activity
+GO:1901363	F	0.26	heterocyclic compound binding
+GO:0097159	F	0.26	organic cyclic compound binding
+GO:0016740	F	0.26	transferase activity
+GO:0004872	F	0.25	receptor activity
+GO:0004871	F	0.23	signal transducer activity
+GO:0099600	F	0.22	transmembrane receptor activity
+GO:0004888	F	0.21	transmembrane signaling receptor activity
+GO:0004842	F	0.21	ubiquitin-protein transferase activity
+GO:0019899	F	0.20	enzyme binding
+GO:0005524	F	0.18	ATP binding
+GO:0042802	F	0.14	identical protein binding
+GO:0005250	F	0.14	A-type (transient outward) potassium channel activity
+GO:0004984	F	0.12	olfactory receptor activity
+GO:0017049	F	0.11	GTP-Rho binding
+GO:0008092	F	0.11	cytoskeletal protein binding

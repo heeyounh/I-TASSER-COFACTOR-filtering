@@ -1,0 +1,42 @@
+GO:0044464	C	0.99	cell part
+GO:0016020	C	0.93	membrane
+GO:0044424	C	0.90	intracellular part
+GO:0044425	C	0.82	membrane part
+GO:0031224	C	0.81	intrinsic component of membrane
+GO:0016021	C	0.78	integral component of membrane
+GO:0005886	C	0.69	plasma membrane
+GO:0044444	C	0.61	cytoplasmic part
+GO:0043226	C	0.53	organelle
+GO:0005737	C	0.52	cytoplasm
+GO:0043227	C	0.49	membrane-bounded organelle
+GO:0044459	C	0.46	plasma membrane part
+GO:0044422	C	0.44	organelle part
+GO:0043229	C	0.44	intracellular organelle
+GO:0044446	C	0.43	intracellular organelle part
+GO:0043231	C	0.40	intracellular membrane-bounded organelle
+GO:0031226	C	0.40	intrinsic component of plasma membrane
+GO:0005887	C	0.36	integral component of plasma membrane
+GO:0044421	C	0.32	extracellular region part
+GO:0032991	C	0.31	macromolecular complex
+GO:0043234	C	0.27	protein complex
+GO:0031090	C	0.24	organelle membrane
+GO:0098588	C	0.23	bounding membrane of organelle
+GO:0009986	C	0.22	cell surface
+GO:0005615	C	0.22	extracellular space
+GO:0031982	C	0.21	vesicle
+GO:0031012	C	0.21	extracellular matrix
+GO:0005829	C	0.21	cytosol
+GO:0005578	C	0.20	proteinaceous extracellular matrix
+GO:0098805	C	0.19	whole membrane
+GO:0031988	C	0.15	membrane-bounded vesicle
+GO:0005576	C	0.15	extracellular region
+GO:0098552	C	0.14	side of membrane
+GO:0044437	C	0.14	vacuolar part
+GO:0005768	C	0.14	endosome
+GO:0098796	C	0.13	membrane protein complex
+GO:0043235	C	0.13	receptor complex
+GO:0010008	C	0.13	endosome membrane
+GO:0009897	C	0.13	external side of plasma membrane
+GO:0070062	C	0.12	extracellular exosome
+GO:0044428	C	0.12	nuclear part
+GO:0005634	C	0.12	nucleus

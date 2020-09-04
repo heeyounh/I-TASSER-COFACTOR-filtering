@@ -1,0 +1,24 @@
+GO:0009960	P	1.00	endosperm development
+GO:0009793	P	1.00	embryo development ending in seed dormancy
+GO:0009987	P	0.69	cellular process
+GO:0044763	P	0.52	single-organism cellular process
+GO:0006950	P	0.41	response to stress
+GO:0051704	P	0.40	multi-organism process
+GO:0030154	P	0.40	cell differentiation
+GO:0048646	P	0.39	anatomical structure formation involved in morphogenesis
+GO:0043934	P	0.39	sporulation
+GO:0008152	P	0.32	metabolic process
+GO:0071704	P	0.28	organic substance metabolic process
+GO:0044238	P	0.28	primary metabolic process
+GO:0044237	P	0.24	cellular metabolic process
+GO:0065007	P	0.21	biological regulation
+GO:0043170	P	0.19	macromolecule metabolic process
+GO:0044260	P	0.18	cellular macromolecule metabolic process
+GO:0050789	P	0.17	regulation of biological process
+GO:0034641	P	0.15	cellular nitrogen compound metabolic process
+GO:0006810	P	0.14	transport
+GO:1901576	P	0.13	organic substance biosynthetic process
+GO:0050794	P	0.13	regulation of cellular process
+GO:0006139	P	0.13	nucleobase-containing compound metabolic process
+GO:0044249	P	0.11	cellular biosynthetic process
+GO:0016070	P	0.11	RNA metabolic process

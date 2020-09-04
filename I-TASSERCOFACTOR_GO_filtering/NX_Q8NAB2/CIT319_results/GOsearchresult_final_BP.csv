@@ -1,0 +1,42 @@
+GO:0009987	P	0.98	cellular process
+GO:0044238	P	0.88	primary metabolic process
+GO:0044237	P	0.88	cellular metabolic process
+GO:0043170	P	0.88	macromolecule metabolic process
+GO:0044260	P	0.87	cellular macromolecule metabolic process
+GO:0019538	P	0.80	protein metabolic process
+GO:0032446	P	0.79	protein modification by small protein conjugation
+GO:0016567	P	0.65	protein ubiquitination
+GO:0065007	P	0.50	biological regulation
+GO:0042787	P	0.49	protein ubiquitination involved in ubiquitin-dependent protein catabolic process
+GO:0050789	P	0.48	regulation of biological process
+GO:0050794	P	0.46	regulation of cellular process
+GO:0044699	P	0.45	single-organism process
+GO:0044763	P	0.34	single-organism cellular process
+GO:0006351	P	0.32	transcription, DNA-templated
+GO:0032502	P	0.29	developmental process
+GO:0051179	P	0.27	localization
+GO:0044767	P	0.25	single-organism developmental process
+GO:0080090	P	0.24	regulation of primary metabolic process
+GO:0060255	P	0.24	regulation of macromolecule metabolic process
+GO:0031323	P	0.23	regulation of cellular metabolic process
+GO:0048519	P	0.22	negative regulation of biological process
+GO:2000112	P	0.20	regulation of cellular macromolecule biosynthetic process
+GO:0051171	P	0.20	regulation of nitrogen compound metabolic process
+GO:0048856	P	0.20	anatomical structure development
+GO:0010468	P	0.20	regulation of gene expression
+GO:0006810	P	0.19	transport
+GO:0016043	P	0.18	cellular component organization
+GO:0048523	P	0.17	negative regulation of cellular process
+GO:0006355	P	0.17	regulation of transcription, DNA-templated
+GO:0048869	P	0.14	cellular developmental process
+GO:0051704	P	0.13	multi-organism process
+GO:0006996	P	0.13	organelle organization
+GO:0051641	P	0.12	cellular localization
+GO:0048518	P	0.12	positive regulation of biological process
+GO:0016032	P	0.12	viral process
+GO:0010605	P	0.12	negative regulation of macromolecule metabolic process
+GO:0008104	P	0.12	protein localization
+GO:1901575	P	0.11	organic substance catabolic process
+GO:0065008	P	0.11	regulation of biological quality
+GO:0031324	P	0.11	negative regulation of cellular metabolic process
+GO:0022402	P	0.11	cell cycle process

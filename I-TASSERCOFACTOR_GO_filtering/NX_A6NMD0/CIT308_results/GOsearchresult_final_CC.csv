@@ -1,0 +1,34 @@
+GO:0044464	C	1.00	cell part
+GO:0016020	C	0.89	membrane
+GO:0044424	C	0.82	intracellular part
+GO:0005886	C	0.71	plasma membrane
+GO:0043226	C	0.66	organelle
+GO:0044444	C	0.65	cytoplasmic part
+GO:0043227	C	0.63	membrane-bounded organelle
+GO:0043229	C	0.59	intracellular organelle
+GO:0043231	C	0.56	intracellular membrane-bounded organelle
+GO:0044425	C	0.49	membrane part
+GO:0044446	C	0.48	intracellular organelle part
+GO:0044421	C	0.38	extracellular region part
+GO:0005737	C	0.36	cytoplasm
+GO:0098588	C	0.32	bounding membrane of organelle
+GO:0016021	C	0.32	integral component of membrane
+GO:0005829	C	0.30	cytosol
+GO:0005773	C	0.28	vacuole
+GO:0005634	C	0.26	nucleus
+GO:0031988	C	0.24	membrane-bounded vesicle
+GO:0098805	C	0.22	whole membrane
+GO:0070062	C	0.22	extracellular exosome
+GO:0044428	C	0.19	nuclear part
+GO:0032991	C	0.19	macromolecular complex
+GO:0044431	C	0.18	Golgi apparatus part
+GO:0000139	C	0.17	Golgi membrane
+GO:0044459	C	0.16	plasma membrane part
+GO:0043234	C	0.16	protein complex
+GO:0005768	C	0.16	endosome
+GO:0005615	C	0.16	extracellular space
+GO:0048471	C	0.15	perinuclear region of cytoplasm
+GO:0010008	C	0.15	endosome membrane
+GO:0005764	C	0.15	lysosome
+GO:0032580	C	0.11	Golgi cisterna membrane
+GO:0005783	C	0.11	endoplasmic reticulum

@@ -1,0 +1,12 @@
+GO:0003824	F	0.52	catalytic activity
+GO:0016491	F	0.39	oxidoreductase activity
+GO:0051540	F	0.36	metal cluster binding
+GO:0016903	F	0.36	oxidoreductase activity, acting on the aldehyde or oxo group of donors
+GO:1901363	F	0.35	heterocyclic compound binding
+GO:0097159	F	0.35	organic cyclic compound binding
+GO:0003676	F	0.24	nucleic acid binding
+GO:0003723	F	0.21	RNA binding
+GO:0098772	F	0.15	molecular function regulator
+GO:0030234	F	0.13	enzyme regulator activity
+GO:0016740	F	0.13	transferase activity
+GO:0044822	F	0.12	poly(A) RNA binding

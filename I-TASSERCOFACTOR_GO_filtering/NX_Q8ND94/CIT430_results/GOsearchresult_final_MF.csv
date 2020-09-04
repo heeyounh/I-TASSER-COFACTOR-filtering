@@ -1,0 +1,25 @@
+GO:0003824	F	0.54	catalytic activity
+GO:0016787	F	0.39	hydrolase activity
+GO:0005198	F	0.33	structural molecule activity
+GO:0004872	F	0.30	receptor activity
+GO:0004871	F	0.30	signal transducer activity
+GO:0008307	F	0.28	structural constituent of muscle
+GO:0004888	F	0.26	transmembrane signaling receptor activity
+GO:1901363	F	0.25	heterocyclic compound binding
+GO:0097159	F	0.25	organic cyclic compound binding
+GO:0042802	F	0.23	identical protein binding
+GO:0016740	F	0.23	transferase activity
+GO:0043167	F	0.22	ion binding
+GO:0046872	F	0.20	metal ion binding
+GO:0042803	F	0.19	protein homodimerization activity
+GO:0008092	F	0.18	cytoskeletal protein binding
+GO:0004672	F	0.17	protein kinase activity
+GO:0097367	F	0.15	carbohydrate derivative binding
+GO:0032403	F	0.15	protein complex binding
+GO:0003676	F	0.15	nucleic acid binding
+GO:0036094	F	0.12	small molecule binding
+GO:0098772	F	0.11	molecular function regulator
+GO:0097493	F	0.11	structural molecule activity conferring elasticity
+GO:0051371	F	0.11	muscle alpha-actinin binding
+GO:0051015	F	0.11	actin filament binding
+GO:0008046	F	0.11	axon guidance receptor activity

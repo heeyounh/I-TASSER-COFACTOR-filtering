@@ -1,0 +1,43 @@
+GO:0016021	C	1.00	integral component of membrane
+GO:0016020	C	1.00	membrane
+GO:0044464	C	0.99	cell part
+GO:0005886	C	0.81	plasma membrane
+GO:0044424	C	0.77	intracellular part
+GO:0044459	C	0.68	plasma membrane part
+GO:0043226	C	0.62	organelle
+GO:0005887	C	0.59	integral component of plasma membrane
+GO:0043227	C	0.58	membrane-bounded organelle
+GO:0030054	C	0.58	cell junction
+GO:0097458	C	0.50	neuron part
+GO:0042995	C	0.50	cell projection
+GO:0043229	C	0.45	intracellular organelle
+GO:0005911	C	0.45	cell-cell junction
+GO:0043005	C	0.44	neuron projection
+GO:0030424	C	0.43	axon
+GO:0044444	C	0.40	cytoplasmic part
+GO:0043231	C	0.40	intracellular membrane-bounded organelle
+GO:0005737	C	0.39	cytoplasm
+GO:0044421	C	0.35	extracellular region part
+GO:0031982	C	0.33	vesicle
+GO:0031988	C	0.28	membrane-bounded vesicle
+GO:0005912	C	0.28	adherens junction
+GO:0005913	C	0.26	cell-cell adherens junction
+GO:0005634	C	0.26	nucleus
+GO:0043234	C	0.24	protein complex
+GO:0070062	C	0.23	extracellular exosome
+GO:0044297	C	0.22	cell body
+GO:0044422	C	0.21	organelle part
+GO:0043025	C	0.21	neuronal cell body
+GO:0098590	C	0.19	plasma membrane region
+GO:0044463	C	0.19	cell projection part
+GO:0009986	C	0.19	cell surface
+GO:0045202	C	0.18	synapse
+GO:0044446	C	0.18	intracellular organelle part
+GO:0005576	C	0.17	extracellular region
+GO:0030425	C	0.15	dendrite
+GO:0005917	C	0.13	nephrocyte diaphragm
+GO:0030426	C	0.12	growth cone
+GO:0098552	C	0.11	side of membrane
+GO:0097060	C	0.11	synaptic membrane
+GO:0005938	C	0.11	cell cortex
+GO:0005615	C	0.11	extracellular space

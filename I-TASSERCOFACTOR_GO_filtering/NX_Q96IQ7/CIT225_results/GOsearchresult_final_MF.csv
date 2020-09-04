@@ -1,0 +1,40 @@
+GO:0004872	F	0.71	receptor activity
+GO:0042802	F	0.67	identical protein binding
+GO:0046983	F	0.62	protein dimerization activity
+GO:0003824	F	0.61	catalytic activity
+GO:0005102	F	0.59	receptor binding
+GO:0004888	F	0.58	transmembrane signaling receptor activity
+GO:0050839	F	0.56	cell adhesion molecule binding
+GO:1901363	F	0.55	heterocyclic compound binding
+GO:0097159	F	0.55	organic cyclic compound binding
+GO:0019899	F	0.52	enzyme binding
+GO:0016740	F	0.52	transferase activity
+GO:0043169	F	0.51	cation binding
+GO:0097367	F	0.50	carbohydrate derivative binding
+GO:0004672	F	0.50	protein kinase activity
+GO:0004713	F	0.48	protein tyrosine kinase activity
+GO:0005539	F	0.47	glycosaminoglycan binding
+GO:0004714	F	0.47	transmembrane receptor protein tyrosine kinase activity
+GO:0000166	F	0.47	nucleotide binding
+GO:0035639	F	0.46	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.46	purine ribonucleotide binding
+GO:0032550	F	0.46	purine ribonucleoside binding
+GO:1901681	F	0.45	sulfur compound binding
+GO:0098772	F	0.45	molecular function regulator
+GO:0070851	F	0.44	growth factor receptor binding
+GO:0052813	F	0.44	phosphatidylinositol bisphosphate kinase activity
+GO:0035004	F	0.44	phosphatidylinositol 3-kinase activity
+GO:0032559	F	0.44	adenyl ribonucleotide binding
+GO:0005085	F	0.44	guanyl-nucleotide exchange factor activity
+GO:0005057	F	0.44	receptor signaling protein activity
+GO:0098632	F	0.43	protein binding involved in cell-cell adhesion
+GO:0045296	F	0.42	cadherin binding
+GO:0019904	F	0.40	protein domain specific binding
+GO:0030165	F	0.39	PDZ domain binding
+GO:0042803	F	0.32	protein homodimerization activity
+GO:0003823	F	0.15	antigen binding
+GO:0008046	F	0.14	axon guidance receptor activity
+GO:0046872	F	0.13	metal ion binding
+GO:0032403	F	0.13	protein complex binding
+GO:0005198	F	0.12	structural molecule activity
+GO:0003676	F	0.12	nucleic acid binding

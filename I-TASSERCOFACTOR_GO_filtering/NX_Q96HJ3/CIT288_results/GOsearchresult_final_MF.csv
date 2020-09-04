@@ -1,0 +1,24 @@
+GO:0003824	F	0.65	catalytic activity
+GO:0008092	F	0.56	cytoskeletal protein binding
+GO:0043169	F	0.40	cation binding
+GO:0016787	F	0.36	hydrolase activity
+GO:0044877	F	0.35	macromolecular complex binding
+GO:0097159	F	0.32	organic cyclic compound binding
+GO:0032403	F	0.32	protein complex binding
+GO:1901363	F	0.30	heterocyclic compound binding
+GO:0017111	F	0.29	nucleoside-triphosphatase activity
+GO:0097367	F	0.28	carbohydrate derivative binding
+GO:0016887	F	0.27	ATPase activity
+GO:0016740	F	0.27	transferase activity
+GO:0003774	F	0.25	motor activity
+GO:0003777	F	0.23	microtubule motor activity
+GO:0016772	F	0.19	transferase activity, transferring phosphorus-containing groups
+GO:0016773	F	0.18	phosphotransferase activity, alcohol group as acceptor
+GO:0016301	F	0.18	kinase activity
+GO:0003676	F	0.18	nucleic acid binding
+GO:0036094	F	0.16	small molecule binding
+GO:0008201	F	0.16	heparin binding
+GO:0000166	F	0.14	nucleotide binding
+GO:0046872	F	0.13	metal ion binding
+GO:0004871	F	0.13	signal transducer activity
+GO:0005524	F	0.12	ATP binding

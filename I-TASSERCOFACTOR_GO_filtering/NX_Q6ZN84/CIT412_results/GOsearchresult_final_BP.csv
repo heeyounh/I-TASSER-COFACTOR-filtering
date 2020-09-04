@@ -1,0 +1,68 @@
+GO:0045717	P	1.00	negative regulation of fatty acid biosynthetic process
+GO:0009987	P	0.71	cellular process
+GO:0044699	P	0.61	single-organism process
+GO:0044763	P	0.56	single-organism cellular process
+GO:0016043	P	0.41	cellular component organization
+GO:0006928	P	0.31	movement of cell or subcellular component
+GO:0006996	P	0.30	organelle organization
+GO:0044767	P	0.29	single-organism developmental process
+GO:0007017	P	0.29	microtubule-based process
+GO:1902589	P	0.24	single-organism organelle organization
+GO:0051179	P	0.24	localization
+GO:0051234	P	0.22	establishment of localization
+GO:0048856	P	0.22	anatomical structure development
+GO:0007010	P	0.22	cytoskeleton organization
+GO:0007018	P	0.21	microtubule-based movement
+GO:0048869	P	0.20	cellular developmental process
+GO:0022607	P	0.20	cellular component assembly
+GO:0006810	P	0.20	transport
+GO:0071704	P	0.19	organic substance metabolic process
+GO:0060255	P	0.19	regulation of macromolecule metabolic process
+GO:0044238	P	0.19	primary metabolic process
+GO:0044237	P	0.19	cellular metabolic process
+GO:0051128	P	0.18	regulation of cellular component organization
+GO:0048518	P	0.18	positive regulation of biological process
+GO:0043170	P	0.18	macromolecule metabolic process
+GO:0048522	P	0.17	positive regulation of cellular process
+GO:0044260	P	0.17	cellular macromolecule metabolic process
+GO:0030029	P	0.16	actin filament-based process
+GO:0009653	P	0.16	anatomical structure morphogenesis
+GO:0032501	P	0.15	multicellular organismal process
+GO:0030036	P	0.15	actin cytoskeleton organization
+GO:0022402	P	0.15	cell cycle process
+GO:0051641	P	0.14	cellular localization
+GO:0051171	P	0.14	regulation of nitrogen compound metabolic process
+GO:0048583	P	0.14	regulation of response to stimulus
+GO:0048468	P	0.14	cell development
+GO:0033043	P	0.14	regulation of organelle organization
+GO:0023051	P	0.14	regulation of signaling
+GO:0010646	P	0.14	regulation of cell communication
+GO:0010468	P	0.14	regulation of gene expression
+GO:2000112	P	0.13	regulation of cellular macromolecule biosynthetic process
+GO:0051649	P	0.13	establishment of localization in cell
+GO:0050896	P	0.13	response to stimulus
+GO:0031032	P	0.13	actomyosin structure organization
+GO:0019219	P	0.13	regulation of nucleobase-containing compound metabolic process
+GO:0009966	P	0.13	regulation of signal transduction
+GO:0007015	P	0.13	actin filament organization
+GO:1903047	P	0.12	mitotic cell cycle process
+GO:0065008	P	0.12	regulation of biological quality
+GO:0050793	P	0.12	regulation of developmental process
+GO:0044267	P	0.12	cellular protein metabolic process
+GO:0032268	P	0.12	regulation of cellular protein metabolic process
+GO:0030030	P	0.12	cell projection organization
+GO:0016192	P	0.12	vesicle-mediated transport
+GO:0007165	P	0.12	signal transduction
+GO:0006355	P	0.12	regulation of transcription, DNA-templated
+GO:0065009	P	0.11	regulation of molecular function
+GO:0051764	P	0.11	actin crosslink formation
+GO:0051726	P	0.11	regulation of cell cycle
+GO:0051017	P	0.11	actin filament bundle assembly
+GO:0048741	P	0.11	skeletal muscle fiber development
+GO:0045214	P	0.11	sarcomere organization
+GO:0044707	P	0.11	single-multicellular organism process
+GO:0032879	P	0.11	regulation of localization
+GO:0031325	P	0.11	positive regulation of cellular metabolic process
+GO:0022414	P	0.11	reproductive process
+GO:0010604	P	0.11	positive regulation of macromolecule metabolic process
+GO:0006464	P	0.11	cellular protein modification process

@@ -1,0 +1,20 @@
+GO:0065003	P	0.90	protein-containing complex assembly
+GO:0006376	P	0.89	mRNA splice site selection
+GO:0071704	P	0.34	organic substance metabolic process
+GO:0044237	P	0.32	cellular metabolic process
+GO:0044238	P	0.29	primary metabolic process
+GO:0043170	P	0.23	macromolecule metabolic process
+GO:0006807	P	0.23	nitrogen compound metabolic process
+GO:0044281	P	0.20	small molecule metabolic process
+GO:0065007	P	0.19	biological regulation
+GO:0044260	P	0.18	cellular macromolecule metabolic process
+GO:1901360	P	0.17	organic cyclic compound metabolic process
+GO:0050789	P	0.17	regulation of biological process
+GO:0034641	P	0.17	cellular nitrogen compound metabolic process
+GO:0006139	P	0.15	nucleobase-containing compound metabolic process
+GO:0009058	P	0.14	biosynthetic process
+GO:1901576	P	0.13	organic substance biosynthetic process
+GO:0090304	P	0.13	nucleic acid metabolic process
+GO:0044249	P	0.13	cellular biosynthetic process
+GO:0050794	P	0.12	regulation of cellular process
+GO:0016070	P	0.11	RNA metabolic process

@@ -1,0 +1,15 @@
+GO:0044424	C	0.73	intracellular part
+GO:0043229	C	0.67	intracellular organelle
+GO:0044444	C	0.60	cytoplasmic part
+GO:0044429	C	0.47	mitochondrial part
+GO:0043231	C	0.47	intracellular membrane-bounded organelle
+GO:0005759	C	0.40	mitochondrial matrix
+GO:0005739	C	0.40	mitochondrion
+GO:0043234	C	0.27	protein complex
+GO:0005737	C	0.27	cytoplasm
+GO:0005576	C	0.27	extracellular region
+GO:0031966	C	0.20	mitochondrial membrane
+GO:0005694	C	0.20	chromosome
+GO:0005967	C	0.13	mitochondrial pyruvate dehydrogenase complex
+GO:0005829	C	0.13	cytosol
+GO:0005743	C	0.13	mitochondrial inner membrane

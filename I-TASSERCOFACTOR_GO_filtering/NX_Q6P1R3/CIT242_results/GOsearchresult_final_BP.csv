@@ -1,0 +1,42 @@
+GO:0065007	P	0.90	biological regulation
+GO:0050789	P	0.89	regulation of biological process
+GO:0060255	P	0.87	regulation of macromolecule metabolic process
+GO:0010468	P	0.86	regulation of gene expression
+GO:0050794	P	0.75	regulation of cellular process
+GO:0009987	P	0.72	cellular process
+GO:0080090	P	0.71	regulation of primary metabolic process
+GO:0031323	P	0.71	regulation of cellular metabolic process
+GO:0031326	P	0.69	regulation of cellular biosynthetic process
+GO:0010556	P	0.69	regulation of macromolecule biosynthetic process
+GO:0006355	P	0.68	regulation of transcription, DNA-templated
+GO:0044237	P	0.52	cellular metabolic process
+GO:0071704	P	0.50	organic substance metabolic process
+GO:0044238	P	0.50	primary metabolic process
+GO:0044260	P	0.48	cellular macromolecule metabolic process
+GO:0006139	P	0.42	nucleobase-containing compound metabolic process
+GO:0016070	P	0.39	RNA metabolic process
+GO:0016043	P	0.35	cellular component organization
+GO:0044699	P	0.33	single-organism process
+GO:0044249	P	0.27	cellular biosynthetic process
+GO:1901576	P	0.25	organic substance biosynthetic process
+GO:0044763	P	0.25	single-organism cellular process
+GO:0034645	P	0.21	cellular macromolecule biosynthetic process
+GO:0006396	P	0.21	RNA processing
+GO:0034654	P	0.20	nucleobase-containing compound biosynthetic process
+GO:0048518	P	0.18	positive regulation of biological process
+GO:0006996	P	0.18	organelle organization
+GO:0051239	P	0.16	regulation of multicellular organismal process
+GO:0048522	P	0.16	positive regulation of cellular process
+GO:0043933	P	0.16	macromolecular complex subunit organization
+GO:0006351	P	0.16	transcription, DNA-templated
+GO:0016071	P	0.15	mRNA metabolic process
+GO:0048519	P	0.14	negative regulation of biological process
+GO:0044767	P	0.14	single-organism developmental process
+GO:0031325	P	0.14	positive regulation of cellular metabolic process
+GO:0010604	P	0.14	positive regulation of macromolecule metabolic process
+GO:0006397	P	0.13	mRNA processing
+GO:2000026	P	0.12	regulation of multicellular organismal development
+GO:0050896	P	0.12	response to stimulus
+GO:0048284	P	0.12	organelle fusion
+GO:0032501	P	0.12	multicellular organismal process
+GO:0045893	P	0.11	positive regulation of transcription, DNA-templated

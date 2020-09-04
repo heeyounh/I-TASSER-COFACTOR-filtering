@@ -1,0 +1,147 @@
+GO:0009987	P	0.96	cellular process
+GO:0044699	P	0.94	single-organism process
+GO:0044763	P	0.90	single-organism cellular process
+GO:0065007	P	0.87	biological regulation
+GO:0050789	P	0.86	regulation of biological process
+GO:0050794	P	0.85	regulation of cellular process
+GO:0016043	P	0.83	cellular component organization
+GO:0044767	P	0.82	single-organism developmental process
+GO:0048518	P	0.79	positive regulation of biological process
+GO:0050793	P	0.77	regulation of developmental process
+GO:0051128	P	0.74	regulation of cellular component organization
+GO:0019222	P	0.73	regulation of metabolic process
+GO:0060255	P	0.72	regulation of macromolecule metabolic process
+GO:0048519	P	0.72	negative regulation of biological process
+GO:0048522	P	0.71	positive regulation of cellular process
+GO:0045595	P	0.71	regulation of cell differentiation
+GO:0022604	P	0.69	regulation of cell morphogenesis
+GO:0051239	P	0.68	regulation of multicellular organismal process
+GO:0051094	P	0.68	positive regulation of developmental process
+GO:0010769	P	0.68	regulation of cell morphogenesis involved in differentiation
+GO:2000026	P	0.67	regulation of multicellular organismal development
+GO:0009653	P	0.67	anatomical structure morphogenesis
+GO:0048869	P	0.65	cellular developmental process
+GO:0010468	P	0.65	regulation of gene expression
+GO:0009893	P	0.65	positive regulation of metabolic process
+GO:0051130	P	0.64	positive regulation of cellular component organization
+GO:0010604	P	0.64	positive regulation of macromolecule metabolic process
+GO:0048646	P	0.62	anatomical structure formation involved in morphogenesis
+GO:0010605	P	0.62	negative regulation of macromolecule metabolic process
+GO:0031323	P	0.61	regulation of cellular metabolic process
+GO:0010717	P	0.61	regulation of epithelial to mesenchymal transition
+GO:0003188	P	0.61	heart valve formation
+GO:0080090	P	0.60	regulation of primary metabolic process
+GO:0045597	P	0.59	positive regulation of cell differentiation
+GO:0008152	P	0.59	metabolic process
+GO:0048523	P	0.58	negative regulation of cellular process
+GO:0051246	P	0.57	regulation of protein metabolic process
+GO:0071704	P	0.56	organic substance metabolic process
+GO:0010770	P	0.56	positive regulation of cell morphogenesis involved in differentiation
+GO:0051240	P	0.55	positive regulation of multicellular organismal process
+GO:0044238	P	0.55	primary metabolic process
+GO:0032879	P	0.55	regulation of localization
+GO:0051960	P	0.54	regulation of nervous system development
+GO:0044237	P	0.54	cellular metabolic process
+GO:0030334	P	0.54	regulation of cell migration
+GO:0061024	P	0.53	membrane organization
+GO:0048856	P	0.53	anatomical structure development
+GO:0043170	P	0.53	macromolecule metabolic process
+GO:0022607	P	0.53	cellular component assembly
+GO:0051171	P	0.52	regulation of nitrogen compound metabolic process
+GO:0045162	P	0.52	clustering of voltage-gated sodium channels
+GO:0034641	P	0.51	cellular nitrogen compound metabolic process
+GO:0061387	P	0.50	regulation of extent of cell growth
+GO:0050770	P	0.50	regulation of axonogenesis
+GO:0048638	P	0.50	regulation of developmental growth
+GO:0043933	P	0.50	macromolecular complex subunit organization
+GO:0019538	P	0.50	protein metabolic process
+GO:0031324	P	0.49	negative regulation of cellular metabolic process
+GO:0006461	P	0.49	protein complex assembly
+GO:1901564	P	0.48	organonitrogen compound metabolic process
+GO:0051248	P	0.48	negative regulation of protein metabolic process
+GO:0051172	P	0.48	negative regulation of nitrogen compound metabolic process
+GO:0034248	P	0.48	regulation of cellular amide metabolic process
+GO:0007165	P	0.48	signal transduction
+GO:2001222	P	0.47	regulation of neuron migration
+GO:1902992	P	0.47	negative regulation of amyloid precursor protein catabolic process
+GO:0050768	P	0.47	negative regulation of neurogenesis
+GO:0048675	P	0.47	axon extension
+GO:0034249	P	0.47	negative regulation of cellular amide metabolic process
+GO:0030336	P	0.47	negative regulation of cell migration
+GO:0009887	P	0.47	organ morphogenesis
+GO:0034205	P	0.46	beta-amyloid formation
+GO:0003181	P	0.46	atrioventricular valve morphogenesis
+GO:0003007	P	0.46	heart morphogenesis
+GO:0050896	P	0.44	response to stimulus
+GO:0044087	P	0.41	regulation of cellular component biogenesis
+GO:0032501	P	0.41	multicellular organismal process
+GO:0048513	P	0.40	animal organ development
+GO:0044089	P	0.40	positive regulation of cellular component biogenesis
+GO:0023051	P	0.40	regulation of signaling
+GO:0065008	P	0.39	regulation of biological quality
+GO:0048583	P	0.39	regulation of response to stimulus
+GO:0032268	P	0.39	regulation of cellular protein metabolic process
+GO:0010646	P	0.39	regulation of cell communication
+GO:1902531	P	0.38	regulation of intracellular signal transduction
+GO:0007155	P	0.38	cell adhesion
+GO:0003008	P	0.38	system process
+GO:0098609	P	0.37	cell-cell adhesion
+GO:0040011	P	0.37	locomotion
+GO:0033043	P	0.37	regulation of organelle organization
+GO:0032970	P	0.37	regulation of actin filament-based process
+GO:0023057	P	0.37	negative regulation of signaling
+GO:0010648	P	0.37	negative regulation of cell communication
+GO:0001932	P	0.37	regulation of protein phosphorylation
+GO:1902532	P	0.36	negative regulation of intracellular signal transduction
+GO:1900026	P	0.36	positive regulation of substrate adhesion-dependent cell spreading
+GO:0051493	P	0.36	regulation of cytoskeleton organization
+GO:0048584	P	0.36	positive regulation of response to stimulus
+GO:0043408	P	0.36	regulation of MAPK cascade
+GO:0030154	P	0.36	cell differentiation
+GO:0023056	P	0.36	positive regulation of signaling
+GO:0051962	P	0.35	positive regulation of nervous system development
+GO:0051897	P	0.35	positive regulation of protein kinase B signaling
+GO:0051495	P	0.35	positive regulation of cytoskeleton organization
+GO:0050807	P	0.35	regulation of synapse organization
+GO:0046578	P	0.35	regulation of Ras protein signal transduction
+GO:0042552	P	0.35	myelination
+GO:0042221	P	0.35	response to chemical
+GO:0032956	P	0.35	regulation of actin cytoskeleton organization
+GO:0010639	P	0.35	negative regulation of organelle organization
+GO:0007169	P	0.35	transmembrane receptor protein tyrosine kinase signaling pathway
+GO:0001649	P	0.35	osteoblast differentiation
+GO:0060348	P	0.34	bone development
+GO:0051901	P	0.34	positive regulation of mitochondrial depolarization
+GO:0051894	P	0.34	positive regulation of focal adhesion assembly
+GO:0051497	P	0.34	negative regulation of stress fiber assembly
+GO:0051496	P	0.34	positive regulation of stress fiber assembly
+GO:0038133	P	0.34	ERBB2-ERBB3 signaling pathway
+GO:0038031	P	0.34	non-canonical Wnt signaling pathway via JNK cascade
+GO:0035024	P	0.34	negative regulation of Rho protein signal transduction
+GO:0030335	P	0.34	positive regulation of cell migration
+GO:0022011	P	0.34	myelination in peripheral nervous system
+GO:0014734	P	0.34	skeletal muscle hypertrophy
+GO:0014068	P	0.34	positive regulation of phosphatidylinositol 3-kinase signaling
+GO:0001953	P	0.34	negative regulation of cell-matrix adhesion
+GO:0032989	P	0.33	cellular component morphogenesis
+GO:0010033	P	0.33	response to organic substance
+GO:1901700	P	0.32	response to oxygen-containing compound
+GO:0051965	P	0.32	positive regulation of synapse assembly
+GO:0010628	P	0.32	positive regulation of gene expression
+GO:0009719	P	0.32	response to endogenous stimulus
+GO:0007186	P	0.32	G-protein coupled receptor signaling pathway
+GO:0014070	P	0.31	response to organic cyclic compound
+GO:0042220	P	0.30	response to cocaine
+GO:0031987	P	0.30	locomotion involved in locomotory behavior
+GO:0000904	P	0.29	cell morphogenesis involved in differentiation
+GO:0060317	P	0.28	cardiac epithelial to mesenchymal transition
+GO:0010629	P	0.28	negative regulation of gene expression
+GO:0010718	P	0.27	positive regulation of epithelial to mesenchymal transition
+GO:0003190	P	0.27	atrioventricular valve formation
+GO:0030030	P	0.18	cell projection organization
+GO:0051234	P	0.17	establishment of localization
+GO:0006810	P	0.16	transport
+GO:0006928	P	0.15	movement of cell or subcellular component
+GO:0006996	P	0.14	organelle organization
+GO:0044260	P	0.11	cellular macromolecule metabolic process
+GO:0031175	P	0.11	neuron projection development

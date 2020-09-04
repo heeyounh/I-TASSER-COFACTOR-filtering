@@ -1,0 +1,19 @@
+GO:0000428	C	1.00	DNA-directed RNA polymerase complex
+GO:0005737	C	0.94	cytoplasm
+GO:0043226	C	0.77	organelle
+GO:0043229	C	0.75	intracellular organelle
+GO:0043227	C	0.75	membrane-bounded organelle
+GO:0043231	C	0.73	intracellular membrane-bounded organelle
+GO:0044446	C	0.70	intracellular organelle part
+GO:0005634	C	0.69	nucleus
+GO:0044428	C	0.66	nuclear part
+GO:0055029	C	0.64	nuclear DNA-directed RNA polymerase complex
+GO:0044444	C	0.52	cytoplasmic part
+GO:0005665	C	0.41	DNA-directed RNA polymerase II, core complex
+GO:0016020	C	0.35	membrane
+GO:0005829	C	0.35	cytosol
+GO:0043232	C	0.24	intracellular non-membrane-bounded organelle
+GO:0005730	C	0.21	nucleolus
+GO:0005736	C	0.20	DNA-directed RNA polymerase I complex
+GO:0044427	C	0.13	chromosomal part
+GO:0000790	C	0.12	nuclear chromatin

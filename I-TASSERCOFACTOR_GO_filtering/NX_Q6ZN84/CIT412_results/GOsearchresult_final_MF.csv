@@ -1,0 +1,17 @@
+GO:0004857	F	1.00	enzyme inhibitor activity
+GO:0043169	F	0.49	cation binding
+GO:0003824	F	0.47	catalytic activity
+GO:0008092	F	0.38	cytoskeletal protein binding
+GO:0044877	F	0.36	macromolecular complex binding
+GO:0032403	F	0.35	protein complex binding
+GO:0016787	F	0.33	hydrolase activity
+GO:0017111	F	0.29	nucleoside-triphosphatase activity
+GO:0016887	F	0.27	ATPase activity
+GO:0003774	F	0.26	motor activity
+GO:0003777	F	0.22	microtubule motor activity
+GO:0046872	F	0.15	metal ion binding
+GO:0016740	F	0.14	transferase activity
+GO:0005509	F	0.14	calcium ion binding
+GO:1901363	F	0.11	heterocyclic compound binding
+GO:0097159	F	0.11	organic cyclic compound binding
+GO:0016772	F	0.11	transferase activity, transferring phosphorus-containing groups

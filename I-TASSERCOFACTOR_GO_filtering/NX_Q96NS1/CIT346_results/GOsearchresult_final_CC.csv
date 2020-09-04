@@ -1,0 +1,25 @@
+GO:0005829	C	1.00	cytosol
+GO:0043226	C	0.79	organelle
+GO:0043229	C	0.78	intracellular organelle
+GO:0005737	C	0.72	cytoplasm
+GO:0043227	C	0.65	membrane-bounded organelle
+GO:0043231	C	0.64	intracellular membrane-bounded organelle
+GO:0005634	C	0.59	nucleus
+GO:0016020	C	0.48	membrane
+GO:0044422	C	0.45	organelle part
+GO:0044446	C	0.44	intracellular organelle part
+GO:0043232	C	0.44	intracellular non-membrane-bounded organelle
+GO:0044428	C	0.28	nuclear part
+GO:0032991	C	0.28	macromolecular complex
+GO:0043234	C	0.26	protein complex
+GO:1902494	C	0.22	catalytic complex
+GO:1990234	C	0.21	transferase complex
+GO:0031464	C	0.20	Cul4A-RING E3 ubiquitin ligase complex
+GO:0015629	C	0.20	actin cytoskeleton
+GO:0005886	C	0.20	plasma membrane
+GO:0044425	C	0.19	membrane part
+GO:0030054	C	0.15	cell junction
+GO:0005730	C	0.14	nucleolus
+GO:0042995	C	0.13	cell projection
+GO:0032587	C	0.13	ruffle membrane
+GO:0005923	C	0.13	bicellular tight junction

@@ -1,0 +1,67 @@
+GO:0043229	C	1.00	intracellular organelle
+GO:0005737	C	0.87	cytoplasm
+GO:0043232	C	0.84	intracellular non-membrane-bounded organelle
+GO:0044444	C	0.83	cytoplasmic part
+GO:0005856	C	0.81	cytoskeleton
+GO:0044422	C	0.80	organelle part
+GO:0044446	C	0.79	intracellular organelle part
+GO:0043227	C	0.70	membrane-bounded organelle
+GO:0044430	C	0.67	cytoskeletal part
+GO:0043231	C	0.60	intracellular membrane-bounded organelle
+GO:0032991	C	0.59	macromolecular complex
+GO:0043234	C	0.58	protein complex
+GO:0016020	C	0.56	membrane
+GO:0005829	C	0.51	cytosol
+GO:0031988	C	0.45	membrane-bounded vesicle
+GO:0044421	C	0.42	extracellular region part
+GO:0005886	C	0.38	plasma membrane
+GO:1903561	C	0.36	extracellular vesicle
+GO:0044425	C	0.36	membrane part
+GO:0070062	C	0.35	extracellular exosome
+GO:0042995	C	0.35	cell projection
+GO:0005634	C	0.35	nucleus
+GO:0005938	C	0.31	cell cortex
+GO:0099513	C	0.30	polymeric cytoskeletal fiber
+GO:0044448	C	0.30	cell cortex part
+GO:0044463	C	0.26	cell projection part
+GO:0097458	C	0.25	neuron part
+GO:0044428	C	0.24	nuclear part
+GO:0042641	C	0.24	actomyosin
+GO:0043005	C	0.23	neuron projection
+GO:0032432	C	0.23	actin filament bundle
+GO:0030054	C	0.22	cell junction
+GO:0005884	C	0.22	actin filament
+GO:0044449	C	0.21	contractile fiber part
+GO:0031410	C	0.21	cytoplasmic vesicle
+GO:0032155	C	0.20	cell division site part
+GO:0016023	C	0.20	cytoplasmic, membrane-bounded vesicle
+GO:0015629	C	0.20	actin cytoskeleton
+GO:0005925	C	0.20	focal adhesion
+GO:0005875	C	0.20	microtubule associated complex
+GO:0031252	C	0.19	cell leading edge
+GO:0030018	C	0.19	Z disc
+GO:0001725	C	0.19	stress fiber
+GO:0005871	C	0.18	kinesin complex
+GO:0044459	C	0.17	plasma membrane part
+GO:0016459	C	0.17	myosin complex
+GO:0005739	C	0.17	mitochondrion
+GO:0005911	C	0.16	cell-cell junction
+GO:0005773	C	0.16	vacuole
+GO:0070938	C	0.15	contractile ring
+GO:0044456	C	0.15	synapse part
+GO:0031224	C	0.15	intrinsic component of membrane
+GO:0016460	C	0.15	myosin II complex
+GO:0005913	C	0.15	cell-cell adherens junction
+GO:0098794	C	0.14	postsynapse
+GO:0045335	C	0.14	phagocytic vesicle
+GO:0032982	C	0.14	myosin filament
+GO:0030863	C	0.14	cortical cytoskeleton
+GO:0030426	C	0.14	growth cone
+GO:0016021	C	0.14	integral component of membrane
+GO:0005903	C	0.14	brush border
+GO:0005826	C	0.14	actomyosin contractile ring
+GO:0000331	C	0.14	contractile vacuole
+GO:0044427	C	0.13	chromosomal part
+GO:0031012	C	0.13	extracellular matrix
+GO:0005815	C	0.12	microtubule organizing center
+GO:0005813	C	0.11	centrosome

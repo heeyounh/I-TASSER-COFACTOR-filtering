@@ -1,0 +1,12 @@
+GO:0044464	C	0.99	cell part
+GO:0044424	C	0.98	intracellular part
+GO:0044446	C	0.96	intracellular organelle part
+GO:0005654	C	0.95	nucleoplasm
+GO:0016020	C	0.35	membrane
+GO:0044444	C	0.30	cytoplasmic part
+GO:0043229	C	0.20	intracellular organelle
+GO:0043231	C	0.19	intracellular membrane-bounded organelle
+GO:0005886	C	0.14	plasma membrane
+GO:0044429	C	0.13	mitochondrial part
+GO:0044425	C	0.11	membrane part
+GO:0005634	C	0.11	nucleus

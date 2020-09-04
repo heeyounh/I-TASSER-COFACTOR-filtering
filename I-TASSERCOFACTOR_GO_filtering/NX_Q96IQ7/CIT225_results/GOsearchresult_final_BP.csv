@@ -1,0 +1,268 @@
+GO:0044699	P	0.93	single-organism process
+GO:0009987	P	0.87	cellular process
+GO:0044763	P	0.83	single-organism cellular process
+GO:0065007	P	0.79	biological regulation
+GO:0050789	P	0.75	regulation of biological process
+GO:0032502	P	0.75	developmental process
+GO:0044767	P	0.73	single-organism developmental process
+GO:0050794	P	0.70	regulation of cellular process
+GO:0048856	P	0.69	anatomical structure development
+GO:0007155	P	0.66	cell adhesion
+GO:0048869	P	0.61	cellular developmental process
+GO:0006928	P	0.61	movement of cell or subcellular component
+GO:0098609	P	0.60	cell-cell adhesion
+GO:0016043	P	0.60	cellular component organization
+GO:0051239	P	0.59	regulation of multicellular organismal process
+GO:0050896	P	0.59	response to stimulus
+GO:0048513	P	0.59	animal organ development
+GO:0008152	P	0.59	metabolic process
+GO:0071704	P	0.58	organic substance metabolic process
+GO:0044238	P	0.58	primary metabolic process
+GO:0050793	P	0.57	regulation of developmental process
+GO:0009653	P	0.57	anatomical structure morphogenesis
+GO:2000026	P	0.56	regulation of multicellular organismal development
+GO:0048518	P	0.56	positive regulation of biological process
+GO:0097485	P	0.55	neuron projection guidance
+GO:0051128	P	0.55	regulation of cellular component organization
+GO:0048583	P	0.55	regulation of response to stimulus
+GO:0048519	P	0.55	negative regulation of biological process
+GO:0045595	P	0.55	regulation of cell differentiation
+GO:0044237	P	0.55	cellular metabolic process
+GO:0098742	P	0.54	cell-cell adhesion via plasma-membrane adhesion molecules
+GO:0051179	P	0.54	localization
+GO:0048522	P	0.54	positive regulation of cellular process
+GO:0022603	P	0.54	regulation of anatomical structure morphogenesis
+GO:0051234	P	0.53	establishment of localization
+GO:0050767	P	0.53	regulation of neurogenesis
+GO:0048468	P	0.53	cell development
+GO:0032501	P	0.53	multicellular organismal process
+GO:0048731	P	0.52	system development
+GO:0042221	P	0.52	response to chemical
+GO:0031344	P	0.52	regulation of cell projection organization
+GO:0022604	P	0.52	regulation of cell morphogenesis
+GO:0050790	P	0.51	regulation of catalytic activity
+GO:0016477	P	0.51	cell migration
+GO:0010033	P	0.51	response to organic substance
+GO:0007165	P	0.51	signal transduction
+GO:0006810	P	0.51	transport
+GO:0002682	P	0.51	regulation of immune system process
+GO:0002376	P	0.51	immune system process
+GO:1902578	P	0.50	single-organism localization
+GO:0048584	P	0.50	positive regulation of response to stimulus
+GO:0048523	P	0.50	negative regulation of cellular process
+GO:0043085	P	0.50	positive regulation of catalytic activity
+GO:0016337	P	0.50	single organismal cell-cell adhesion
+GO:0009966	P	0.50	regulation of signal transduction
+GO:0009605	P	0.50	response to external stimulus
+GO:0007166	P	0.50	cell surface receptor signaling pathway
+GO:0065008	P	0.49	regulation of biological quality
+GO:0051345	P	0.49	positive regulation of hydrolase activity
+GO:0044765	P	0.49	single-organism transport
+GO:0043207	P	0.49	response to external biotic stimulus
+GO:0031323	P	0.49	regulation of cellular metabolic process
+GO:0022607	P	0.49	cellular component assembly
+GO:0016192	P	0.49	vesicle-mediated transport
+GO:0009628	P	0.49	response to abiotic stimulus
+GO:0003008	P	0.49	system process
+GO:0080090	P	0.48	regulation of primary metabolic process
+GO:0060255	P	0.48	regulation of macromolecule metabolic process
+GO:0050974	P	0.48	detection of mechanical stimulus involved in sensory perception
+GO:0044710	P	0.48	single-organism metabolic process
+GO:0044707	P	0.48	single-multicellular organism process
+GO:0044702	P	0.48	single organism reproductive process
+GO:0043547	P	0.48	positive regulation of GTPase activity
+GO:0032879	P	0.48	regulation of localization
+GO:0030154	P	0.48	cell differentiation
+GO:0030030	P	0.48	cell projection organization
+GO:0002237	P	0.48	response to molecule of bacterial origin
+GO:0051270	P	0.47	regulation of cellular component movement
+GO:0051240	P	0.47	positive regulation of multicellular organismal process
+GO:0051094	P	0.47	positive regulation of developmental process
+GO:0042127	P	0.47	regulation of cell proliferation
+GO:0040012	P	0.47	regulation of locomotion
+GO:0031325	P	0.47	positive regulation of cellular metabolic process
+GO:0010604	P	0.47	positive regulation of macromolecule metabolic process
+GO:0009967	P	0.47	positive regulation of signal transduction
+GO:0007167	P	0.47	enzyme linked receptor protein signaling pathway
+GO:0006950	P	0.47	response to stress
+GO:0006807	P	0.47	nitrogen compound metabolic process
+GO:1902531	P	0.46	regulation of intracellular signal transduction
+GO:0051247	P	0.46	positive regulation of protein metabolic process
+GO:0050776	P	0.46	regulation of immune response
+GO:0045597	P	0.46	positive regulation of cell differentiation
+GO:0042592	P	0.46	homeostatic process
+GO:0042325	P	0.46	regulation of phosphorylation
+GO:0035295	P	0.46	tube development
+GO:0032989	P	0.46	cellular component morphogenesis
+GO:0032268	P	0.46	regulation of cellular protein metabolic process
+GO:0030334	P	0.46	regulation of cell migration
+GO:0007169	P	0.46	transmembrane receptor protein tyrosine kinase signaling pathway
+GO:0006796	P	0.46	phosphate-containing compound metabolic process
+GO:0006629	P	0.46	lipid metabolic process
+GO:2000147	P	0.45	positive regulation of cell motility
+GO:2000112	P	0.45	regulation of cellular macromolecule biosynthetic process
+GO:1901700	P	0.45	response to oxygen-containing compound
+GO:1901342	P	0.45	regulation of vasculature development
+GO:0070887	P	0.45	cellular response to chemical stimulus
+GO:0051704	P	0.45	multi-organism process
+GO:0050900	P	0.45	leukocyte migration
+GO:0050769	P	0.45	positive regulation of neurogenesis
+GO:0048638	P	0.45	regulation of developmental growth
+GO:0043410	P	0.45	positive regulation of MAPK cascade
+GO:0043067	P	0.45	regulation of programmed cell death
+GO:0031346	P	0.45	positive regulation of cell projection organization
+GO:0022412	P	0.45	cellular process involved in reproduction in multicellular organism
+GO:0019219	P	0.45	regulation of nucleobase-containing compound metabolic process
+GO:0016310	P	0.45	phosphorylation
+GO:0010631	P	0.45	epithelial cell migration
+GO:0010468	P	0.45	regulation of gene expression
+GO:0008284	P	0.45	positive regulation of cell proliferation
+GO:0008283	P	0.45	cell proliferation
+GO:0007409	P	0.45	axonogenesis
+GO:0006935	P	0.45	chemotaxis
+GO:0003006	P	0.45	developmental process involved in reproduction
+GO:1904018	P	0.44	positive regulation of vasculature development
+GO:0097529	P	0.44	myeloid leukocyte migration
+GO:0051641	P	0.44	cellular localization
+GO:0051347	P	0.44	positive regulation of transferase activity
+GO:0048639	P	0.44	positive regulation of developmental growth
+GO:0045859	P	0.44	regulation of protein kinase activity
+GO:0044087	P	0.44	regulation of cellular component biogenesis
+GO:0042110	P	0.44	T cell activation
+GO:0034330	P	0.44	cell junction organization
+GO:0033554	P	0.44	cellular response to stress
+GO:0032940	P	0.44	secretion by cell
+GO:0032870	P	0.44	cellular response to hormone stimulus
+GO:0031175	P	0.44	neuron projection development
+GO:0030595	P	0.44	leukocyte chemotaxis
+GO:0010243	P	0.44	response to organonitrogen compound
+GO:0009611	P	0.44	response to wounding
+GO:0007610	P	0.44	behavior
+GO:0007600	P	0.44	sensory perception
+GO:0006355	P	0.44	regulation of transcription, DNA-templated
+GO:0002440	P	0.44	production of molecular mediator of immune response
+GO:0002252	P	0.44	immune effector process
+GO:1903727	P	0.43	positive regulation of phospholipid metabolic process
+GO:1902589	P	0.43	single-organism organelle organization
+GO:1902580	P	0.43	single-organism cellular localization
+GO:1901135	P	0.43	carbohydrate derivative metabolic process
+GO:1900274	P	0.43	regulation of phospholipase C activity
+GO:0090218	P	0.43	positive regulation of lipid kinase activity
+GO:0060043	P	0.43	regulation of cardiac muscle cell proliferation
+GO:0051640	P	0.43	organelle localization
+GO:0051147	P	0.43	regulation of muscle cell differentiation
+GO:0050931	P	0.43	pigment cell differentiation
+GO:0050731	P	0.43	positive regulation of peptidyl-tyrosine phosphorylation
+GO:0048872	P	0.43	homeostasis of number of cells
+GO:0048568	P	0.43	embryonic organ development
+GO:0048167	P	0.43	regulation of synaptic plasticity
+GO:0046425	P	0.43	regulation of JAK-STAT cascade
+GO:0045844	P	0.43	positive regulation of striated muscle tissue development
+GO:0045216	P	0.43	cell-cell junction organization
+GO:0045055	P	0.43	regulated exocytosis
+GO:0044057	P	0.43	regulation of system process
+GO:0043551	P	0.43	regulation of phosphatidylinositol 3-kinase activity
+GO:0043406	P	0.43	positive regulation of MAP kinase activity
+GO:0043062	P	0.43	extracellular structure organization
+GO:0031103	P	0.43	axon regeneration
+GO:0014070	P	0.43	response to organic cyclic compound
+GO:0014066	P	0.43	regulation of phosphatidylinositol 3-kinase signaling
+GO:0010518	P	0.43	positive regulation of phospholipase activity
+GO:0010038	P	0.43	response to metal ion
+GO:0008406	P	0.43	gonad development
+GO:0007611	P	0.43	learning or memory
+GO:0007605	P	0.43	sensory perception of sound
+GO:0007281	P	0.43	germ cell development
+GO:0002768	P	0.43	immune response-regulating cell surface receptor signaling pathway
+GO:1905063	P	0.42	regulation of vascular smooth muscle cell differentiation
+GO:1902582	P	0.42	single-organism intracellular transport
+GO:0098751	P	0.42	bone cell development
+GO:0098727	P	0.42	maintenance of cell number
+GO:0097581	P	0.42	lamellipodium organization
+GO:0097531	P	0.42	mast cell migration
+GO:0097066	P	0.42	response to thyroid hormone
+GO:0090136	P	0.42	epithelial cell-cell adhesion
+GO:0071216	P	0.42	cellular response to biotic stimulus
+GO:0070661	P	0.42	leukocyte proliferation
+GO:0061515	P	0.42	myeloid cell development
+GO:0061082	P	0.42	myeloid leukocyte cytokine production
+GO:0055123	P	0.42	digestive system development
+GO:0055023	P	0.42	positive regulation of cardiac muscle tissue growth
+GO:0051931	P	0.42	regulation of sensory perception
+GO:0051656	P	0.42	establishment of organelle localization
+GO:0051152	P	0.42	positive regulation of smooth muscle cell differentiation
+GO:0051090	P	0.42	regulation of sequence-specific DNA binding transcription factor activity
+GO:0048515	P	0.42	spermatid differentiation
+GO:0048169	P	0.42	regulation of long-term neuronal synaptic plasticity
+GO:0046834	P	0.42	lipid phosphorylation
+GO:0046546	P	0.42	development of primary male sexual characteristics
+GO:0046488	P	0.42	phosphatidylinositol metabolic process
+GO:0044089	P	0.42	positive regulation of cellular component biogenesis
+GO:0043299	P	0.42	leukocyte degranulation
+GO:0043279	P	0.42	response to alkaloid
+GO:0042531	P	0.42	positive regulation of tyrosine phosphorylation of STAT protein
+GO:0042522	P	0.42	regulation of tyrosine phosphorylation of Stat5 protein
+GO:0042516	P	0.42	regulation of tyrosine phosphorylation of Stat3 protein
+GO:0042510	P	0.42	regulation of tyrosine phosphorylation of Stat1 protein
+GO:0036216	P	0.42	cellular response to stem cell factor stimulus
+GO:0036018	P	0.42	cellular response to erythropoietin
+GO:0034101	P	0.42	erythrocyte homeostasis
+GO:0032418	P	0.42	lysosome localization
+GO:0032147	P	0.42	activation of protein kinase activity
+GO:0031272	P	0.42	regulation of pseudopodium assembly
+GO:0030219	P	0.42	megakaryocyte differentiation
+GO:0030183	P	0.42	B cell differentiation
+GO:0022602	P	0.42	ovulation cycle process
+GO:0021536	P	0.42	diencephalon development
+GO:0019233	P	0.42	sensory perception of pain
+GO:0017145	P	0.42	stem cell division
+GO:0016032	P	0.42	viral process
+GO:0010623	P	0.42	programmed cell death involved in cell development
+GO:0008593	P	0.42	regulation of Notch signaling pathway
+GO:0008585	P	0.42	female gonad development
+GO:0008306	P	0.42	associative learning
+GO:0007632	P	0.42	visual behavior
+GO:0006665	P	0.42	sphingolipid metabolic process
+GO:0006664	P	0.42	glycolipid metabolic process
+GO:0002448	P	0.42	mast cell mediated immunity
+GO:0002279	P	0.42	mast cell activation involved in immune response
+GO:0002244	P	0.42	hematopoietic progenitor cell differentiation
+GO:0071560	P	0.41	cellular response to transforming growth factor beta stimulus
+GO:0043297	P	0.41	apical junction assembly
+GO:0030260	P	0.41	entry into host cell
+GO:0030036	P	0.41	actin cytoskeleton organization
+GO:0019058	P	0.41	viral life cycle
+GO:0007178	P	0.41	transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0045184	P	0.39	establishment of protein localization
+GO:0006952	P	0.39	defense response
+GO:0090002	P	0.38	establishment of protein localization to plasma membrane
+GO:0031032	P	0.38	actomyosin structure organization
+GO:0033043	P	0.37	regulation of organelle organization
+GO:0001817	P	0.37	regulation of cytokine production
+GO:0032956	P	0.36	regulation of actin cytoskeleton organization
+GO:0006954	P	0.36	inflammatory response
+GO:2000249	P	0.35	regulation of actin cytoskeleton reorganization
+GO:0090559	P	0.35	regulation of membrane permeability
+GO:0090557	P	0.35	establishment of endothelial intestinal barrier
+GO:0050892	P	0.35	intestinal absorption
+GO:0045777	P	0.35	positive regulation of blood pressure
+GO:0034260	P	0.35	negative regulation of GTPase activity
+GO:0008037	P	0.29	cell recognition
+GO:0044260	P	0.22	cellular macromolecule metabolic process
+GO:0007411	P	0.22	axon guidance
+GO:0008038	P	0.17	neuron recognition
+GO:0007156	P	0.17	homophilic cell adhesion via plasma membrane adhesion molecules
+GO:0019538	P	0.16	protein metabolic process
+GO:0010975	P	0.16	regulation of neuron projection development
+GO:0048646	P	0.15	anatomical structure formation involved in morphogenesis
+GO:0007157	P	0.15	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules
+GO:0010769	P	0.14	regulation of cell morphogenesis involved in differentiation
+GO:0050770	P	0.13	regulation of axonogenesis
+GO:0048589	P	0.13	developmental growth
+GO:0006464	P	0.13	cellular protein modification process
+GO:1901360	P	0.12	organic cyclic compound metabolic process
+GO:0060560	P	0.12	developmental growth involved in morphogenesis
+GO:0050773	P	0.11	regulation of dendrite development
+GO:0048675	P	0.11	axon extension
+GO:0007419	P	0.11	ventral cord development
+GO:0007413	P	0.11	axonal fasciculation

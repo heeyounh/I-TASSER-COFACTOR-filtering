@@ -1,0 +1,28 @@
+GO:0044464	C	0.98	cell part
+GO:0016020	C	0.92	membrane
+GO:0044424	C	0.83	intracellular part
+GO:0009279	C	0.60	cell outer membrane
+GO:0044425	C	0.56	membrane part
+GO:0016021	C	0.54	integral component of membrane
+GO:0032991	C	0.48	macromolecular complex
+GO:0043234	C	0.47	protein complex
+GO:0043229	C	0.44	intracellular organelle
+GO:0044446	C	0.41	intracellular organelle part
+GO:0044444	C	0.35	cytoplasmic part
+GO:0043227	C	0.35	membrane-bounded organelle
+GO:1902494	C	0.32	catalytic complex
+GO:0043231	C	0.31	intracellular membrane-bounded organelle
+GO:0044428	C	0.29	nuclear part
+GO:0044451	C	0.27	nucleoplasm part
+GO:0043232	C	0.26	intracellular non-membrane-bounded organelle
+GO:0005737	C	0.26	cytoplasm
+GO:0005665	C	0.24	DNA-directed RNA polymerase II, core complex
+GO:0005576	C	0.22	extracellular region
+GO:0098796	C	0.15	membrane protein complex
+GO:0005634	C	0.14	nucleus
+GO:0097458	C	0.13	neuron part
+GO:0046930	C	0.13	pore complex
+GO:0020002	C	0.13	host cell plasma membrane
+GO:0005856	C	0.13	cytoskeleton
+GO:0031988	C	0.12	membrane-bounded vesicle
+GO:0005829	C	0.11	cytosol

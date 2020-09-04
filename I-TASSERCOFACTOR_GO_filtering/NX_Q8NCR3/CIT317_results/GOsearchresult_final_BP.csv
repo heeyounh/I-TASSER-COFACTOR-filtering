@@ -1,0 +1,61 @@
+GO:0009987	P	0.90	cellular process
+GO:0044699	P	0.69	single-organism process
+GO:0051179	P	0.63	localization
+GO:0044763	P	0.61	single-organism cellular process
+GO:0006928	P	0.56	movement of cell or subcellular component
+GO:0030048	P	0.55	actin filament-based movement
+GO:0016043	P	0.51	cellular component organization
+GO:0065007	P	0.46	biological regulation
+GO:0071704	P	0.44	organic substance metabolic process
+GO:0050794	P	0.43	regulation of cellular process
+GO:0044238	P	0.42	primary metabolic process
+GO:0006810	P	0.42	transport
+GO:0051640	P	0.37	organelle localization
+GO:0044767	P	0.37	single-organism developmental process
+GO:0044237	P	0.37	cellular metabolic process
+GO:0048869	P	0.31	cellular developmental process
+GO:0009653	P	0.31	anatomical structure morphogenesis
+GO:0044260	P	0.30	cellular macromolecule metabolic process
+GO:0022414	P	0.28	reproductive process
+GO:0044702	P	0.27	single organism reproductive process
+GO:0040011	P	0.26	locomotion
+GO:0006464	P	0.26	cellular protein modification process
+GO:0003006	P	0.25	developmental process involved in reproduction
+GO:0016049	P	0.24	cell growth
+GO:0000904	P	0.24	cell morphogenesis involved in differentiation
+GO:0050896	P	0.22	response to stimulus
+GO:0051716	P	0.20	cellular response to stimulus
+GO:0016032	P	0.20	viral process
+GO:1901360	P	0.19	organic cyclic compound metabolic process
+GO:0048588	P	0.19	developmental cell growth
+GO:0009932	P	0.19	cell tip growth
+GO:0006725	P	0.19	cellular aromatic compound metabolic process
+GO:0046740	P	0.18	transport of virus in host, cell to cell
+GO:0044765	P	0.18	single-organism transport
+GO:0016567	P	0.18	protein ubiquitination
+GO:0016192	P	0.18	vesicle-mediated transport
+GO:0007165	P	0.18	signal transduction
+GO:0048856	P	0.17	anatomical structure development
+GO:0008104	P	0.17	protein localization
+GO:0034641	P	0.14	cellular nitrogen compound metabolic process
+GO:0090436	P	0.13	leaf pavement cell development
+GO:0090304	P	0.13	nucleic acid metabolic process
+GO:0072659	P	0.13	protein localization to plasma membrane
+GO:0060151	P	0.13	peroxisome localization
+GO:0051648	P	0.13	vesicle localization
+GO:0051646	P	0.13	mitochondrion localization
+GO:0051645	P	0.13	Golgi localization
+GO:0048467	P	0.13	gynoecium development
+GO:0032869	P	0.13	cellular response to insulin stimulus
+GO:0010090	P	0.13	trichome morphogenesis
+GO:0007015	P	0.13	actin filament organization
+GO:1901362	P	0.12	organic cyclic compound biosynthetic process
+GO:0080090	P	0.12	regulation of primary metabolic process
+GO:0060255	P	0.12	regulation of macromolecule metabolic process
+GO:0032501	P	0.12	multicellular organismal process
+GO:0031323	P	0.12	regulation of cellular metabolic process
+GO:0019438	P	0.12	aromatic compound biosynthetic process
+GO:0048522	P	0.11	positive regulation of cellular process
+GO:0015031	P	0.11	protein transport
+GO:0009860	P	0.11	pollen tube growth
+GO:0006996	P	0.11	organelle organization

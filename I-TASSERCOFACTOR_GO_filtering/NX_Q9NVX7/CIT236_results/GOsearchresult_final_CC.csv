@@ -1,0 +1,39 @@
+GO:0044424	C	1.00	intracellular part
+GO:0043234	C	0.97	protein complex
+GO:0031463	C	0.96	Cul3-RING ubiquitin ligase complex
+GO:0043226	C	0.82	organelle
+GO:0043229	C	0.81	intracellular organelle
+GO:0043231	C	0.72	intracellular membrane-bounded organelle
+GO:0044444	C	0.68	cytoplasmic part
+GO:0044422	C	0.68	organelle part
+GO:0005634	C	0.64	nucleus
+GO:0005737	C	0.63	cytoplasm
+GO:0044446	C	0.62	intracellular organelle part
+GO:0016020	C	0.49	membrane
+GO:0043232	C	0.41	intracellular non-membrane-bounded organelle
+GO:0005829	C	0.31	cytosol
+GO:0044428	C	0.30	nuclear part
+GO:0044430	C	0.27	cytoskeletal part
+GO:0005856	C	0.26	cytoskeleton
+GO:0005886	C	0.24	plasma membrane
+GO:0098588	C	0.22	bounding membrane of organelle
+GO:0044425	C	0.22	membrane part
+GO:0044431	C	0.21	Golgi apparatus part
+GO:0005654	C	0.20	nucleoplasm
+GO:0031988	C	0.19	membrane-bounded vesicle
+GO:0005815	C	0.19	microtubule organizing center
+GO:0044421	C	0.18	extracellular region part
+GO:0005783	C	0.18	endoplasmic reticulum
+GO:0000139	C	0.16	Golgi membrane
+GO:0099513	C	0.15	polymeric cytoskeletal fiber
+GO:0042995	C	0.14	cell projection
+GO:0016021	C	0.14	integral component of membrane
+GO:0005576	C	0.14	extracellular region
+GO:0030496	C	0.13	midbody
+GO:0044449	C	0.12	contractile fiber part
+GO:0016023	C	0.12	cytoplasmic, membrane-bounded vesicle
+GO:0005789	C	0.12	endoplasmic reticulum membrane
+GO:0044459	C	0.11	plasma membrane part
+GO:0005925	C	0.11	focal adhesion
+GO:0005913	C	0.11	cell-cell adherens junction
+GO:0001726	C	0.11	ruffle

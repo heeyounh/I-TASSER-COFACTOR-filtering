@@ -1,0 +1,28 @@
+GO:0003824	F	0.74	catalytic activity
+GO:0016787	F	0.60	hydrolase activity
+GO:0008233	F	0.40	peptidase activity
+GO:0070011	F	0.32	peptidase activity, acting on L-amino acid peptides
+GO:0004175	F	0.31	endopeptidase activity
+GO:0004190	F	0.30	aspartic-type endopeptidase activity
+GO:0016740	F	0.28	transferase activity
+GO:0004871	F	0.27	signal transducer activity
+GO:1901363	F	0.22	heterocyclic compound binding
+GO:0097159	F	0.22	organic cyclic compound binding
+GO:0004872	F	0.22	receptor activity
+GO:0016798	F	0.19	hydrolase activity, acting on glycosyl bonds
+GO:0003676	F	0.18	nucleic acid binding
+GO:0004888	F	0.17	transmembrane signaling receptor activity
+GO:0033842	F	0.16	N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase activity
+GO:0003723	F	0.16	RNA binding
+GO:0016788	F	0.15	hydrolase activity, acting on ester bonds
+GO:0016772	F	0.15	transferase activity, transferring phosphorus-containing groups
+GO:0004930	F	0.13	G-protein coupled receptor activity
+GO:0046983	F	0.12	protein dimerization activity
+GO:0042802	F	0.12	identical protein binding
+GO:0019904	F	0.12	protein domain specific binding
+GO:0005057	F	0.12	receptor signaling protein activity
+GO:0004993	F	0.12	G-protein coupled serotonin receptor activity
+GO:0098772	F	0.11	molecular function regulator
+GO:0046872	F	0.11	metal ion binding
+GO:0042803	F	0.11	protein homodimerization activity
+GO:0016779	F	0.11	nucleotidyltransferase activity

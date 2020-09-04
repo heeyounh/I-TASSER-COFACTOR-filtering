@@ -1,0 +1,26 @@
+GO:0044699	P	0.60	single-organism process
+GO:0009987	P	0.54	cellular process
+GO:0032502	P	0.48	developmental process
+GO:0044763	P	0.39	single-organism cellular process
+GO:0044767	P	0.37	single-organism developmental process
+GO:0048856	P	0.31	anatomical structure development
+GO:0008152	P	0.31	metabolic process
+GO:0044710	P	0.26	single-organism metabolic process
+GO:0071704	P	0.23	organic substance metabolic process
+GO:0048869	P	0.23	cellular developmental process
+GO:0044238	P	0.23	primary metabolic process
+GO:0044237	P	0.23	cellular metabolic process
+GO:0016043	P	0.19	cellular component organization
+GO:1901576	P	0.18	organic substance biosynthetic process
+GO:0044711	P	0.18	single-organism biosynthetic process
+GO:0044249	P	0.18	cellular biosynthetic process
+GO:0009653	P	0.18	anatomical structure morphogenesis
+GO:0044281	P	0.15	small molecule metabolic process
+GO:0006810	P	0.14	transport
+GO:0048812	P	0.13	neuron projection morphogenesis
+GO:1901360	P	0.12	organic cyclic compound metabolic process
+GO:0061448	P	0.12	connective tissue development
+GO:0006807	P	0.12	nitrogen compound metabolic process
+GO:0006725	P	0.12	cellular aromatic compound metabolic process
+GO:0046474	P	0.11	glycerophospholipid biosynthetic process
+GO:0016032	P	0.11	viral process

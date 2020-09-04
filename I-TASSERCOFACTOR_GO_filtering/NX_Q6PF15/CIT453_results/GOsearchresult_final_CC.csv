@@ -1,0 +1,15 @@
+GO:0044424	C	1.00	intracellular part
+GO:0031461	C	0.96	cullin-RING ubiquitin ligase complex
+GO:0031463	C	0.95	Cul3-RING ubiquitin ligase complex
+GO:0043226	C	0.48	organelle
+GO:0043229	C	0.46	intracellular organelle
+GO:0043227	C	0.39	membrane-bounded organelle
+GO:0043231	C	0.38	intracellular membrane-bounded organelle
+GO:0005634	C	0.34	nucleus
+GO:0044444	C	0.26	cytoplasmic part
+GO:0044422	C	0.26	organelle part
+GO:0044446	C	0.24	intracellular organelle part
+GO:0016020	C	0.22	membrane
+GO:0005737	C	0.13	cytoplasm
+GO:0005886	C	0.12	plasma membrane
+GO:0043232	C	0.11	intracellular non-membrane-bounded organelle

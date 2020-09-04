@@ -1,0 +1,46 @@
+GO:0044464	C	0.98	cell part
+GO:0044424	C	0.84	intracellular part
+GO:0043226	C	0.62	organelle
+GO:0016020	C	0.59	membrane
+GO:0043227	C	0.56	membrane-bounded organelle
+GO:0044444	C	0.51	cytoplasmic part
+GO:0044425	C	0.50	membrane part
+GO:0044422	C	0.49	organelle part
+GO:0044421	C	0.47	extracellular region part
+GO:0016021	C	0.46	integral component of membrane
+GO:0044446	C	0.44	intracellular organelle part
+GO:0044459	C	0.43	plasma membrane part
+GO:0043229	C	0.42	intracellular organelle
+GO:0005886	C	0.40	plasma membrane
+GO:0070062	C	0.37	extracellular exosome
+GO:0005737	C	0.37	cytoplasm
+GO:0031226	C	0.34	intrinsic component of plasma membrane
+GO:0005887	C	0.33	integral component of plasma membrane
+GO:0043231	C	0.28	intracellular membrane-bounded organelle
+GO:0005576	C	0.28	extracellular region
+GO:0044430	C	0.24	cytoskeletal part
+GO:0043234	C	0.23	protein complex
+GO:0044449	C	0.22	contractile fiber part
+GO:0030054	C	0.21	cell junction
+GO:0005634	C	0.19	nucleus
+GO:0042995	C	0.18	cell projection
+GO:0030018	C	0.18	Z disc
+GO:0097458	C	0.17	neuron part
+GO:0043232	C	0.16	intracellular non-membrane-bounded organelle
+GO:0005829	C	0.15	cytosol
+GO:0043005	C	0.14	neuron projection
+GO:0098025	C	0.13	virus tail, baseplate
+GO:0098024	C	0.13	virus tail, fiber
+GO:0031430	C	0.13	M band
+GO:0031090	C	0.13	organelle membrane
+GO:0019012	C	0.13	virion
+GO:0005618	C	0.13	cell wall
+GO:0098805	C	0.12	whole membrane
+GO:0098588	C	0.12	bounding membrane of organelle
+GO:0030424	C	0.12	axon
+GO:0031012	C	0.11	extracellular matrix
+GO:0009986	C	0.11	cell surface
+GO:0005911	C	0.11	cell-cell junction
+GO:0005865	C	0.11	striated muscle thin filament
+GO:0005859	C	0.11	muscle myosin complex
+GO:0005615	C	0.11	extracellular space

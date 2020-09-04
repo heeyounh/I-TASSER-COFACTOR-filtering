@@ -1,0 +1,49 @@
+GO:0009987	P	0.80	cellular process
+GO:0008152	P	0.78	metabolic process
+GO:0071704	P	0.75	organic substance metabolic process
+GO:0044699	P	0.71	single-organism process
+GO:0044238	P	0.71	primary metabolic process
+GO:0044237	P	0.67	cellular metabolic process
+GO:0050794	P	0.64	regulation of cellular process
+GO:0007165	P	0.58	signal transduction
+GO:0044710	P	0.57	single-organism metabolic process
+GO:0006807	P	0.57	nitrogen compound metabolic process
+GO:0044763	P	0.51	single-organism cellular process
+GO:0044281	P	0.46	small molecule metabolic process
+GO:1901576	P	0.43	organic substance biosynthetic process
+GO:0044249	P	0.43	cellular biosynthetic process
+GO:0044711	P	0.41	single-organism biosynthetic process
+GO:0044260	P	0.40	cellular macromolecule metabolic process
+GO:1901564	P	0.38	organonitrogen compound metabolic process
+GO:0019752	P	0.38	carboxylic acid metabolic process
+GO:0007186	P	0.38	G-protein coupled receptor signaling pathway
+GO:0007218	P	0.36	neuropeptide signaling pathway
+GO:0043650	P	0.35	dicarboxylic acid biosynthetic process
+GO:0032502	P	0.35	developmental process
+GO:0009084	P	0.35	glutamine family amino acid biosynthetic process
+GO:0006536	P	0.35	glutamate metabolic process
+GO:0006520	P	0.35	cellular amino acid metabolic process
+GO:0048856	P	0.33	anatomical structure development
+GO:0016070	P	0.29	RNA metabolic process
+GO:0005975	P	0.28	carbohydrate metabolic process
+GO:0048523	P	0.25	negative regulation of cellular process
+GO:0034660	P	0.25	ncRNA metabolic process
+GO:0044767	P	0.24	single-organism developmental process
+GO:1903047	P	0.22	mitotic cell cycle process
+GO:0032268	P	0.22	regulation of cellular protein metabolic process
+GO:0044723	P	0.21	single-organism carbohydrate metabolic process
+GO:0035295	P	0.21	tube development
+GO:0008283	P	0.21	cell proliferation
+GO:0006464	P	0.21	cellular protein modification process
+GO:2000177	P	0.19	regulation of neural precursor cell proliferation
+GO:0072089	P	0.19	stem cell proliferation
+GO:0071554	P	0.19	cell wall organization or biogenesis
+GO:0060964	P	0.19	regulation of gene silencing by miRNA
+GO:0051865	P	0.19	protein autoubiquitination
+GO:0035278	P	0.19	miRNA mediated inhibition of translation
+GO:0021915	P	0.19	neural tube development
+GO:0010586	P	0.19	miRNA metabolic process
+GO:0008543	P	0.19	fibroblast growth factor receptor signaling pathway
+GO:0000082	P	0.19	G1/S transition of mitotic cell cycle
+GO:0034645	P	0.12	cellular macromolecule biosynthetic process
+GO:0007399	P	0.11	nervous system development

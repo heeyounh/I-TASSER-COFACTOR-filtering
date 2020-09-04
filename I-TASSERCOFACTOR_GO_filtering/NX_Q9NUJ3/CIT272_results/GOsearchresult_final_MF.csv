@@ -1,0 +1,16 @@
+GO:0003824	F	0.69	catalytic activity
+GO:1901363	F	0.64	heterocyclic compound binding
+GO:0097159	F	0.64	organic cyclic compound binding
+GO:0016787	F	0.64	hydrolase activity
+GO:0035639	F	0.60	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.60	purine ribonucleotide binding
+GO:0032550	F	0.60	purine ribonucleoside binding
+GO:0032561	F	0.59	guanyl ribonucleotide binding
+GO:0017111	F	0.59	nucleoside-triphosphatase activity
+GO:0003676	F	0.44	nucleic acid binding
+GO:0044877	F	0.41	macromolecular complex binding
+GO:0005102	F	0.41	receptor binding
+GO:0019900	F	0.40	kinase binding
+GO:0003723	F	0.39	RNA binding
+GO:0050780	F	0.37	dopamine receptor binding
+GO:0046872	F	0.14	metal ion binding

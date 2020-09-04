@@ -1,0 +1,14 @@
+GO:0097367	F	0.89	carbohydrate derivative binding
+GO:0008201	F	0.86	heparin binding
+GO:1901363	F	0.61	heterocyclic compound binding
+GO:0097159	F	0.61	organic cyclic compound binding
+GO:1901265	F	0.45	nucleoside phosphate binding
+GO:0036094	F	0.45	small molecule binding
+GO:0003676	F	0.24	nucleic acid binding
+GO:0003824	F	0.21	catalytic activity
+GO:0000166	F	0.19	nucleotide binding
+GO:0035639	F	0.17	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.17	purine ribonucleotide binding
+GO:0032550	F	0.17	purine ribonucleoside binding
+GO:0005524	F	0.14	ATP binding
+GO:0003723	F	0.14	RNA binding

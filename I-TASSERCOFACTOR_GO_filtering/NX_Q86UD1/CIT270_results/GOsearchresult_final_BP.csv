@@ -1,0 +1,19 @@
+GO:0016321	P	1.00	female meiosis chromosome segregation
+GO:0008152	P	0.52	metabolic process
+GO:0071704	P	0.49	organic substance metabolic process
+GO:0044237	P	0.46	cellular metabolic process
+GO:0044238	P	0.45	primary metabolic process
+GO:0043170	P	0.41	macromolecule metabolic process
+GO:0044260	P	0.39	cellular macromolecule metabolic process
+GO:1901575	P	0.34	organic substance catabolic process
+GO:0005975	P	0.34	carbohydrate metabolic process
+GO:0065007	P	0.33	biological regulation
+GO:0044248	P	0.33	cellular catabolic process
+GO:0051275	P	0.32	beta-glucan catabolic process
+GO:0030243	P	0.32	cellulose metabolic process
+GO:0050789	P	0.28	regulation of biological process
+GO:0050794	P	0.24	regulation of cellular process
+GO:0006807	P	0.13	nitrogen compound metabolic process
+GO:1901360	P	0.12	organic cyclic compound metabolic process
+GO:0044710	P	0.12	single-organism metabolic process
+GO:0034641	P	0.11	cellular nitrogen compound metabolic process

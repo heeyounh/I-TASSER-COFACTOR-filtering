@@ -1,0 +1,25 @@
+GO:0009987	P	0.97	cellular process
+GO:0006457	P	0.94	protein folding
+GO:0061077	P	0.92	chaperone-mediated protein folding
+GO:0065007	P	0.38	biological regulation
+GO:0050789	P	0.36	regulation of biological process
+GO:0050794	P	0.30	regulation of cellular process
+GO:0008152	P	0.30	metabolic process
+GO:0071704	P	0.27	organic substance metabolic process
+GO:0044699	P	0.26	single-organism process
+GO:0044238	P	0.26	primary metabolic process
+GO:0044237	P	0.25	cellular metabolic process
+GO:0043170	P	0.24	macromolecule metabolic process
+GO:0044260	P	0.21	cellular macromolecule metabolic process
+GO:0044763	P	0.16	single-organism cellular process
+GO:0019538	P	0.15	protein metabolic process
+GO:0019222	P	0.15	regulation of metabolic process
+GO:0060255	P	0.14	regulation of macromolecule metabolic process
+GO:0043412	P	0.13	macromolecule modification
+GO:0031323	P	0.13	regulation of cellular metabolic process
+GO:0016043	P	0.13	cellular component organization
+GO:0080090	P	0.12	regulation of primary metabolic process
+GO:0032502	P	0.12	developmental process
+GO:0051179	P	0.11	localization
+GO:0006807	P	0.11	nitrogen compound metabolic process
+GO:0006464	P	0.11	cellular protein modification process

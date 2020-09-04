@@ -1,0 +1,15 @@
+GO:0003824	F	0.66	catalytic activity
+GO:0016740	F	0.55	transferase activity
+GO:0016772	F	0.54	transferase activity, transferring phosphorus-containing groups
+GO:1901363	F	0.47	heterocyclic compound binding
+GO:0097159	F	0.47	organic cyclic compound binding
+GO:0043169	F	0.44	cation binding
+GO:0097367	F	0.42	carbohydrate derivative binding
+GO:0016773	F	0.42	phosphotransferase activity, alcohol group as acceptor
+GO:0035639	F	0.41	purine ribonucleoside triphosphate binding
+GO:0032559	F	0.41	adenyl ribonucleotide binding
+GO:0032550	F	0.41	purine ribonucleoside binding
+GO:0016779	F	0.21	nucleotidyltransferase activity
+GO:0016787	F	0.20	hydrolase activity
+GO:0001055	F	0.19	RNA polymerase II activity
+GO:0017111	F	0.12	nucleoside-triphosphatase activity

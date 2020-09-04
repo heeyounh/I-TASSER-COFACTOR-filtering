@@ -1,0 +1,29 @@
+GO:0044464	C	1.00	cell part
+GO:0044424	C	0.96	intracellular part
+GO:0043234	C	0.89	protein complex
+GO:0061695	C	0.88	transferase complex, transferring phosphorus-containing groups
+GO:0000428	C	0.87	DNA-directed RNA polymerase complex
+GO:0016020	C	0.79	membrane
+GO:0044446	C	0.71	intracellular organelle part
+GO:0043226	C	0.70	organelle
+GO:0043229	C	0.67	intracellular organelle
+GO:0043227	C	0.66	membrane-bounded organelle
+GO:0043231	C	0.64	intracellular membrane-bounded organelle
+GO:0005886	C	0.63	plasma membrane
+GO:0044428	C	0.62	nuclear part
+GO:0005634	C	0.60	nucleus
+GO:0055029	C	0.58	nuclear DNA-directed RNA polymerase complex
+GO:0044425	C	0.57	membrane part
+GO:0016021	C	0.55	integral component of membrane
+GO:0009986	C	0.53	cell surface
+GO:0009897	C	0.53	external side of plasma membrane
+GO:0005887	C	0.53	integral component of plasma membrane
+GO:0044451	C	0.51	nucleoplasm part
+GO:0005737	C	0.49	cytoplasm
+GO:0044444	C	0.46	cytoplasmic part
+GO:0005665	C	0.40	DNA-directed RNA polymerase II, core complex
+GO:0005829	C	0.32	cytosol
+GO:0005654	C	0.21	nucleoplasm
+GO:0044427	C	0.18	chromosomal part
+GO:0044454	C	0.16	nuclear chromosome part
+GO:0043232	C	0.13	intracellular non-membrane-bounded organelle

@@ -1,0 +1,16 @@
+GO:1901363	F	0.85	heterocyclic compound binding
+GO:0097159	F	0.85	organic cyclic compound binding
+GO:0003677	F	0.76	DNA binding
+GO:0003690	F	0.73	double-stranded DNA binding
+GO:0000975	F	0.72	regulatory region DNA binding
+GO:0000976	F	0.71	transcription regulatory region sequence-specific DNA binding
+GO:0003682	F	0.69	chromatin binding
+GO:0003824	F	0.41	catalytic activity
+GO:0036094	F	0.39	small molecule binding
+GO:0043169	F	0.37	cation binding
+GO:0046906	F	0.33	tetrapyrrole binding
+GO:0019842	F	0.33	vitamin binding
+GO:0016853	F	0.33	isomerase activity
+GO:0042393	F	0.24	histone binding
+GO:0004872	F	0.18	receptor activity
+GO:0004888	F	0.12	transmembrane signaling receptor activity

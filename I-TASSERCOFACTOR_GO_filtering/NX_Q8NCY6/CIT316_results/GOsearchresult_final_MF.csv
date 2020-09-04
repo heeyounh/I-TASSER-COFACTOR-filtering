@@ -1,0 +1,19 @@
+GO:1901363	F	0.46	heterocyclic compound binding
+GO:0097159	F	0.46	organic cyclic compound binding
+GO:0043169	F	0.39	cation binding
+GO:0003824	F	0.38	catalytic activity
+GO:0003676	F	0.35	nucleic acid binding
+GO:0003723	F	0.31	RNA binding
+GO:0044822	F	0.28	poly(A) RNA binding
+GO:0005484	F	0.26	SNAP receptor activity
+GO:0000149	F	0.25	SNARE binding
+GO:0016740	F	0.20	transferase activity
+GO:0008092	F	0.16	cytoskeletal protein binding
+GO:0097367	F	0.13	carbohydrate derivative binding
+GO:0016787	F	0.13	hydrolase activity
+GO:0003779	F	0.13	actin binding
+GO:0046872	F	0.12	metal ion binding
+GO:0005524	F	0.12	ATP binding
+GO:0003700	F	0.12	transcription factor activity, sequence-specific DNA binding
+GO:0016772	F	0.11	transferase activity, transferring phosphorus-containing groups
+GO:0003677	F	0.11	DNA binding

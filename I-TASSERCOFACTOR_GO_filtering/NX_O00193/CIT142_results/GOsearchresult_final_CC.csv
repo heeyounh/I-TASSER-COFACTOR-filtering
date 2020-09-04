@@ -1,0 +1,22 @@
+GO:0044464	C	1.00	cell part
+GO:0044424	C	0.97	intracellular part
+GO:0044422	C	0.58	organelle part
+GO:0016020	C	0.58	membrane
+GO:0044446	C	0.57	intracellular organelle part
+GO:0005737	C	0.57	cytoplasm
+GO:0005886	C	0.53	plasma membrane
+GO:0044428	C	0.48	nuclear part
+GO:0043226	C	0.45	organelle
+GO:0043227	C	0.43	membrane-bounded organelle
+GO:0005681	C	0.42	spliceosomal complex
+GO:0044444	C	0.41	cytoplasmic part
+GO:0071004	C	0.39	U2-type prespliceosome
+GO:0005685	C	0.39	U1 snRNP
+GO:0043229	C	0.37	intracellular organelle
+GO:0043231	C	0.36	intracellular membrane-bounded organelle
+GO:0044425	C	0.32	membrane part
+GO:0016021	C	0.29	integral component of membrane
+GO:0005634	C	0.26	nucleus
+GO:0005829	C	0.24	cytosol
+GO:0005576	C	0.12	extracellular region
+GO:0043232	C	0.11	intracellular non-membrane-bounded organelle

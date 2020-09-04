@@ -1,0 +1,37 @@
+GO:0009987	P	0.84	cellular process
+GO:0065007	P	0.79	biological regulation
+GO:0051234	P	0.78	establishment of localization
+GO:0006810	P	0.77	transport
+GO:0030001	P	0.69	metal ion transport
+GO:0065008	P	0.68	regulation of biological quality
+GO:0070509	P	0.67	calcium ion import
+GO:0051561	P	0.67	positive regulation of mitochondrial calcium ion concentration
+GO:0006851	P	0.67	mitochondrial calcium ion transmembrane transport
+GO:0006839	P	0.67	mitochondrial transport
+GO:0071704	P	0.37	organic substance metabolic process
+GO:0044237	P	0.36	cellular metabolic process
+GO:0044238	P	0.35	primary metabolic process
+GO:0016043	P	0.31	cellular component organization
+GO:0050789	P	0.27	regulation of biological process
+GO:0044260	P	0.26	cellular macromolecule metabolic process
+GO:0006807	P	0.24	nitrogen compound metabolic process
+GO:0050794	P	0.23	regulation of cellular process
+GO:0034641	P	0.23	cellular nitrogen compound metabolic process
+GO:0022607	P	0.23	cellular component assembly
+GO:0065003	P	0.21	protein-containing complex assembly
+GO:0034622	P	0.20	cellular protein-containing complex assembly
+GO:0044085	P	0.19	cellular component biogenesis
+GO:0033617	P	0.19	mitochondrial respiratory chain complex IV assembly
+GO:1901576	P	0.17	organic substance biosynthetic process
+GO:0044249	P	0.17	cellular biosynthetic process
+GO:0006139	P	0.16	nucleobase-containing compound metabolic process
+GO:0044281	P	0.14	small molecule metabolic process
+GO:0090304	P	0.13	nucleic acid metabolic process
+GO:0044271	P	0.13	cellular nitrogen compound biosynthetic process
+GO:0019538	P	0.13	protein metabolic process
+GO:0009059	P	0.13	macromolecule biosynthetic process
+GO:0044267	P	0.12	cellular protein metabolic process
+GO:0036444	P	0.12	calcium import into the mitochondrion
+GO:0051641	P	0.11	cellular localization
+GO:0034645	P	0.11	cellular macromolecule biosynthetic process
+GO:0016070	P	0.11	RNA metabolic process

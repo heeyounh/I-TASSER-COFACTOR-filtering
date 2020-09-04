@@ -1,0 +1,41 @@
+GO:0009987	P	0.95	cellular process
+GO:0044699	P	0.91	single-organism process
+GO:0044763	P	0.88	single-organism cellular process
+GO:0016043	P	0.87	cellular component organization
+GO:0065007	P	0.68	biological regulation
+GO:0050789	P	0.68	regulation of biological process
+GO:0050794	P	0.67	regulation of cellular process
+GO:0007165	P	0.63	signal transduction
+GO:0008152	P	0.62	metabolic process
+GO:0043170	P	0.58	macromolecule metabolic process
+GO:0007166	P	0.57	cell surface receptor signaling pathway
+GO:0051179	P	0.56	localization
+GO:0044260	P	0.56	cellular macromolecule metabolic process
+GO:0044238	P	0.56	primary metabolic process
+GO:1902578	P	0.55	single-organism localization
+GO:0051239	P	0.55	regulation of multicellular organismal process
+GO:0048522	P	0.55	positive regulation of cellular process
+GO:0016477	P	0.55	cell migration
+GO:0006807	P	0.55	nitrogen compound metabolic process
+GO:0051049	P	0.54	regulation of transport
+GO:0008219	P	0.54	cell death
+GO:2000484	P	0.53	positive regulation of interleukin-8 secretion
+GO:1902715	P	0.53	positive regulation of interferon-gamma secretion
+GO:0050900	P	0.53	leukocyte migration
+GO:0045580	P	0.53	regulation of T cell differentiation
+GO:0042110	P	0.53	T cell activation
+GO:0034113	P	0.53	heterotypic cell-cell adhesion
+GO:0032760	P	0.53	positive regulation of tumor necrosis factor production
+GO:0030887	P	0.53	positive regulation of myeloid dendritic cell activation
+GO:0030101	P	0.53	natural killer cell activation
+GO:0016070	P	0.53	RNA metabolic process
+GO:0006915	P	0.53	apoptotic process
+GO:0001766	P	0.53	membrane raft polarization
+GO:0032774	P	0.46	RNA biosynthetic process
+GO:0097659	P	0.45	nucleic acid-templated transcription
+GO:0034645	P	0.45	cellular macromolecule biosynthetic process
+GO:0010467	P	0.42	gene expression
+GO:0030036	P	0.33	actin cytoskeleton organization
+GO:0048856	P	0.12	anatomical structure development
+GO:0035556	P	0.12	intracellular signal transduction
+GO:0006397	P	0.12	mRNA processing

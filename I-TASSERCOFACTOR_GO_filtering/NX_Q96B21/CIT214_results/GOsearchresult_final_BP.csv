@@ -1,0 +1,22 @@
+GO:0009987	P	0.59	cellular process
+GO:0044699	P	0.56	single-organism process
+GO:0032502	P	0.49	developmental process
+GO:0044763	P	0.48	single-organism cellular process
+GO:0044767	P	0.43	single-organism developmental process
+GO:0050896	P	0.41	response to stimulus
+GO:0051704	P	0.39	multi-organism process
+GO:0030154	P	0.39	cell differentiation
+GO:0006950	P	0.39	response to stress
+GO:0048646	P	0.38	anatomical structure formation involved in morphogenesis
+GO:0043934	P	0.37	sporulation
+GO:0065007	P	0.24	biological regulation
+GO:0050789	P	0.23	regulation of biological process
+GO:0050794	P	0.20	regulation of cellular process
+GO:0008152	P	0.19	metabolic process
+GO:0071704	P	0.16	organic substance metabolic process
+GO:0048856	P	0.15	anatomical structure development
+GO:0044238	P	0.15	primary metabolic process
+GO:0043170	P	0.13	macromolecule metabolic process
+GO:0007165	P	0.13	signal transduction
+GO:0044237	P	0.12	cellular metabolic process
+GO:0044260	P	0.11	cellular macromolecule metabolic process

@@ -1,0 +1,25 @@
+GO:0003824	F	0.90	catalytic activity
+GO:0016740	F	0.66	transferase activity
+GO:0043167	F	0.56	ion binding
+GO:0043169	F	0.55	cation binding
+GO:1901363	F	0.54	heterocyclic compound binding
+GO:0097159	F	0.54	organic cyclic compound binding
+GO:0000166	F	0.43	nucleotide binding
+GO:0097367	F	0.42	carbohydrate derivative binding
+GO:0035639	F	0.41	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.41	purine ribonucleotide binding
+GO:0032550	F	0.41	purine ribonucleoside binding
+GO:0032559	F	0.39	adenyl ribonucleotide binding
+GO:0004842	F	0.39	ubiquitin-protein transferase activity
+GO:0016884	F	0.33	carbon-nitrogen ligase activity, with glutamine as amido-N-donor
+GO:0016407	F	0.27	acetyltransferase activity
+GO:0016413	F	0.26	O-acetyltransferase activity
+GO:0046872	F	0.21	metal ion binding
+GO:0005102	F	0.20	receptor binding
+GO:0016491	F	0.17	oxidoreductase activity
+GO:0003676	F	0.17	nucleic acid binding
+GO:0008395	F	0.16	steroid hydroxylase activity
+GO:0008270	F	0.16	zinc ion binding
+GO:0004871	F	0.14	signal transducer activity
+GO:0016787	F	0.12	hydrolase activity
+GO:0004872	F	0.12	receptor activity

@@ -1,0 +1,46 @@
+GO:0044464	C	1.00	cell part
+GO:0044424	C	0.95	intracellular part
+GO:0043226	C	0.84	organelle
+GO:0044444	C	0.81	cytoplasmic part
+GO:0043229	C	0.80	intracellular organelle
+GO:0043231	C	0.77	intracellular membrane-bounded organelle
+GO:0032991	C	0.72	macromolecular complex
+GO:0016020	C	0.71	membrane
+GO:0043234	C	0.70	protein complex
+GO:0044446	C	0.65	intracellular organelle part
+GO:0005829	C	0.61	cytosol
+GO:0005634	C	0.54	nucleus
+GO:0005737	C	0.50	cytoplasm
+GO:0005886	C	0.48	plasma membrane
+GO:0044428	C	0.45	nuclear part
+GO:0044425	C	0.40	membrane part
+GO:0005654	C	0.38	nucleoplasm
+GO:1990234	C	0.32	transferase complex
+GO:0042995	C	0.31	cell projection
+GO:0005739	C	0.31	mitochondrion
+GO:0043232	C	0.26	intracellular non-membrane-bounded organelle
+GO:0031988	C	0.25	membrane-bounded vesicle
+GO:0044427	C	0.21	chromosomal part
+GO:0097458	C	0.20	neuron part
+GO:0031461	C	0.20	cullin-RING ubiquitin ligase complex
+GO:0016021	C	0.20	integral component of membrane
+GO:0043025	C	0.19	neuronal cell body
+GO:0043005	C	0.19	neuron projection
+GO:0005680	C	0.19	anaphase-promoting complex
+GO:0000785	C	0.19	chromatin
+GO:0098796	C	0.14	membrane protein complex
+GO:0044459	C	0.14	plasma membrane part
+GO:0044429	C	0.14	mitochondrial part
+GO:0044421	C	0.14	extracellular region part
+GO:0044430	C	0.13	cytoskeletal part
+GO:0070688	C	0.12	MLL5-L complex
+GO:0070062	C	0.12	extracellular exosome
+GO:0044463	C	0.12	cell projection part
+GO:0044432	C	0.12	endoplasmic reticulum part
+GO:0042588	C	0.12	zymogen granule
+GO:0031307	C	0.12	integral component of mitochondrial outer membrane
+GO:0005874	C	0.12	microtubule
+GO:0005856	C	0.12	cytoskeleton
+GO:0005741	C	0.12	mitochondrial outer membrane
+GO:0000791	C	0.12	euchromatin
+GO:0000123	C	0.12	histone acetyltransferase complex

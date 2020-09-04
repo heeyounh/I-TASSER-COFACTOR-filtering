@@ -1,0 +1,47 @@
+GO:0043229	C	1.00	intracellular organelle
+GO:0043227	C	0.85	membrane-bounded organelle
+GO:0043231	C	0.84	intracellular membrane-bounded organelle
+GO:0044421	C	0.81	extracellular region part
+GO:0016020	C	0.75	membrane
+GO:0005634	C	0.71	nucleus
+GO:0044425	C	0.69	membrane part
+GO:0031012	C	0.64	extracellular matrix
+GO:0042597	C	0.57	periplasmic space
+GO:0005886	C	0.55	plasma membrane
+GO:0031224	C	0.52	intrinsic component of membrane
+GO:0044459	C	0.51	plasma membrane part
+GO:0005615	C	0.51	extracellular space
+GO:0005576	C	0.49	extracellular region
+GO:0044444	C	0.47	cytoplasmic part
+GO:0043234	C	0.46	protein complex
+GO:0016021	C	0.41	integral component of membrane
+GO:0098797	C	0.40	plasma membrane protein complex
+GO:0005737	C	0.39	cytoplasm
+GO:0005856	C	0.37	cytoskeleton
+GO:0044446	C	0.36	intracellular organelle part
+GO:0031988	C	0.35	membrane-bounded vesicle
+GO:1990060	C	0.34	maltose transport complex
+GO:0055052	C	0.34	ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing
+GO:0030288	C	0.34	outer membrane-bounded periplasmic space
+GO:0015630	C	0.34	microtubule cytoskeleton
+GO:0098589	C	0.30	membrane region
+GO:0031410	C	0.30	cytoplasmic vesicle
+GO:0005794	C	0.30	Golgi apparatus
+GO:0045177	C	0.27	apical part of cell
+GO:0005783	C	0.25	endoplasmic reticulum
+GO:0005768	C	0.25	endosome
+GO:0030141	C	0.23	secretory granule
+GO:0005771	C	0.22	multivesicular body
+GO:0044433	C	0.20	cytoplasmic vesicle part
+GO:0005623	C	0.19	cell
+GO:0048471	C	0.18	perinuclear region of cytoplasm
+GO:0002081	C	0.18	outer acrosomal membrane
+GO:0001669	C	0.18	acrosomal vesicle
+GO:0005887	C	0.16	integral component of plasma membrane
+GO:0098588	C	0.15	bounding membrane of organelle
+GO:0070062	C	0.15	extracellular exosome
+GO:0005578	C	0.15	proteinaceous extracellular matrix
+GO:0098590	C	0.14	plasma membrane region
+GO:0044430	C	0.14	cytoskeletal part
+GO:0042995	C	0.14	cell projection
+GO:0043235	C	0.11	receptor complex

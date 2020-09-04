@@ -1,0 +1,44 @@
+GO:0044464	C	1.00	cell part
+GO:0044424	C	0.99	intracellular part
+GO:0043226	C	0.90	organelle
+GO:0043229	C	0.88	intracellular organelle
+GO:0032991	C	0.87	macromolecular complex
+GO:0043227	C	0.85	membrane-bounded organelle
+GO:0044444	C	0.83	cytoplasmic part
+GO:0043234	C	0.82	protein complex
+GO:0043231	C	0.82	intracellular membrane-bounded organelle
+GO:0044422	C	0.81	organelle part
+GO:0044446	C	0.80	intracellular organelle part
+GO:0016020	C	0.73	membrane
+GO:0005634	C	0.72	nucleus
+GO:0005737	C	0.69	cytoplasm
+GO:0044428	C	0.61	nuclear part
+GO:0005829	C	0.53	cytosol
+GO:0005886	C	0.44	plasma membrane
+GO:0044425	C	0.43	membrane part
+GO:0043232	C	0.41	intracellular non-membrane-bounded organelle
+GO:0030529	C	0.37	intracellular ribonucleoprotein complex
+GO:0044427	C	0.35	chromosomal part
+GO:0031090	C	0.31	organelle membrane
+GO:0005654	C	0.28	nucleoplasm
+GO:0000776	C	0.27	kinetochore
+GO:0000145	C	0.27	exocyst
+GO:0044451	C	0.24	nucleoplasm part
+GO:0044430	C	0.24	cytoskeletal part
+GO:0098589	C	0.20	membrane region
+GO:0044459	C	0.18	plasma membrane part
+GO:0031988	C	0.18	membrane-bounded vesicle
+GO:0005730	C	0.18	nucleolus
+GO:0005815	C	0.17	microtubule organizing center
+GO:0005681	C	0.17	spliceosomal complex
+GO:0031965	C	0.16	nuclear membrane
+GO:0015030	C	0.16	Cajal body
+GO:0005774	C	0.16	vacuolar membrane
+GO:0005642	C	0.16	annulate lamellae
+GO:0005635	C	0.16	nuclear envelope
+GO:0030054	C	0.14	cell junction
+GO:0010008	C	0.13	endosome membrane
+GO:0044463	C	0.12	cell projection part
+GO:0016021	C	0.12	integral component of membrane
+GO:0005856	C	0.12	cytoskeleton
+GO:0012505	C	0.11	endomembrane system

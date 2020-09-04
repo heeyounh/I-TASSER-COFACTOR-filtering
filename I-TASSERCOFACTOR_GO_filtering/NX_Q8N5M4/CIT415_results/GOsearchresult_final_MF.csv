@@ -1,0 +1,13 @@
+GO:0003755	F	0.97	peptidyl-prolyl cis-trans isomerase activity
+GO:1901363	F	0.85	heterocyclic compound binding
+GO:0097159	F	0.85	organic cyclic compound binding
+GO:0008144	F	0.83	drug binding
+GO:0005528	F	0.82	FK506 binding
+GO:0043167	F	0.20	ion binding
+GO:0046872	F	0.19	metal ion binding
+GO:0036094	F	0.13	small molecule binding
+GO:0035639	F	0.12	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.12	purine ribonucleotide binding
+GO:0032550	F	0.12	purine ribonucleoside binding
+GO:0008270	F	0.12	zinc ion binding
+GO:0005524	F	0.11	ATP binding

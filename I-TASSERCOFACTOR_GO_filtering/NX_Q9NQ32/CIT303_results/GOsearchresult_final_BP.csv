@@ -1,0 +1,32 @@
+GO:0050794	P	0.95	regulation of cellular process
+GO:0009987	P	0.94	cellular process
+GO:0080090	P	0.93	regulation of primary metabolic process
+GO:0060255	P	0.93	regulation of macromolecule metabolic process
+GO:0031323	P	0.93	regulation of cellular metabolic process
+GO:0006355	P	0.92	regulation of transcription, DNA-templated
+GO:0044699	P	0.80	single-organism process
+GO:0044763	P	0.73	single-organism cellular process
+GO:0048519	P	0.71	negative regulation of biological process
+GO:0048523	P	0.70	negative regulation of cellular process
+GO:0031507	P	0.68	heterochromatin assembly
+GO:0006342	P	0.68	chromatin silencing
+GO:0048518	P	0.32	positive regulation of biological process
+GO:0031325	P	0.30	positive regulation of cellular metabolic process
+GO:0010604	P	0.30	positive regulation of macromolecule metabolic process
+GO:0050896	P	0.28	response to stimulus
+GO:0008152	P	0.27	metabolic process
+GO:0045944	P	0.26	positive regulation of transcription from RNA polymerase II promoter
+GO:0071704	P	0.25	organic substance metabolic process
+GO:0044238	P	0.25	primary metabolic process
+GO:0000077	P	0.24	DNA damage checkpoint
+GO:0044237	P	0.22	cellular metabolic process
+GO:1901360	P	0.20	organic cyclic compound metabolic process
+GO:0046483	P	0.20	heterocycle metabolic process
+GO:0006807	P	0.20	nitrogen compound metabolic process
+GO:0006725	P	0.20	cellular aromatic compound metabolic process
+GO:0032501	P	0.15	multicellular organismal process
+GO:0006351	P	0.15	transcription, DNA-templated
+GO:0048856	P	0.13	anatomical structure development
+GO:0044281	P	0.13	small molecule metabolic process
+GO:0044707	P	0.12	single-multicellular organism process
+GO:0044767	P	0.11	single-organism developmental process

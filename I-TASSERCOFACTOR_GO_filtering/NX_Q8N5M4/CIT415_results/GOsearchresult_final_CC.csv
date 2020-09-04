@@ -1,0 +1,16 @@
+GO:0044424	C	1.00	intracellular part
+GO:0044444	C	0.97	cytoplasmic part
+GO:0044446	C	0.96	intracellular organelle part
+GO:0016020	C	0.95	membrane
+GO:0044425	C	0.94	membrane part
+GO:0005789	C	0.93	endoplasmic reticulum membrane
+GO:0043226	C	0.38	organelle
+GO:0043227	C	0.35	membrane-bounded organelle
+GO:0043229	C	0.32	intracellular organelle
+GO:0043231	C	0.30	intracellular membrane-bounded organelle
+GO:0032991	C	0.22	macromolecular complex
+GO:0043234	C	0.21	protein complex
+GO:0005634	C	0.21	nucleus
+GO:1990234	C	0.15	transferase complex
+GO:0005829	C	0.12	cytosol
+GO:0044428	C	0.11	nuclear part

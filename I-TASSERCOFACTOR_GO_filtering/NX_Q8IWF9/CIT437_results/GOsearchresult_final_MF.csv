@@ -1,0 +1,20 @@
+GO:0008092	F	0.56	cytoskeletal protein binding
+GO:0003824	F	0.53	catalytic activity
+GO:0046983	F	0.35	protein dimerization activity
+GO:0042802	F	0.35	identical protein binding
+GO:0032403	F	0.35	protein complex binding
+GO:0016787	F	0.30	hydrolase activity
+GO:0017111	F	0.29	nucleoside-triphosphatase activity
+GO:0016887	F	0.27	ATPase activity
+GO:1901363	F	0.26	heterocyclic compound binding
+GO:0097159	F	0.26	organic cyclic compound binding
+GO:0003774	F	0.26	motor activity
+GO:0003777	F	0.22	microtubule motor activity
+GO:0003676	F	0.19	nucleic acid binding
+GO:0004871	F	0.18	signal transducer activity
+GO:0016740	F	0.15	transferase activity
+GO:0003723	F	0.13	RNA binding
+GO:0098772	F	0.12	molecular function regulator
+GO:0044822	F	0.12	poly(A) RNA binding
+GO:0097367	F	0.11	carbohydrate derivative binding
+GO:0046872	F	0.11	metal ion binding

@@ -1,0 +1,41 @@
+GO:0009987	P	0.64	cellular process
+GO:0044699	P	0.60	single-organism process
+GO:0044763	P	0.44	single-organism cellular process
+GO:0051234	P	0.40	establishment of localization
+GO:0065007	P	0.35	biological regulation
+GO:0050794	P	0.33	regulation of cellular process
+GO:0044767	P	0.33	single-organism developmental process
+GO:0016043	P	0.27	cellular component organization
+GO:0048729	P	0.26	tissue morphogenesis
+GO:0048519	P	0.26	negative regulation of biological process
+GO:0048523	P	0.23	negative regulation of cellular process
+GO:0002009	P	0.23	morphogenesis of an epithelium
+GO:0071704	P	0.22	organic substance metabolic process
+GO:0051716	P	0.22	cellular response to stimulus
+GO:0044237	P	0.22	cellular metabolic process
+GO:0032501	P	0.22	multicellular organismal process
+GO:0044260	P	0.20	cellular macromolecule metabolic process
+GO:0044238	P	0.20	primary metabolic process
+GO:0033554	P	0.20	cellular response to stress
+GO:0048869	P	0.18	cellular developmental process
+GO:0048856	P	0.18	anatomical structure development
+GO:0044707	P	0.17	single-multicellular organism process
+GO:0034641	P	0.17	cellular nitrogen compound metabolic process
+GO:0007010	P	0.16	cytoskeleton organization
+GO:0043009	P	0.15	chordate embryonic development
+GO:0042127	P	0.15	regulation of cell proliferation
+GO:0008283	P	0.15	cell proliferation
+GO:2001013	P	0.14	epithelial cell proliferation involved in renal tubule morphogenesis
+GO:0072160	P	0.14	nephron tubule epithelial cell differentiation
+GO:0072102	P	0.14	glomerulus morphogenesis
+GO:0071498	P	0.14	cellular response to fluid shear stress
+GO:0061333	P	0.14	renal tubule morphogenesis
+GO:0050680	P	0.14	negative regulation of epithelial cell proliferation
+GO:0090304	P	0.13	nucleic acid metabolic process
+GO:0061061	P	0.13	muscle structure development
+GO:0048522	P	0.13	positive regulation of cellular process
+GO:0022607	P	0.13	cellular component assembly
+GO:0080090	P	0.12	regulation of primary metabolic process
+GO:0060255	P	0.12	regulation of macromolecule metabolic process
+GO:0031323	P	0.12	regulation of cellular metabolic process
+GO:0006810	P	0.12	transport

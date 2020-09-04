@@ -1,0 +1,35 @@
+GO:0044424	C	1.00	intracellular part
+GO:0044446	C	0.65	intracellular organelle part
+GO:0043226	C	0.64	organelle
+GO:0043229	C	0.63	intracellular organelle
+GO:0043227	C	0.63	membrane-bounded organelle
+GO:0043231	C	0.60	intracellular membrane-bounded organelle
+GO:0044444	C	0.59	cytoplasmic part
+GO:0043234	C	0.48	protein complex
+GO:0044428	C	0.38	nuclear part
+GO:0005737	C	0.38	cytoplasm
+GO:0061695	C	0.28	transferase complex, transferring phosphorus-containing groups
+GO:0016020	C	0.28	membrane
+GO:0044425	C	0.25	membrane part
+GO:0044451	C	0.24	nucleoplasm part
+GO:0005634	C	0.24	nucleus
+GO:0016021	C	0.18	integral component of membrane
+GO:0005665	C	0.18	DNA-directed RNA polymerase II, core complex
+GO:0005829	C	0.16	cytosol
+GO:0098588	C	0.14	bounding membrane of organelle
+GO:0005886	C	0.14	plasma membrane
+GO:0005794	C	0.14	Golgi apparatus
+GO:0005576	C	0.14	extracellular region
+GO:0044454	C	0.13	nuclear chromosome part
+GO:0044430	C	0.13	cytoskeletal part
+GO:0005773	C	0.13	vacuole
+GO:0000139	C	0.13	Golgi membrane
+GO:0030173	C	0.12	integral component of Golgi membrane
+GO:0009570	C	0.12	chloroplast stroma
+GO:0009507	C	0.12	chloroplast
+GO:0008622	C	0.12	epsilon DNA polymerase complex
+GO:0005657	C	0.12	replication fork
+GO:0000324	C	0.12	fungal-type vacuole
+GO:0097458	C	0.11	neuron part
+GO:0044421	C	0.11	extracellular region part
+GO:0031988	C	0.11	membrane-bounded vesicle

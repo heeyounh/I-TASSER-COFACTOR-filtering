@@ -1,0 +1,10 @@
+GO:0097159	F	0.68	organic cyclic compound binding
+GO:1901363	F	0.67	heterocyclic compound binding
+GO:0003676	F	0.62	nucleic acid binding
+GO:0003824	F	0.61	catalytic activity
+GO:0016772	F	0.57	transferase activity, transferring phosphorus-containing groups
+GO:0034062	F	0.56	RNA polymerase activity
+GO:0046872	F	0.55	metal ion binding
+GO:0046914	F	0.41	transition metal ion binding
+GO:0000166	F	0.13	nucleotide binding
+GO:0005524	F	0.12	ATP binding
