@@ -1,0 +1,67 @@
+GO:0032502	P	0.89	developmental process
+GO:0048856	P	0.88	anatomical structure development
+GO:0065007	P	0.85	biological regulation
+GO:0050789	P	0.84	regulation of biological process
+GO:0050794	P	0.82	regulation of cellular process
+GO:0044699	P	0.80	single-organism process
+GO:0044767	P	0.60	single-organism developmental process
+GO:0009987	P	0.60	cellular process
+GO:0048518	P	0.56	positive regulation of biological process
+GO:0048522	P	0.53	positive regulation of cellular process
+GO:0044763	P	0.52	single-organism cellular process
+GO:0050896	P	0.48	response to stimulus
+GO:0048731	P	0.48	system development
+GO:0007399	P	0.47	nervous system development
+GO:0048513	P	0.40	animal organ development
+GO:0048646	P	0.32	anatomical structure formation involved in morphogenesis
+GO:0016043	P	0.28	cellular component organization
+GO:0048869	P	0.27	cellular developmental process
+GO:0042127	P	0.27	regulation of cell proliferation
+GO:0006950	P	0.27	response to stress
+GO:0008284	P	0.26	positive regulation of cell proliferation
+GO:0048732	P	0.25	gland development
+GO:0009888	P	0.25	tissue development
+GO:0009605	P	0.23	response to external stimulus
+GO:0051239	P	0.22	regulation of multicellular organismal process
+GO:0031323	P	0.22	regulation of cellular metabolic process
+GO:0007165	P	0.22	signal transduction
+GO:0080090	P	0.21	regulation of primary metabolic process
+GO:0060429	P	0.21	epithelium development
+GO:0060255	P	0.21	regulation of macromolecule metabolic process
+GO:0030325	P	0.21	adrenal gland development
+GO:0009611	P	0.21	response to wounding
+GO:0051704	P	0.20	multi-organism process
+GO:0032501	P	0.20	multicellular organismal process
+GO:2000026	P	0.19	regulation of multicellular organismal development
+GO:0051726	P	0.19	regulation of cell cycle
+GO:0051240	P	0.19	positive regulation of multicellular organismal process
+GO:0048519	P	0.19	negative regulation of biological process
+GO:0044707	P	0.19	single-multicellular organism process
+GO:0009617	P	0.19	response to bacterium
+GO:0007420	P	0.19	brain development
+GO:0003008	P	0.19	system process
+GO:0070654	P	0.17	sensory epithelium regeneration
+GO:0051094	P	0.17	positive regulation of developmental process
+GO:0048523	P	0.17	negative regulation of cellular process
+GO:0045664	P	0.17	regulation of neuron differentiation
+GO:0031325	P	0.17	positive regulation of cellular metabolic process
+GO:0007611	P	0.17	learning or memory
+GO:0001841	P	0.17	neural tube formation
+GO:0045666	P	0.16	positive regulation of neuron differentiation
+GO:0010604	P	0.16	positive regulation of macromolecule metabolic process
+GO:0008152	P	0.16	metabolic process
+GO:0007166	P	0.15	cell surface receptor signaling pathway
+GO:2000112	P	0.14	regulation of cellular macromolecule biosynthetic process
+GO:0030154	P	0.14	cell differentiation
+GO:0019219	P	0.14	regulation of nucleobase-containing compound metabolic process
+GO:0010468	P	0.14	regulation of gene expression
+GO:0010033	P	0.14	response to organic substance
+GO:0009653	P	0.14	anatomical structure morphogenesis
+GO:0071704	P	0.13	organic substance metabolic process
+GO:0007528	P	0.13	neuromuscular junction development
+GO:0006355	P	0.13	regulation of transcription, DNA-templated
+GO:0045893	P	0.12	positive regulation of transcription, DNA-templated
+GO:0014029	P	0.12	neural crest formation
+GO:0009719	P	0.12	response to endogenous stimulus
+GO:0048545	P	0.11	response to steroid hormone
+GO:0042981	P	0.11	regulation of apoptotic process

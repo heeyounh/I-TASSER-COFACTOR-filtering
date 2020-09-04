@@ -1,0 +1,78 @@
+GO:0044238	P	0.98	primary metabolic process
+GO:0044237	P	0.98	cellular metabolic process
+GO:0043170	P	0.98	macromolecule metabolic process
+GO:0065007	P	0.87	biological regulation
+GO:0050789	P	0.86	regulation of biological process
+GO:0050794	P	0.85	regulation of cellular process
+GO:0048518	P	0.83	positive regulation of biological process
+GO:0031323	P	0.83	regulation of cellular metabolic process
+GO:0050896	P	0.82	response to stimulus
+GO:0044281	P	0.82	small molecule metabolic process
+GO:0031325	P	0.82	positive regulation of cellular metabolic process
+GO:0009889	P	0.82	regulation of biosynthetic process
+GO:0080090	P	0.81	regulation of primary metabolic process
+GO:0051234	P	0.81	establishment of localization
+GO:0009891	P	0.81	positive regulation of biosynthetic process
+GO:1901360	P	0.80	organic cyclic compound metabolic process
+GO:0071702	P	0.80	organic substance transport
+GO:0065008	P	0.80	regulation of biological quality
+GO:0051239	P	0.80	regulation of multicellular organismal process
+GO:0048856	P	0.80	anatomical structure development
+GO:0044255	P	0.80	cellular lipid metabolic process
+GO:0043085	P	0.80	positive regulation of catalytic activity
+GO:0016043	P	0.80	cellular component organization
+GO:0006950	P	0.80	response to stress
+GO:1901576	P	0.79	organic substance biosynthetic process
+GO:0046889	P	0.79	positive regulation of lipid biosynthetic process
+GO:0044248	P	0.79	cellular catabolic process
+GO:0043691	P	0.79	reverse cholesterol transport
+GO:0042632	P	0.79	cholesterol homeostasis
+GO:0042157	P	0.79	lipoprotein metabolic process
+GO:0034380	P	0.79	high-density lipoprotein particle assembly
+GO:0033700	P	0.79	phospholipid efflux
+GO:0033344	P	0.79	cholesterol efflux
+GO:0032374	P	0.79	regulation of cholesterol transport
+GO:0031102	P	0.79	neuron projection regeneration
+GO:0016042	P	0.79	lipid catabolic process
+GO:0010873	P	0.79	positive regulation of cholesterol esterification
+GO:0008203	P	0.79	cholesterol metabolic process
+GO:0034369	P	0.78	plasma lipoprotein particle remodeling
+GO:0019433	P	0.78	triglyceride catabolic process
+GO:0006695	P	0.78	cholesterol biosynthetic process
+GO:0034372	P	0.74	very-low-density lipoprotein particle remodeling
+GO:0031328	P	0.74	positive regulation of cellular biosynthetic process
+GO:0031331	P	0.72	positive regulation of cellular catabolic process
+GO:0051345	P	0.71	positive regulation of hydrolase activity
+GO:0070328	P	0.70	triglyceride homeostasis
+GO:0051006	P	0.70	positive regulation of lipoprotein lipase activity
+GO:0046470	P	0.70	phosphatidylcholine metabolic process
+GO:0045723	P	0.70	positive regulation of fatty acid biosynthetic process
+GO:0030300	P	0.70	regulation of intestinal cholesterol absorption
+GO:0010898	P	0.70	positive regulation of triglyceride catabolic process
+GO:0044260	P	0.41	cellular macromolecule metabolic process
+GO:0044267	P	0.38	cellular protein metabolic process
+GO:0006464	P	0.37	cellular protein modification process
+GO:0055114	P	0.36	oxidation-reduction process
+GO:0018193	P	0.36	peptidyl-amino acid modification
+GO:0018206	P	0.35	peptidyl-methionine modification
+GO:0018158	P	0.35	protein oxidation
+GO:0048519	P	0.26	negative regulation of biological process
+GO:0048523	P	0.23	negative regulation of cellular process
+GO:0051128	P	0.19	regulation of cellular component organization
+GO:0050793	P	0.19	regulation of developmental process
+GO:2000026	P	0.18	regulation of multicellular organismal development
+GO:0022603	P	0.18	regulation of anatomical structure morphogenesis
+GO:0060284	P	0.17	regulation of cell development
+GO:0010769	P	0.16	regulation of cell morphogenesis involved in differentiation
+GO:0060255	P	0.15	regulation of macromolecule metabolic process
+GO:0044249	P	0.14	cellular biosynthetic process
+GO:0009059	P	0.14	macromolecule biosynthetic process
+GO:0048583	P	0.13	regulation of response to stimulus
+GO:0042221	P	0.13	response to chemical
+GO:0051130	P	0.12	positive regulation of cellular component organization
+GO:0007165	P	0.12	signal transduction
+GO:0001523	P	0.12	retinoid metabolic process
+GO:0051241	P	0.11	negative regulation of multicellular organismal process
+GO:0040008	P	0.11	regulation of growth
+GO:0034645	P	0.11	cellular macromolecule biosynthetic process
+GO:0032101	P	0.11	regulation of response to external stimulus

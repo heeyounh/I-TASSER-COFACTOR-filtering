@@ -1,0 +1,14 @@
+GO:0003824	F	0.97	catalytic activity
+GO:0004672	F	0.96	protein kinase activity
+GO:0004674	F	0.86	protein serine/threonine kinase activity
+GO:1901363	F	0.58	heterocyclic compound binding
+GO:0097159	F	0.58	organic cyclic compound binding
+GO:0032553	F	0.55	ribonucleotide binding
+GO:0035639	F	0.54	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.54	purine ribonucleotide binding
+GO:0032550	F	0.54	purine ribonucleoside binding
+GO:0005524	F	0.33	ATP binding
+GO:0004871	F	0.31	signal transducer activity
+GO:0005057	F	0.25	receptor signaling protein activity
+GO:0004702	F	0.24	receptor signaling protein serine/threonine kinase activity
+GO:0005525	F	0.22	GTP binding

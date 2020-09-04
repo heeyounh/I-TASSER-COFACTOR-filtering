@@ -1,0 +1,78 @@
+GO:0044699	P	0.99	single-organism process
+GO:0009987	P	0.99	cellular process
+GO:0044763	P	0.98	single-organism cellular process
+GO:0071704	P	0.97	organic substance metabolic process
+GO:0044710	P	0.97	single-organism metabolic process
+GO:0065007	P	0.96	biological regulation
+GO:0050789	P	0.96	regulation of biological process
+GO:0044238	P	0.96	primary metabolic process
+GO:0044237	P	0.96	cellular metabolic process
+GO:0043170	P	0.96	macromolecule metabolic process
+GO:0048522	P	0.95	positive regulation of cellular process
+GO:0031323	P	0.94	regulation of cellular metabolic process
+GO:0016043	P	0.94	cellular component organization
+GO:0050896	P	0.93	response to stimulus
+GO:0044281	P	0.93	small molecule metabolic process
+GO:0043085	P	0.93	positive regulation of catalytic activity
+GO:0031325	P	0.93	positive regulation of cellular metabolic process
+GO:0009891	P	0.93	positive regulation of biosynthetic process
+GO:0051239	P	0.92	regulation of multicellular organismal process
+GO:0046889	P	0.92	positive regulation of lipid biosynthetic process
+GO:0044255	P	0.92	cellular lipid metabolic process
+GO:0044248	P	0.92	cellular catabolic process
+GO:0043691	P	0.92	reverse cholesterol transport
+GO:0042632	P	0.92	cholesterol homeostasis
+GO:0042157	P	0.92	lipoprotein metabolic process
+GO:0034380	P	0.92	high-density lipoprotein particle assembly
+GO:0033700	P	0.92	phospholipid efflux
+GO:0033344	P	0.92	cholesterol efflux
+GO:0032374	P	0.92	regulation of cholesterol transport
+GO:0031102	P	0.92	neuron projection regeneration
+GO:0016042	P	0.92	lipid catabolic process
+GO:0010873	P	0.92	positive regulation of cholesterol esterification
+GO:0008203	P	0.92	cholesterol metabolic process
+GO:1901576	P	0.91	organic substance biosynthetic process
+GO:0034372	P	0.90	very-low-density lipoprotein particle remodeling
+GO:0006695	P	0.90	cholesterol biosynthetic process
+GO:0019433	P	0.87	triglyceride catabolic process
+GO:0031328	P	0.84	positive regulation of cellular biosynthetic process
+GO:0051336	P	0.82	regulation of hydrolase activity
+GO:0031331	P	0.82	positive regulation of cellular catabolic process
+GO:0006807	P	0.82	nitrogen compound metabolic process
+GO:0070328	P	0.81	triglyceride homeostasis
+GO:0051006	P	0.81	positive regulation of lipoprotein lipase activity
+GO:0046470	P	0.81	phosphatidylcholine metabolic process
+GO:0045723	P	0.81	positive regulation of fatty acid biosynthetic process
+GO:0030300	P	0.81	regulation of intestinal cholesterol absorption
+GO:0010898	P	0.81	positive regulation of triglyceride catabolic process
+GO:0048519	P	0.28	negative regulation of biological process
+GO:0048523	P	0.25	negative regulation of cellular process
+GO:0042221	P	0.19	response to chemical
+GO:0060255	P	0.17	regulation of macromolecule metabolic process
+GO:0050793	P	0.17	regulation of developmental process
+GO:2000026	P	0.16	regulation of multicellular organismal development
+GO:0051128	P	0.16	regulation of cellular component organization
+GO:0044260	P	0.16	cellular macromolecule metabolic process
+GO:0019538	P	0.16	protein metabolic process
+GO:0010033	P	0.16	response to organic substance
+GO:0022603	P	0.15	regulation of anatomical structure morphogenesis
+GO:1901700	P	0.14	response to oxygen-containing compound
+GO:0044267	P	0.14	cellular protein metabolic process
+GO:0010769	P	0.14	regulation of cell morphogenesis involved in differentiation
+GO:0009892	P	0.14	negative regulation of metabolic process
+GO:0009059	P	0.14	macromolecule biosynthetic process
+GO:0006721	P	0.14	terpenoid metabolic process
+GO:0031324	P	0.13	negative regulation of cellular metabolic process
+GO:0010605	P	0.13	negative regulation of macromolecule metabolic process
+GO:0001523	P	0.13	retinoid metabolic process
+GO:0048638	P	0.12	regulation of developmental growth
+GO:0044249	P	0.12	cellular biosynthetic process
+GO:0010975	P	0.12	regulation of neuron projection development
+GO:0010941	P	0.12	regulation of cell death
+GO:0009057	P	0.12	macromolecule catabolic process
+GO:1900221	P	0.11	regulation of beta-amyloid clearance
+GO:0051000	P	0.11	positive regulation of nitric-oxide synthase activity
+GO:0043524	P	0.11	negative regulation of neuron apoptotic process
+GO:0042159	P	0.11	lipoprotein catabolic process
+GO:0030516	P	0.11	regulation of axon extension
+GO:0006707	P	0.11	cholesterol catabolic process

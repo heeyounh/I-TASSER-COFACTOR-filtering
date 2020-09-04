@@ -1,0 +1,27 @@
+GO:0009987	P	1.00	cellular process
+GO:0071704	P	0.99	organic substance metabolic process
+GO:0044237	P	0.99	cellular metabolic process
+GO:0044260	P	0.98	cellular macromolecule metabolic process
+GO:0044238	P	0.98	primary metabolic process
+GO:0034641	P	0.98	cellular nitrogen compound metabolic process
+GO:0090304	P	0.97	nucleic acid metabolic process
+GO:0006974	P	0.97	cellular response to DNA damage stimulus
+GO:0006281	P	0.95	DNA repair
+GO:1901576	P	0.37	organic substance biosynthetic process
+GO:0044249	P	0.37	cellular biosynthetic process
+GO:1901564	P	0.35	organonitrogen compound metabolic process
+GO:0044271	P	0.34	cellular nitrogen compound biosynthetic process
+GO:0009059	P	0.34	macromolecule biosynthetic process
+GO:0034645	P	0.33	cellular macromolecule biosynthetic process
+GO:0044267	P	0.32	cellular protein metabolic process
+GO:1901566	P	0.31	organonitrogen compound biosynthetic process
+GO:0006518	P	0.30	peptide metabolic process
+GO:0006412	P	0.29	translation
+GO:0044699	P	0.28	single-organism process
+GO:0065007	P	0.22	biological regulation
+GO:0050789	P	0.21	regulation of biological process
+GO:0044763	P	0.21	single-organism cellular process
+GO:0050794	P	0.20	regulation of cellular process
+GO:0016070	P	0.14	RNA metabolic process
+GO:0071840	P	0.11	cellular component organization or biogenesis
+GO:0044710	P	0.11	single-organism metabolic process

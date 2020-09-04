@@ -1,0 +1,32 @@
+GO:0044464	C	0.98	cell part
+GO:0044425	C	0.96	membrane part
+GO:0016020	C	0.96	membrane
+GO:0097458	C	0.95	neuron part
+GO:0044459	C	0.95	plasma membrane part
+GO:0031224	C	0.73	intrinsic component of membrane
+GO:0031226	C	0.72	intrinsic component of plasma membrane
+GO:0045121	C	0.71	membrane raft
+GO:0043209	C	0.71	myelin sheath
+GO:0031362	C	0.71	anchored component of external side of plasma membrane
+GO:0030425	C	0.71	dendrite
+GO:0005886	C	0.60	plasma membrane
+GO:0030426	C	0.54	growth cone
+GO:0009897	C	0.54	external side of plasma membrane
+GO:0044424	C	0.52	intracellular part
+GO:0044444	C	0.35	cytoplasmic part
+GO:0043226	C	0.29	organelle
+GO:0043229	C	0.26	intracellular organelle
+GO:0043227	C	0.26	membrane-bounded organelle
+GO:0043231	C	0.23	intracellular membrane-bounded organelle
+GO:0044421	C	0.19	extracellular region part
+GO:0044422	C	0.18	organelle part
+GO:0044446	C	0.17	intracellular organelle part
+GO:0070062	C	0.14	extracellular exosome
+GO:0016021	C	0.13	integral component of membrane
+GO:0030054	C	0.12	cell junction
+GO:0005623	C	0.12	cell
+GO:0005576	C	0.12	extracellular region
+GO:0032991	C	0.11	macromolecular complex
+GO:0016324	C	0.11	apical plasma membrane
+GO:0005925	C	0.11	focal adhesion
+GO:0005783	C	0.11	endoplasmic reticulum

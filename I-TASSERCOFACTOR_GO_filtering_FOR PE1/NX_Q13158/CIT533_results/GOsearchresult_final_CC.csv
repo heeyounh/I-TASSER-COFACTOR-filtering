@@ -1,0 +1,21 @@
+GO:0044464	C	1.00	cell part
+GO:0044424	C	0.99	intracellular part
+GO:0044444	C	0.88	cytoplasmic part
+GO:0032991	C	0.81	macromolecular complex
+GO:0043234	C	0.80	protein complex
+GO:0097342	C	0.78	ripoptosome
+GO:0005737	C	0.32	cytoplasm
+GO:0016020	C	0.28	membrane
+GO:0005829	C	0.27	cytosol
+GO:0044425	C	0.25	membrane part
+GO:0044422	C	0.23	organelle part
+GO:0044446	C	0.22	intracellular organelle part
+GO:0043226	C	0.22	organelle
+GO:0043229	C	0.21	intracellular organelle
+GO:0043227	C	0.17	membrane-bounded organelle
+GO:0044459	C	0.16	plasma membrane part
+GO:0043231	C	0.15	intracellular membrane-bounded organelle
+GO:0005886	C	0.14	plasma membrane
+GO:0098796	C	0.13	membrane protein complex
+GO:0098797	C	0.12	plasma membrane protein complex
+GO:0031264	C	0.11	death-inducing signaling complex

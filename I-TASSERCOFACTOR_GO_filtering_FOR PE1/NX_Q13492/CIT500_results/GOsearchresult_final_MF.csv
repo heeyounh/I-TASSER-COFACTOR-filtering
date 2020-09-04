@@ -1,0 +1,22 @@
+GO:0030276	F	0.91	clathrin binding
+GO:0008289	F	0.61	lipid binding
+GO:0005543	F	0.60	phospholipid binding
+GO:0035091	F	0.59	phosphatidylinositol binding
+GO:0005545	F	0.58	1-phosphatidylinositol binding
+GO:0035615	F	0.44	clathrin adaptor activity
+GO:0032050	F	0.36	clathrin heavy chain binding
+GO:1901363	F	0.22	heterocyclic compound binding
+GO:0097159	F	0.22	organic cyclic compound binding
+GO:0042802	F	0.17	identical protein binding
+GO:0019899	F	0.16	enzyme binding
+GO:0098641	F	0.15	cadherin binding involved in cell-cell adhesion
+GO:0019900	F	0.15	kinase binding
+GO:0017124	F	0.15	SH3 domain binding
+GO:0019901	F	0.14	protein kinase binding
+GO:0046872	F	0.13	metal ion binding
+GO:0003824	F	0.12	catalytic activity
+GO:0000166	F	0.12	nucleotide binding
+GO:0035639	F	0.11	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.11	purine ribonucleotide binding
+GO:0032550	F	0.11	purine ribonucleoside binding
+GO:0003676	F	0.11	nucleic acid binding

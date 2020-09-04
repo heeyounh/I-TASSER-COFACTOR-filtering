@@ -1,0 +1,73 @@
+GO:0009987	P	0.76	cellular process
+GO:0050896	P	0.75	response to stimulus
+GO:0044699	P	0.73	single-organism process
+GO:0006950	P	0.69	response to stress
+GO:0008152	P	0.68	metabolic process
+GO:0006979	P	0.59	response to oxidative stress
+GO:0044237	P	0.58	cellular metabolic process
+GO:0065007	P	0.55	biological regulation
+GO:0050789	P	0.54	regulation of biological process
+GO:0050794	P	0.52	regulation of cellular process
+GO:0042221	P	0.52	response to chemical
+GO:0044763	P	0.47	single-organism cellular process
+GO:0044248	P	0.45	cellular catabolic process
+GO:0071704	P	0.44	organic substance metabolic process
+GO:0044710	P	0.42	single-organism metabolic process
+GO:0048523	P	0.40	negative regulation of cellular process
+GO:0033554	P	0.40	cellular response to stress
+GO:0072593	P	0.39	reactive oxygen species metabolic process
+GO:0044238	P	0.39	primary metabolic process
+GO:0043069	P	0.39	negative regulation of programmed cell death
+GO:0042981	P	0.39	regulation of apoptotic process
+GO:0044281	P	0.38	small molecule metabolic process
+GO:0043066	P	0.38	negative regulation of apoptotic process
+GO:0042744	P	0.38	hydrogen peroxide catabolic process
+GO:0034599	P	0.38	cellular response to oxidative stress
+GO:0031323	P	0.34	regulation of cellular metabolic process
+GO:1901700	P	0.33	response to oxygen-containing compound
+GO:0080090	P	0.33	regulation of primary metabolic process
+GO:0060255	P	0.33	regulation of macromolecule metabolic process
+GO:0006355	P	0.32	regulation of transcription, DNA-templated
+GO:0031324	P	0.31	negative regulation of cellular metabolic process
+GO:0010605	P	0.31	negative regulation of macromolecule metabolic process
+GO:0034614	P	0.30	cellular response to reactive oxygen species
+GO:0016480	P	0.30	negative regulation of transcription from RNA polymerase III promoter
+GO:0006807	P	0.28	nitrogen compound metabolic process
+GO:0034641	P	0.27	cellular nitrogen compound metabolic process
+GO:0006139	P	0.24	nucleobase-containing compound metabolic process
+GO:1901564	P	0.23	organonitrogen compound metabolic process
+GO:0048518	P	0.23	positive regulation of biological process
+GO:0006952	P	0.23	defense response
+GO:0055086	P	0.21	nucleobase-containing small molecule metabolic process
+GO:0044767	P	0.21	single-organism developmental process
+GO:0055114	P	0.20	oxidation-reduction process
+GO:0009893	P	0.20	positive regulation of metabolic process
+GO:0006753	P	0.20	nucleoside phosphate metabolic process
+GO:0065009	P	0.19	regulation of molecular function
+GO:0051240	P	0.19	positive regulation of multicellular organismal process
+GO:0010604	P	0.19	positive regulation of macromolecule metabolic process
+GO:0009891	P	0.19	positive regulation of biosynthetic process
+GO:0009117	P	0.19	nucleotide metabolic process
+GO:0050790	P	0.18	regulation of catalytic activity
+GO:0048856	P	0.18	anatomical structure development
+GO:0046496	P	0.18	nicotinamide nucleotide metabolic process
+GO:0044092	P	0.18	negative regulation of molecular function
+GO:0010557	P	0.18	positive regulation of macromolecule biosynthetic process
+GO:2001057	P	0.17	reactive nitrogen species metabolic process
+GO:0070995	P	0.17	NADPH oxidation
+GO:0065008	P	0.17	regulation of biological quality
+GO:0060785	P	0.17	regulation of apoptosis involved in tissue homeostasis
+GO:0051354	P	0.17	negative regulation of oxidoreductase activity
+GO:0032967	P	0.17	positive regulation of collagen biosynthetic process
+GO:0010035	P	0.17	response to inorganic substance
+GO:0006954	P	0.17	inflammatory response
+GO:0042592	P	0.16	homeostatic process
+GO:0031101	P	0.16	fin regeneration
+GO:0045454	P	0.15	cell redox homeostasis
+GO:0043170	P	0.15	macromolecule metabolic process
+GO:0044707	P	0.14	single-multicellular organism process
+GO:0044260	P	0.14	cellular macromolecule metabolic process
+GO:0010038	P	0.14	response to metal ion
+GO:0006810	P	0.13	transport
+GO:0048583	P	0.11	regulation of response to stimulus
+GO:0019538	P	0.11	protein metabolic process

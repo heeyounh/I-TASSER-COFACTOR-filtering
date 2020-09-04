@@ -1,0 +1,24 @@
+GO:0044464	C	0.99	cell part
+GO:0044424	C	0.83	intracellular part
+GO:0044425	C	0.82	membrane part
+GO:0044444	C	0.67	cytoplasmic part
+GO:0031224	C	0.61	intrinsic component of membrane
+GO:0043229	C	0.60	intracellular organelle
+GO:0044459	C	0.59	plasma membrane part
+GO:0043231	C	0.59	intracellular membrane-bounded organelle
+GO:0016020	C	0.55	membrane
+GO:0016021	C	0.47	integral component of membrane
+GO:0005829	C	0.45	cytosol
+GO:0031226	C	0.41	intrinsic component of plasma membrane
+GO:0005737	C	0.37	cytoplasm
+GO:0005886	C	0.34	plasma membrane
+GO:0044446	C	0.32	intracellular organelle part
+GO:0045171	C	0.28	intercellular bridge
+GO:0005654	C	0.28	nucleoplasm
+GO:0005634	C	0.27	nucleus
+GO:0045121	C	0.22	membrane raft
+GO:0005794	C	0.22	Golgi apparatus
+GO:0005887	C	0.21	integral component of plasma membrane
+GO:0032587	C	0.18	ruffle membrane
+GO:0030139	C	0.18	endocytic vesicle
+GO:0043234	C	0.17	protein complex

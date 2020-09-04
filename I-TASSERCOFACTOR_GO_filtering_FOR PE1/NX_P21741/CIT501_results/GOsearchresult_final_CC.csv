@@ -1,0 +1,18 @@
+GO:0044464	C	0.82	cell part
+GO:0044424	C	0.74	intracellular part
+GO:0044444	C	0.52	cytoplasmic part
+GO:0044421	C	0.51	extracellular region part
+GO:0005576	C	0.48	extracellular region
+GO:0005615	C	0.40	extracellular space
+GO:0043226	C	0.37	organelle
+GO:0043229	C	0.36	intracellular organelle
+GO:0043227	C	0.36	membrane-bounded organelle
+GO:0043231	C	0.34	intracellular membrane-bounded organelle
+GO:0016020	C	0.21	membrane
+GO:0005737	C	0.19	cytoplasm
+GO:0005829	C	0.17	cytosol
+GO:0044422	C	0.14	organelle part
+GO:0044446	C	0.13	intracellular organelle part
+GO:0005783	C	0.13	endoplasmic reticulum
+GO:0042995	C	0.12	cell projection
+GO:0005578	C	0.11	proteinaceous extracellular matrix

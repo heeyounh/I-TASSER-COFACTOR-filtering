@@ -1,0 +1,96 @@
+GO:0065007	P	0.88	biological regulation
+GO:0050789	P	0.88	regulation of biological process
+GO:0048518	P	0.85	positive regulation of biological process
+GO:0050896	P	0.84	response to stimulus
+GO:0043207	P	0.73	response to external biotic stimulus
+GO:0006952	P	0.72	defense response
+GO:0050794	P	0.68	regulation of cellular process
+GO:0048584	P	0.67	positive regulation of response to stimulus
+GO:0002376	P	0.67	immune system process
+GO:0002253	P	0.66	activation of immune response
+GO:0001819	P	0.64	positive regulation of cytokine production
+GO:0032755	P	0.61	positive regulation of interleukin-6 production
+GO:0007165	P	0.61	signal transduction
+GO:0002218	P	0.61	activation of innate immune response
+GO:0002224	P	0.60	toll-like receptor signaling pathway
+GO:0009987	P	0.56	cellular process
+GO:0010033	P	0.51	response to organic substance
+GO:0002237	P	0.50	response to molecule of bacterial origin
+GO:0009617	P	0.49	response to bacterium
+GO:0042742	P	0.48	defense response to bacterium
+GO:0006954	P	0.47	inflammatory response
+GO:0051716	P	0.44	cellular response to stimulus
+GO:0032493	P	0.43	response to bacterial lipoprotein
+GO:0071219	P	0.42	cellular response to molecule of bacterial origin
+GO:0071221	P	0.38	cellular response to bacterial lipopeptide
+GO:0050830	P	0.36	defense response to Gram-positive bacterium
+GO:0048522	P	0.31	positive regulation of cellular process
+GO:0044699	P	0.31	single-organism process
+GO:0044763	P	0.29	single-organism cellular process
+GO:0009967	P	0.26	positive regulation of signal transduction
+GO:1901700	P	0.25	response to oxygen-containing compound
+GO:0019222	P	0.25	regulation of metabolic process
+GO:0043123	P	0.24	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0031326	P	0.24	regulation of cellular biosynthetic process
+GO:0060255	P	0.23	regulation of macromolecule metabolic process
+GO:0048519	P	0.23	negative regulation of biological process
+GO:0080090	P	0.22	regulation of primary metabolic process
+GO:0071726	P	0.22	cellular response to diacyl bacterial lipopeptide
+GO:0051171	P	0.22	regulation of nitrogen compound metabolic process
+GO:0032496	P	0.22	response to lipopolysaccharide
+GO:0010556	P	0.22	regulation of macromolecule biosynthetic process
+GO:0009893	P	0.22	positive regulation of metabolic process
+GO:2000112	P	0.21	regulation of cellular macromolecule biosynthetic process
+GO:0044093	P	0.21	positive regulation of molecular function
+GO:0031328	P	0.21	positive regulation of cellular biosynthetic process
+GO:0010468	P	0.21	regulation of gene expression
+GO:1901701	P	0.20	cellular response to oxygen-containing compound
+GO:0051092	P	0.20	positive regulation of NF-kappaB transcription factor activity
+GO:0042127	P	0.20	regulation of cell proliferation
+GO:0032879	P	0.20	regulation of localization
+GO:0032722	P	0.20	positive regulation of chemokine production
+GO:0032479	P	0.20	regulation of type I interferon production
+GO:0032101	P	0.20	regulation of response to external stimulus
+GO:0010604	P	0.20	positive regulation of macromolecule metabolic process
+GO:0007166	P	0.20	cell surface receptor signaling pathway
+GO:0065008	P	0.19	regulation of biological quality
+GO:0034123	P	0.19	positive regulation of toll-like receptor signaling pathway
+GO:0032760	P	0.19	positive regulation of tumor necrosis factor production
+GO:0031399	P	0.19	regulation of protein modification process
+GO:0010557	P	0.19	positive regulation of macromolecule biosynthetic process
+GO:0071727	P	0.18	cellular response to triacyl bacterial lipopeptide
+GO:0070935	P	0.18	3'-UTR-mediated mRNA stabilization
+GO:0044130	P	0.18	negative regulation of growth of symbiont in host
+GO:0043410	P	0.18	positive regulation of MAPK cascade
+GO:0042108	P	0.18	positive regulation of cytokine biosynthetic process
+GO:0032757	P	0.18	positive regulation of interleukin-8 production
+GO:0008284	P	0.18	positive regulation of cell proliferation
+GO:0002685	P	0.18	regulation of leukocyte migration
+GO:0071223	P	0.17	cellular response to lipoteichoic acid
+GO:0048869	P	0.17	cellular developmental process
+GO:0046330	P	0.17	positive regulation of JNK cascade
+GO:0034142	P	0.17	toll-like receptor 4 signaling pathway
+GO:0032735	P	0.17	positive regulation of interleukin-12 production
+GO:0032648	P	0.17	regulation of interferon-beta production
+GO:0032103	P	0.17	positive regulation of response to external stimulus
+GO:0002755	P	0.17	MyD88-dependent toll-like receptor signaling pathway
+GO:2000341	P	0.16	regulation of chemokine (C-X-C motif) ligand 2 production
+GO:2000338	P	0.16	regulation of chemokine (C-X-C motif) ligand 1 production
+GO:1902622	P	0.16	regulation of neutrophil migration
+GO:0070374	P	0.16	positive regulation of ERK1 and ERK2 cascade
+GO:0050671	P	0.16	positive regulation of lymphocyte proliferation
+GO:0034145	P	0.16	positive regulation of toll-like receptor 4 signaling pathway
+GO:0002687	P	0.16	positive regulation of leukocyte migration
+GO:2000343	P	0.15	positive regulation of chemokine (C-X-C motif) ligand 2 production
+GO:2000340	P	0.15	positive regulation of chemokine (C-X-C motif) ligand 1 production
+GO:0090073	P	0.15	positive regulation of protein homodimerization activity
+GO:0090023	P	0.15	positive regulation of neutrophil chemotaxis
+GO:0071902	P	0.15	positive regulation of protein serine/threonine kinase activity
+GO:0045410	P	0.15	positive regulation of interleukin-6 biosynthetic process
+GO:0035665	P	0.15	TIRAP-dependent toll-like receptor 4 signaling pathway
+GO:0034141	P	0.15	positive regulation of toll-like receptor 3 signaling pathway
+GO:0034137	P	0.15	positive regulation of toll-like receptor 2 signaling pathway
+GO:0032738	P	0.15	positive regulation of interleukin-15 production
+GO:0032147	P	0.15	activation of protein kinase activity
+GO:0030890	P	0.15	positive regulation of B cell proliferation
+GO:0030099	P	0.15	myeloid cell differentiation

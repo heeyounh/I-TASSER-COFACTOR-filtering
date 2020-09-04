@@ -1,0 +1,48 @@
+GO:0044464	C	1.00	cell part
+GO:0016020	C	0.90	membrane
+GO:0044425	C	0.89	membrane part
+GO:0044424	C	0.88	intracellular part
+GO:0044444	C	0.81	cytoplasmic part
+GO:0005905	C	0.75	clathrin-coated pit
+GO:0043226	C	0.66	organelle
+GO:0043227	C	0.65	membrane-bounded organelle
+GO:0043229	C	0.64	intracellular organelle
+GO:0043231	C	0.63	intracellular membrane-bounded organelle
+GO:0031982	C	0.58	vesicle
+GO:0044459	C	0.55	plasma membrane part
+GO:0097458	C	0.54	neuron part
+GO:0044422	C	0.52	organelle part
+GO:0044446	C	0.51	intracellular organelle part
+GO:0032991	C	0.44	macromolecular complex
+GO:0043234	C	0.41	protein complex
+GO:0044456	C	0.40	synapse part
+GO:0097418	C	0.39	neurofibrillary tangle
+GO:0043025	C	0.39	neuronal cell body
+GO:0098796	C	0.38	membrane protein complex
+GO:0042734	C	0.36	presynaptic membrane
+GO:0030119	C	0.36	AP-type membrane coat adaptor complex
+GO:0030131	C	0.35	clathrin adaptor complex
+GO:0044433	C	0.34	cytoplasmic vesicle part
+GO:0031988	C	0.34	membrane-bounded vesicle
+GO:0045211	C	0.32	postsynaptic membrane
+GO:0030122	C	0.32	AP-2 adaptor complex
+GO:0005886	C	0.32	plasma membrane
+GO:0005634	C	0.32	nucleus
+GO:0016023	C	0.31	cytoplasmic, membrane-bounded vesicle
+GO:0030118	C	0.29	clathrin coat
+GO:0048471	C	0.27	perinuclear region of cytoplasm
+GO:0030132	C	0.27	clathrin coat of coated pit
+GO:0008021	C	0.23	synaptic vesicle
+GO:0005773	C	0.22	vacuole
+GO:0043232	C	0.20	intracellular non-membrane-bounded organelle
+GO:0030136	C	0.19	clathrin-coated vesicle
+GO:0014069	C	0.18	postsynaptic density
+GO:0030054	C	0.16	cell junction
+GO:0005768	C	0.16	endosome
+GO:0045202	C	0.14	synapse
+GO:0005912	C	0.14	adherens junction
+GO:0005911	C	0.14	cell-cell junction
+GO:0005829	C	0.14	cytosol
+GO:0005913	C	0.13	cell-cell adherens junction
+GO:0005622	C	0.13	intracellular
+GO:0031090	C	0.11	organelle membrane

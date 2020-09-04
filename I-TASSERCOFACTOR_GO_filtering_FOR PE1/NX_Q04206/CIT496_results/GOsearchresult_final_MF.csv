@@ -1,0 +1,17 @@
+GO:0003700	F	0.96	DNA-binding transcription factor activity
+GO:0003677	F	0.96	DNA binding
+GO:0001067	F	0.93	regulatory region nucleic acid binding
+GO:0000981	F	0.92	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0044212	F	0.90	transcription regulatory region DNA binding
+GO:0000976	F	0.89	transcription regulatory region sequence-specific DNA binding
+GO:0000977	F	0.88	RNA polymerase II regulatory region sequence-specific DNA binding
+GO:0044877	F	0.87	protein-containing complex binding
+GO:0003682	F	0.87	chromatin binding
+GO:0003824	F	0.16	catalytic activity
+GO:0043167	F	0.15	ion binding
+GO:0001228	F	0.14	DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0046983	F	0.13	protein dimerization activity
+GO:0008134	F	0.12	transcription factor binding
+GO:0046982	F	0.11	protein heterodimerization activity
+GO:0042802	F	0.11	identical protein binding
+GO:0001077	F	0.11	proximal promoter DNA-binding transcription activator activity, RNA polymerase II-specific

@@ -1,0 +1,19 @@
+GO:0016209	F	0.83	antioxidant activity
+GO:0003824	F	0.81	catalytic activity
+GO:0016491	F	0.74	oxidoreductase activity
+GO:0004601	F	0.64	peroxidase activity
+GO:0008379	F	0.58	thioredoxin peroxidase activity
+GO:0097159	F	0.42	organic cyclic compound binding
+GO:1901363	F	0.41	heterocyclic compound binding
+GO:0003676	F	0.33	nucleic acid binding
+GO:0046983	F	0.29	protein dimerization activity
+GO:0003677	F	0.29	DNA binding
+GO:0030234	F	0.28	enzyme regulator activity
+GO:0005102	F	0.28	receptor binding
+GO:0043027	F	0.27	cysteine-type endopeptidase inhibitor activity involved in apoptotic process
+GO:0001016	F	0.27	RNA polymerase III regulatory region DNA binding
+GO:0072541	F	0.16	peroxynitrite reductase activity
+GO:0016667	F	0.15	oxidoreductase activity, acting on a sulfur group of donors
+GO:0043167	F	0.12	ion binding
+GO:0036094	F	0.12	small molecule binding
+GO:0000166	F	0.11	nucleotide binding

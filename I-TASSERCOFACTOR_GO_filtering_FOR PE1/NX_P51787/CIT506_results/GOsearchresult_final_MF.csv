@@ -1,0 +1,11 @@
+GO:0005261	F	1.00	cation channel activity
+GO:0022836	F	0.99	gated channel activity
+GO:0022843	F	0.98	voltage-gated cation channel activity
+GO:0005267	F	0.97	potassium channel activity
+GO:0005249	F	0.94	voltage-gated potassium channel activity
+GO:0005251	F	0.91	delayed rectifier potassium channel activity
+GO:1901363	F	0.16	heterocyclic compound binding
+GO:0097159	F	0.16	organic cyclic compound binding
+GO:0015271	F	0.14	outward rectifier potassium channel activity
+GO:0036094	F	0.11	small molecule binding
+GO:0003824	F	0.11	catalytic activity

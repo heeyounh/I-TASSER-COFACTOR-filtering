@@ -1,0 +1,58 @@
+GO:0050896	P	0.79	response to stimulus
+GO:0006950	P	0.77	response to stress
+GO:0009628	P	0.63	response to abiotic stimulus
+GO:0009408	P	0.60	response to heat
+GO:0065007	P	0.43	biological regulation
+GO:0009409	P	0.42	response to cold
+GO:0071704	P	0.39	organic substance metabolic process
+GO:0050789	P	0.39	regulation of biological process
+GO:0044237	P	0.37	cellular metabolic process
+GO:0050794	P	0.36	regulation of cellular process
+GO:0044238	P	0.36	primary metabolic process
+GO:0042221	P	0.30	response to chemical
+GO:0043170	P	0.28	macromolecule metabolic process
+GO:0044260	P	0.25	cellular macromolecule metabolic process
+GO:0006807	P	0.25	nitrogen compound metabolic process
+GO:0034641	P	0.24	cellular nitrogen compound metabolic process
+GO:0051234	P	0.21	establishment of localization
+GO:0048519	P	0.20	negative regulation of biological process
+GO:0006810	P	0.20	transport
+GO:1901360	P	0.19	organic cyclic compound metabolic process
+GO:0010033	P	0.19	response to organic substance
+GO:0060255	P	0.18	regulation of macromolecule metabolic process
+GO:0051716	P	0.18	cellular response to stimulus
+GO:0048523	P	0.18	negative regulation of cellular process
+GO:0046483	P	0.18	heterocycle metabolic process
+GO:0006725	P	0.18	cellular aromatic compound metabolic process
+GO:0080090	P	0.17	regulation of primary metabolic process
+GO:0065008	P	0.17	regulation of biological quality
+GO:0031323	P	0.17	regulation of cellular metabolic process
+GO:0019538	P	0.17	protein metabolic process
+GO:0016043	P	0.17	cellular component organization
+GO:0006457	P	0.17	protein folding
+GO:0006139	P	0.17	nucleobase-containing compound metabolic process
+GO:0048518	P	0.16	positive regulation of biological process
+GO:0033554	P	0.16	cellular response to stress
+GO:0009058	P	0.15	biosynthetic process
+GO:1901576	P	0.14	organic substance biosynthetic process
+GO:0044281	P	0.14	small molecule metabolic process
+GO:0044249	P	0.14	cellular biosynthetic process
+GO:0032502	P	0.14	developmental process
+GO:0048522	P	0.13	positive regulation of cellular process
+GO:0035966	P	0.13	response to topologically incorrect protein
+GO:0090304	P	0.12	nucleic acid metabolic process
+GO:0071702	P	0.12	organic substance transport
+GO:0051171	P	0.12	regulation of nitrogen compound metabolic process
+GO:0045184	P	0.12	establishment of protein localization
+GO:0031326	P	0.12	regulation of cellular biosynthetic process
+GO:0010468	P	0.12	regulation of gene expression
+GO:0006986	P	0.12	response to unfolded protein
+GO:2000112	P	0.11	regulation of cellular macromolecule biosynthetic process
+GO:0048856	P	0.11	anatomical structure development
+GO:0046907	P	0.11	intracellular transport
+GO:0044271	P	0.11	cellular nitrogen compound biosynthetic process
+GO:0044267	P	0.11	cellular protein metabolic process
+GO:0016070	P	0.11	RNA metabolic process
+GO:0015031	P	0.11	protein transport
+GO:0010605	P	0.11	negative regulation of macromolecule metabolic process
+GO:0009059	P	0.11	macromolecule biosynthetic process

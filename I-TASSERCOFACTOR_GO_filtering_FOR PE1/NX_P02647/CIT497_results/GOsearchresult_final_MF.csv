@@ -1,0 +1,20 @@
+GO:0097159	F	0.95	organic cyclic compound binding
+GO:0036094	F	0.95	small molecule binding
+GO:0060228	F	0.94	phosphatidylcholine-sterol O-acyltransferase activator activity
+GO:0022857	F	0.94	transmembrane transporter activity
+GO:0017127	F	0.94	cholesterol transporter activity
+GO:0015485	F	0.94	cholesterol binding
+GO:0043169	F	0.87	cation binding
+GO:0031210	F	0.83	phosphatidylcholine binding
+GO:0005102	F	0.63	signaling receptor binding
+GO:0070325	F	0.59	lipoprotein particle receptor binding
+GO:0070653	F	0.46	high-density lipoprotein particle receptor binding
+GO:0001540	F	0.25	amyloid-beta binding
+GO:0042802	F	0.17	identical protein binding
+GO:0046872	F	0.15	metal ion binding
+GO:1901363	F	0.13	heterocyclic compound binding
+GO:0050750	F	0.13	low-density lipoprotein particle receptor binding
+GO:0097367	F	0.12	carbohydrate derivative binding
+GO:0003824	F	0.12	catalytic activity
+GO:0070326	F	0.11	very-low-density lipoprotein particle receptor binding
+GO:0019899	F	0.11	enzyme binding

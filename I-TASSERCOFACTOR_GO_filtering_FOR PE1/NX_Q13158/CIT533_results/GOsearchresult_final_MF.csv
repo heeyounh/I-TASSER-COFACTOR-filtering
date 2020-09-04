@@ -1,0 +1,27 @@
+GO:0003824	F	0.68	catalytic activity
+GO:0016787	F	0.50	hydrolase activity
+GO:0070011	F	0.48	peptidase activity, acting on L-amino acid peptides
+GO:0008234	F	0.47	cysteine-type peptidase activity
+GO:0004175	F	0.47	endopeptidase activity
+GO:0004197	F	0.46	cysteine-type endopeptidase activity
+GO:0097153	F	0.45	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0019904	F	0.36	protein domain specific binding
+GO:0035877	F	0.32	death effector domain binding
+GO:0019899	F	0.28	enzyme binding
+GO:0005102	F	0.25	receptor binding
+GO:0016740	F	0.22	transferase activity
+GO:0005126	F	0.22	cytokine receptor binding
+GO:0042802	F	0.21	identical protein binding
+GO:0032813	F	0.21	tumor necrosis factor receptor superfamily binding
+GO:0016301	F	0.20	kinase activity
+GO:0004672	F	0.19	protein kinase activity
+GO:0097159	F	0.17	organic cyclic compound binding
+GO:0002020	F	0.17	protease binding
+GO:1901363	F	0.16	heterocyclic compound binding
+GO:0005123	F	0.16	death receptor binding
+GO:0060090	F	0.12	binding, bridging
+GO:0008092	F	0.12	cytoskeletal protein binding
+GO:0004871	F	0.12	signal transducer activity
+GO:0089720	F	0.11	caspase binding
+GO:0030507	F	0.11	spectrin binding
+GO:0008093	F	0.11	cytoskeletal adaptor activity

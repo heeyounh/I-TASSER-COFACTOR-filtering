@@ -1,0 +1,23 @@
+GO:0044425	C	0.99	membrane part
+GO:0031224	C	0.90	intrinsic component of membrane
+GO:0016021	C	0.89	integral component of membrane
+GO:0044464	C	0.87	cell part
+GO:0044424	C	0.49	intracellular part
+GO:0016020	C	0.49	membrane
+GO:0005886	C	0.39	plasma membrane
+GO:0044444	C	0.33	cytoplasmic part
+GO:0043226	C	0.27	organelle
+GO:0044459	C	0.25	plasma membrane part
+GO:0043229	C	0.25	intracellular organelle
+GO:0043227	C	0.25	membrane-bounded organelle
+GO:0043231	C	0.23	intracellular membrane-bounded organelle
+GO:0032991	C	0.23	macromolecular complex
+GO:0043234	C	0.22	protein complex
+GO:0098796	C	0.19	membrane protein complex
+GO:0034702	C	0.18	ion channel complex
+GO:0098797	C	0.15	plasma membrane protein complex
+GO:0044422	C	0.15	organelle part
+GO:0044446	C	0.14	intracellular organelle part
+GO:0034703	C	0.14	cation channel complex
+GO:0008076	C	0.13	voltage-gated potassium channel complex
+GO:0097458	C	0.11	neuron part

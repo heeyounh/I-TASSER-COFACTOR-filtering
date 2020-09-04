@@ -1,0 +1,14 @@
+GO:0004888	F	0.99	transmembrane signaling receptor activity
+GO:0004930	F	0.88	G-protein coupled receptor activity
+GO:0008227	F	0.32	G-protein coupled amine receptor activity
+GO:0008528	F	0.27	G-protein coupled peptide receptor activity
+GO:0097159	F	0.22	organic cyclic compound binding
+GO:0030594	F	0.19	neurotransmitter receptor activity
+GO:1901338	F	0.14	catecholamine binding
+GO:0005102	F	0.14	receptor binding
+GO:0042277	F	0.13	peptide binding
+GO:0008188	F	0.13	neuropeptide receptor activity
+GO:0004952	F	0.13	dopamine neurotransmitter receptor activity
+GO:0035240	F	0.12	dopamine binding
+GO:0004984	F	0.11	olfactory receptor activity
+GO:0004935	F	0.11	adrenergic receptor activity

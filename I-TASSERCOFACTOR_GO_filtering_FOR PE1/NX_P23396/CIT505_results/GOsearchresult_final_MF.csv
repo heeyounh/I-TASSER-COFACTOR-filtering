@@ -1,0 +1,16 @@
+GO:0003735	F	1.00	structural constituent of ribosome
+GO:1901363	F	0.97	heterocyclic compound binding
+GO:0097159	F	0.97	organic cyclic compound binding
+GO:0003676	F	0.96	nucleic acid binding
+GO:0016787	F	0.94	hydrolase activity
+GO:0019104	F	0.93	DNA N-glycosylase activity
+GO:0003906	F	0.93	DNA-(apurinic or apyrimidinic site) lyase activity
+GO:0003684	F	0.93	damaged DNA binding
+GO:0008534	F	0.92	oxidized purine nucleobase lesion DNA N-glycosylase activity
+GO:0003723	F	0.32	RNA binding
+GO:0000166	F	0.22	nucleotide binding
+GO:0035639	F	0.21	purine ribonucleoside triphosphate binding
+GO:0032555	F	0.21	purine ribonucleotide binding
+GO:0032550	F	0.21	purine ribonucleoside binding
+GO:0044822	F	0.12	poly(A) RNA binding
+GO:0005524	F	0.12	ATP binding

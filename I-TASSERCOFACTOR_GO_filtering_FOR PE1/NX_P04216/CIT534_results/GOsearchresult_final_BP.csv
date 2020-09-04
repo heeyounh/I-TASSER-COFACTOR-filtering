@@ -1,0 +1,24 @@
+GO:0051281	P	1.00	positive regulation of release of sequestered calcium ion into cytosol
+GO:0050870	P	1.00	positive regulation of T cell activation
+GO:0050852	P	1.00	T cell receptor signaling pathway
+GO:0050771	P	1.00	negative regulation of axonogenesis
+GO:0048041	P	1.00	focal adhesion assembly
+GO:0046549	P	1.00	retinal cone cell development
+GO:0030336	P	1.00	negative regulation of cell migration
+GO:0007010	P	1.00	cytoskeleton organization
+GO:0006469	P	1.00	negative regulation of protein kinase activity
+GO:0001525	P	1.00	angiogenesis
+GO:0007155	P	0.59	cell adhesion
+GO:0098609	P	0.58	cell-cell adhesion
+GO:0051336	P	0.58	regulation of hydrolase activity
+GO:0009966	P	0.58	regulation of signal transduction
+GO:0050860	P	0.57	negative regulation of T cell receptor signaling pathway
+GO:0043547	P	0.57	positive regulation of GTPase activity
+GO:0016337	P	0.57	single organismal cell-cell adhesion
+GO:0008152	P	0.22	metabolic process
+GO:0071704	P	0.18	organic substance metabolic process
+GO:0044238	P	0.16	primary metabolic process
+GO:0044237	P	0.16	cellular metabolic process
+GO:0043170	P	0.15	macromolecule metabolic process
+GO:0044260	P	0.13	cellular macromolecule metabolic process
+GO:0050896	P	0.11	response to stimulus

@@ -1,0 +1,57 @@
+GO:0009987	P	0.93	cellular process
+GO:0008152	P	0.93	metabolic process
+GO:0044237	P	0.90	cellular metabolic process
+GO:0071704	P	0.85	organic substance metabolic process
+GO:0034641	P	0.75	cellular nitrogen compound metabolic process
+GO:1901564	P	0.73	organonitrogen compound metabolic process
+GO:0006790	P	0.73	sulfur compound metabolic process
+GO:0006749	P	0.72	glutathione metabolic process
+GO:0044699	P	0.56	single-organism process
+GO:0065007	P	0.38	biological regulation
+GO:0044710	P	0.38	single-organism metabolic process
+GO:0050896	P	0.36	response to stimulus
+GO:0044763	P	0.36	single-organism cellular process
+GO:0050789	P	0.35	regulation of biological process
+GO:0050794	P	0.31	regulation of cellular process
+GO:0044281	P	0.27	small molecule metabolic process
+GO:0042221	P	0.26	response to chemical
+GO:0006805	P	0.25	xenobiotic metabolic process
+GO:0044238	P	0.22	primary metabolic process
+GO:1901360	P	0.21	organic cyclic compound metabolic process
+GO:0006950	P	0.20	response to stress
+GO:0006725	P	0.19	cellular aromatic compound metabolic process
+GO:0048518	P	0.18	positive regulation of biological process
+GO:0019222	P	0.18	regulation of metabolic process
+GO:0010033	P	0.18	response to organic substance
+GO:0080090	P	0.17	regulation of primary metabolic process
+GO:0031323	P	0.17	regulation of cellular metabolic process
+GO:1901576	P	0.16	organic substance biosynthetic process
+GO:0060255	P	0.16	regulation of macromolecule metabolic process
+GO:0048523	P	0.16	negative regulation of cellular process
+GO:0048522	P	0.16	positive regulation of cellular process
+GO:0044249	P	0.16	cellular biosynthetic process
+GO:0032502	P	0.16	developmental process
+GO:0009056	P	0.16	catabolic process
+GO:0044248	P	0.15	cellular catabolic process
+GO:0051716	P	0.14	cellular response to stimulus
+GO:0046483	P	0.14	heterocycle metabolic process
+GO:0070887	P	0.13	cellular response to chemical stimulus
+GO:0048583	P	0.13	regulation of response to stimulus
+GO:0044767	P	0.13	single-organism developmental process
+GO:0009893	P	0.13	positive regulation of metabolic process
+GO:1901700	P	0.12	response to oxygen-containing compound
+GO:0051239	P	0.12	regulation of multicellular organismal process
+GO:0044711	P	0.12	single-organism biosynthetic process
+GO:0031325	P	0.12	positive regulation of cellular metabolic process
+GO:0014070	P	0.12	response to organic cyclic compound
+GO:0009889	P	0.12	regulation of biosynthetic process
+GO:0006979	P	0.12	response to oxidative stress
+GO:0006629	P	0.12	lipid metabolic process
+GO:1901566	P	0.11	organonitrogen compound biosynthetic process
+GO:0098754	P	0.11	detoxification
+GO:0065009	P	0.11	regulation of molecular function
+GO:0048856	P	0.11	anatomical structure development
+GO:0042178	P	0.11	xenobiotic catabolic process
+GO:0032268	P	0.11	regulation of cellular protein metabolic process
+GO:0010556	P	0.11	regulation of macromolecule biosynthetic process
+GO:0009605	P	0.11	response to external stimulus

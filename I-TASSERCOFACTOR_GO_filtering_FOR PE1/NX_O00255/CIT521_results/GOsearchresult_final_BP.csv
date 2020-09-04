@@ -1,0 +1,92 @@
+GO:0080090	P	1.00	regulation of primary metabolic process
+GO:0060255	P	1.00	regulation of macromolecule metabolic process
+GO:0048523	P	1.00	negative regulation of cellular process
+GO:0031323	P	1.00	regulation of cellular metabolic process
+GO:0006355	P	0.97	regulation of transcription, DNA-templated
+GO:0009987	P	0.89	cellular process
+GO:0008152	P	0.86	metabolic process
+GO:0044260	P	0.85	cellular macromolecule metabolic process
+GO:0044238	P	0.85	primary metabolic process
+GO:0016043	P	0.84	cellular component organization
+GO:0051726	P	0.83	regulation of cell cycle
+GO:0043933	P	0.83	macromolecular complex subunit organization
+GO:0006464	P	0.83	cellular protein modification process
+GO:0045786	P	0.82	negative regulation of cell cycle
+GO:0006357	P	0.79	regulation of transcription from RNA polymerase II promoter
+GO:0018193	P	0.78	peptidyl-amino acid modification
+GO:0008285	P	0.78	negative regulation of cell proliferation
+GO:0006325	P	0.78	chromatin organization
+GO:0034968	P	0.77	histone lysine methylation
+GO:0044699	P	0.42	single-organism process
+GO:0031324	P	0.41	negative regulation of cellular metabolic process
+GO:0010605	P	0.41	negative regulation of macromolecule metabolic process
+GO:0045892	P	0.34	negative regulation of transcription, DNA-templated
+GO:0048518	P	0.33	positive regulation of biological process
+GO:0048522	P	0.32	positive regulation of cellular process
+GO:0032502	P	0.30	developmental process
+GO:0009893	P	0.30	positive regulation of metabolic process
+GO:0044767	P	0.29	single-organism developmental process
+GO:0031325	P	0.29	positive regulation of cellular metabolic process
+GO:0010604	P	0.29	positive regulation of macromolecule metabolic process
+GO:0050896	P	0.27	response to stimulus
+GO:0048856	P	0.27	anatomical structure development
+GO:0048583	P	0.25	regulation of response to stimulus
+GO:0044763	P	0.25	single-organism cellular process
+GO:0023051	P	0.24	regulation of signaling
+GO:0010646	P	0.24	regulation of cell communication
+GO:0009966	P	0.23	regulation of signal transduction
+GO:0051716	P	0.22	cellular response to stimulus
+GO:0045935	P	0.22	positive regulation of nucleobase-containing compound metabolic process
+GO:0031328	P	0.22	positive regulation of cellular biosynthetic process
+GO:0045893	P	0.21	positive regulation of transcription, DNA-templated
+GO:0034641	P	0.21	cellular nitrogen compound metabolic process
+GO:1901360	P	0.20	organic cyclic compound metabolic process
+GO:0032268	P	0.20	regulation of cellular protein metabolic process
+GO:0090304	P	0.19	nucleic acid metabolic process
+GO:0031399	P	0.19	regulation of protein modification process
+GO:0019220	P	0.19	regulation of phosphate metabolic process
+GO:0048869	P	0.18	cellular developmental process
+GO:0048584	P	0.18	positive regulation of response to stimulus
+GO:0048513	P	0.18	animal organ development
+GO:0045944	P	0.18	positive regulation of transcription from RNA polymerase II promoter
+GO:0001932	P	0.18	regulation of protein phosphorylation
+GO:1902531	P	0.17	regulation of intracellular signal transduction
+GO:0080134	P	0.17	regulation of response to stress
+GO:0044710	P	0.17	single-organism metabolic process
+GO:0031400	P	0.17	negative regulation of protein modification process
+GO:0009968	P	0.17	negative regulation of signal transduction
+GO:0009967	P	0.17	positive regulation of signal transduction
+GO:0006950	P	0.17	response to stress
+GO:0090092	P	0.16	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0046329	P	0.16	negative regulation of JNK cascade
+GO:0010212	P	0.16	response to ionizing radiation
+GO:0007165	P	0.16	signal transduction
+GO:0006974	P	0.16	cellular response to DNA damage stimulus
+GO:0065009	P	0.15	regulation of molecular function
+GO:0000122	P	0.15	negative regulation of transcription from RNA polymerase II promoter
+GO:0050790	P	0.14	regulation of catalytic activity
+GO:0032501	P	0.14	multicellular organismal process
+GO:0022402	P	0.14	cell cycle process
+GO:0065008	P	0.13	regulation of biological quality
+GO:0051239	P	0.13	regulation of multicellular organismal process
+GO:0044707	P	0.13	single-multicellular organism process
+GO:0032270	P	0.13	positive regulation of cellular protein metabolic process
+GO:0009653	P	0.13	anatomical structure morphogenesis
+GO:0051241	P	0.12	negative regulation of multicellular organismal process
+GO:0044093	P	0.12	positive regulation of molecular function
+GO:0044092	P	0.12	negative regulation of molecular function
+GO:0031401	P	0.12	positive regulation of protein modification process
+GO:0022414	P	0.12	reproductive process
+GO:0006796	P	0.12	phosphate-containing compound metabolic process
+GO:0006259	P	0.12	DNA metabolic process
+GO:1902807	P	0.11	negative regulation of cell cycle G1/S phase transition
+GO:0051348	P	0.11	negative regulation of transferase activity
+GO:0051098	P	0.11	regulation of binding
+GO:0051052	P	0.11	regulation of DNA metabolic process
+GO:0045596	P	0.11	negative regulation of cell differentiation
+GO:0035556	P	0.11	intracellular signal transduction
+GO:0030511	P	0.11	positive regulation of transforming growth factor beta receptor signaling pathway
+GO:0006468	P	0.11	protein phosphorylation
+GO:0006281	P	0.11	DNA repair
+GO:0002076	P	0.11	osteoblast development
+GO:0000079	P	0.11	regulation of cyclin-dependent protein serine/threonine kinase activity

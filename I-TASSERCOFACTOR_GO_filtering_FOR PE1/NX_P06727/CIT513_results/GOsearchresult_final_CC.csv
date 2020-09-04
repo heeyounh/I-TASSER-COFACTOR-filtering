@@ -1,0 +1,25 @@
+GO:0044421	C	0.99	extracellular region part
+GO:0032991	C	0.96	macromolecular complex
+GO:0072562	C	0.95	blood microparticle
+GO:0042627	C	0.95	chylomicron
+GO:0034364	C	0.95	high-density lipoprotein particle
+GO:0044464	C	0.54	cell part
+GO:0044424	C	0.44	intracellular part
+GO:0005576	C	0.39	extracellular region
+GO:0044444	C	0.36	cytoplasmic part
+GO:0043226	C	0.35	organelle
+GO:0043227	C	0.34	membrane-bounded organelle
+GO:0043231	C	0.24	intracellular membrane-bounded organelle
+GO:0034385	C	0.24	triglyceride-rich lipoprotein particle
+GO:0005615	C	0.23	extracellular space
+GO:0031988	C	0.20	membrane-bounded vesicle
+GO:0070062	C	0.19	extracellular exosome
+GO:0044446	C	0.18	intracellular organelle part
+GO:0016020	C	0.18	membrane
+GO:0005829	C	0.16	cytosol
+GO:0005773	C	0.16	vacuole
+GO:0005768	C	0.15	endosome
+GO:0034361	C	0.14	very-low-density lipoprotein particle
+GO:0034363	C	0.12	intermediate-density lipoprotein particle
+GO:0005769	C	0.12	early endosome
+GO:0044425	C	0.11	membrane part

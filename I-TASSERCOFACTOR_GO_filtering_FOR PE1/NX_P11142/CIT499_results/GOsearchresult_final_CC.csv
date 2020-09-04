@@ -1,0 +1,30 @@
+GO:0044464	C	0.99	cell part
+GO:0044424	C	0.97	intracellular part
+GO:0043226	C	0.81	organelle
+GO:0043229	C	0.78	intracellular organelle
+GO:0044444	C	0.74	cytoplasmic part
+GO:0043227	C	0.73	membrane-bounded organelle
+GO:0043231	C	0.69	intracellular membrane-bounded organelle
+GO:0044446	C	0.55	intracellular organelle part
+GO:0005634	C	0.47	nucleus
+GO:0032991	C	0.40	protein-containing complex
+GO:0005829	C	0.39	cytosol
+GO:0016020	C	0.38	membrane
+GO:0005737	C	0.36	cytoplasm
+GO:0044421	C	0.22	extracellular region part
+GO:0043232	C	0.22	intracellular non-membrane-bounded organelle
+GO:1990904	C	0.21	ribonucleoprotein complex
+GO:0044430	C	0.18	cytoskeletal part
+GO:0044428	C	0.18	nuclear part
+GO:0031982	C	0.17	vesicle
+GO:0044425	C	0.16	membrane part
+GO:1903561	C	0.15	extracellular vesicle
+GO:0031090	C	0.15	organelle membrane
+GO:0070062	C	0.14	extracellular exosome
+GO:0044429	C	0.14	mitochondrial part
+GO:0005886	C	0.14	plasma membrane
+GO:0005739	C	0.14	mitochondrion
+GO:0070013	C	0.13	intracellular organelle lumen
+GO:0030054	C	0.12	cell junction
+GO:0098588	C	0.11	bounding membrane of organelle
+GO:0005576	C	0.11	extracellular region

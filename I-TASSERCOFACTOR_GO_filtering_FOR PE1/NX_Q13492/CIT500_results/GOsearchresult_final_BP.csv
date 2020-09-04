@@ -1,0 +1,85 @@
+GO:0006810	P	0.90	transport
+GO:0006897	P	0.81	endocytosis
+GO:0065007	P	0.80	biological regulation
+GO:0009987	P	0.78	cellular process
+GO:0006898	P	0.77	receptor-mediated endocytosis
+GO:0050789	P	0.74	regulation of biological process
+GO:0044699	P	0.74	single-organism process
+GO:0050794	P	0.73	regulation of cellular process
+GO:0044763	P	0.71	single-organism cellular process
+GO:0016043	P	0.67	cellular component organization
+GO:0032879	P	0.64	regulation of localization
+GO:0051128	P	0.60	regulation of cellular component organization
+GO:0051049	P	0.60	regulation of transport
+GO:1902578	P	0.59	single-organism localization
+GO:0030100	P	0.59	regulation of endocytosis
+GO:0065008	P	0.56	regulation of biological quality
+GO:0044765	P	0.55	single-organism transport
+GO:0048518	P	0.53	positive regulation of biological process
+GO:0072583	P	0.52	clathrin-mediated endocytosis
+GO:0048522	P	0.52	positive regulation of cellular process
+GO:0022607	P	0.50	cellular component assembly
+GO:0048268	P	0.49	clathrin coat assembly
+GO:0032880	P	0.48	regulation of protein localization
+GO:0044767	P	0.47	single-organism developmental process
+GO:0006996	P	0.47	organelle organization
+GO:0080090	P	0.44	regulation of primary metabolic process
+GO:0060255	P	0.44	regulation of macromolecule metabolic process
+GO:0016050	P	0.44	vesicle organization
+GO:0031323	P	0.43	regulation of cellular metabolic process
+GO:0010942	P	0.43	positive regulation of cell death
+GO:0010604	P	0.42	positive regulation of macromolecule metabolic process
+GO:0008152	P	0.42	metabolic process
+GO:0048878	P	0.41	chemical homeostasis
+GO:0048523	P	0.41	negative regulation of cellular process
+GO:0048259	P	0.41	regulation of receptor-mediated endocytosis
+GO:0032268	P	0.41	regulation of cellular protein metabolic process
+GO:0031325	P	0.41	positive regulation of cellular metabolic process
+GO:0010468	P	0.41	regulation of gene expression
+GO:0071704	P	0.40	organic substance metabolic process
+GO:0051247	P	0.40	positive regulation of protein metabolic process
+GO:0051173	P	0.40	positive regulation of nitrogen compound metabolic process
+GO:0044237	P	0.40	cellular metabolic process
+GO:1902589	P	0.39	single-organism organelle organization
+GO:0055065	P	0.39	metal ion homeostasis
+GO:0051336	P	0.39	regulation of hydrolase activity
+GO:0032270	P	0.39	positive regulation of cellular protein metabolic process
+GO:0032269	P	0.39	negative regulation of cellular protein metabolic process
+GO:0030162	P	0.39	regulation of proteolysis
+GO:0006826	P	0.39	iron ion transport
+GO:1902963	P	0.38	negative regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process
+GO:1902961	P	0.38	positive regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process
+GO:1902004	P	0.38	positive regulation of beta-amyloid formation
+GO:1901216	P	0.38	positive regulation of neuron death
+GO:0097459	P	0.38	iron ion import into cell
+GO:0055072	P	0.38	iron ion homeostasis
+GO:0035459	P	0.38	cargo loading into vesicle
+GO:0016188	P	0.38	synaptic vesicle maturation
+GO:0010629	P	0.38	negative regulation of gene expression
+GO:0008283	P	0.38	cell proliferation
+GO:0044260	P	0.37	cellular macromolecule metabolic process
+GO:0048869	P	0.32	cellular developmental process
+GO:0032990	P	0.31	cell part morphogenesis
+GO:0030030	P	0.31	cell projection organization
+GO:0044710	P	0.30	single-organism metabolic process
+GO:0007409	P	0.30	axonogenesis
+GO:0009889	P	0.29	regulation of biosynthetic process
+GO:0045893	P	0.28	positive regulation of transcription, DNA-templated
+GO:0051649	P	0.26	establishment of localization in cell
+GO:0048261	P	0.26	negative regulation of receptor-mediated endocytosis
+GO:0031623	P	0.26	receptor internalization
+GO:0016197	P	0.26	endosomal transport
+GO:0048813	P	0.25	dendrite morphogenesis
+GO:0070201	P	0.19	regulation of establishment of protein localization
+GO:0051223	P	0.18	regulation of protein transport
+GO:0044238	P	0.17	primary metabolic process
+GO:0051641	P	0.16	cellular localization
+GO:0048856	P	0.16	anatomical structure development
+GO:0032940	P	0.16	secretion by cell
+GO:0008104	P	0.16	protein localization
+GO:2000369	P	0.15	regulation of clathrin-mediated endocytosis
+GO:0007269	P	0.15	neurotransmitter secretion
+GO:0048513	P	0.14	animal organ development
+GO:0048488	P	0.14	synaptic vesicle endocytosis
+GO:0030097	P	0.13	hemopoiesis
+GO:0015031	P	0.12	protein transport

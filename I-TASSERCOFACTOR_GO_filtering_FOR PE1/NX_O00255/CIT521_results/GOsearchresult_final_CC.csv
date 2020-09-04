@@ -1,0 +1,19 @@
+GO:0044428	C	1.00	nuclear part
+GO:0043234	C	0.96	protein complex
+GO:0035097	C	0.95	histone methyltransferase complex
+GO:0000785	C	0.91	chromatin
+GO:0043226	C	0.45	organelle
+GO:0043229	C	0.44	intracellular organelle
+GO:0043227	C	0.42	membrane-bounded organelle
+GO:0043231	C	0.40	intracellular membrane-bounded organelle
+GO:0005634	C	0.37	nucleus
+GO:0044444	C	0.32	cytoplasmic part
+GO:0005829	C	0.22	cytosol
+GO:0005654	C	0.18	nucleoplasm
+GO:0005737	C	0.17	cytoplasm
+GO:0044454	C	0.13	nuclear chromosome part
+GO:0016363	C	0.13	nuclear matrix
+GO:0032154	C	0.12	cleavage furrow
+GO:0016020	C	0.12	membrane
+GO:0000790	C	0.12	nuclear chromatin
+GO:0000784	C	0.12	nuclear chromosome, telomeric region

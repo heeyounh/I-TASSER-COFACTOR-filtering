@@ -1,0 +1,17 @@
+GO:0097159	F	0.86	organic cyclic compound binding
+GO:1901363	F	0.85	heterocyclic compound binding
+GO:0003824	F	0.84	catalytic activity
+GO:0003676	F	0.84	nucleic acid binding
+GO:0044877	F	0.83	macromolecular complex binding
+GO:0003677	F	0.83	DNA binding
+GO:0044212	F	0.82	transcription regulatory region DNA binding
+GO:0018024	F	0.82	histone-lysine N-methyltransferase activity
+GO:0003690	F	0.82	double-stranded DNA binding
+GO:0003682	F	0.82	chromatin binding
+GO:0000403	F	0.81	Y-form DNA binding
+GO:0043167	F	0.12	ion binding
+GO:0070412	F	0.11	R-SMAD binding
+GO:0047485	F	0.11	protein N-terminus binding
+GO:0046872	F	0.11	metal ion binding
+GO:0030674	F	0.11	protein binding, bridging
+GO:0000400	F	0.11	four-way junction DNA binding

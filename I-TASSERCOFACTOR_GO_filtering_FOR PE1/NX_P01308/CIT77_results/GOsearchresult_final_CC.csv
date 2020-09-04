@@ -1,0 +1,27 @@
+GO:0044464	C	0.83	cell part
+GO:0044421	C	0.81	extracellular region part
+GO:0005615	C	0.78	extracellular space
+GO:0044424	C	0.72	intracellular part
+GO:0044444	C	0.57	cytoplasmic part
+GO:0043226	C	0.45	organelle
+GO:0043227	C	0.43	membrane-bounded organelle
+GO:0043229	C	0.41	intracellular organelle
+GO:0043231	C	0.39	intracellular membrane-bounded organelle
+GO:0031982	C	0.30	vesicle
+GO:0044446	C	0.28	intracellular organelle part
+GO:0016020	C	0.28	membrane
+GO:0031410	C	0.26	cytoplasmic vesicle
+GO:0005576	C	0.26	extracellular region
+GO:0044425	C	0.23	membrane part
+GO:0005829	C	0.23	cytosol
+GO:0099503	C	0.22	secretory vesicle
+GO:0032991	C	0.21	protein-containing complex
+GO:0044459	C	0.17	plasma membrane part
+GO:0030133	C	0.17	transport vesicle
+GO:0098797	C	0.15	plasma membrane protein complex
+GO:0005886	C	0.15	plasma membrane
+GO:0070382	C	0.14	exocytic vesicle
+GO:0035867	C	0.14	alphav-beta3 integrin-IGF-1-IGF1R complex
+GO:0070013	C	0.12	intracellular organelle lumen
+GO:0005634	C	0.12	nucleus
+GO:0034774	C	0.11	secretory granule lumen
